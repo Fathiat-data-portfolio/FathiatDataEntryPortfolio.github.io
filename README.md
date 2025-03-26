@@ -37,12 +37,23 @@ Managing customer data efficiently is crucial for any business. This VBA-based s
 ## Insights Deep Dive
 ### Features Implemented:
 - **User Interface (GUI):**
+  This is the main sales form where users input customer details. It provides an intuitive interface for data entry and retrieval.
+  
   ![Sales Form](https://raw.githubusercontent.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/cef6f88bd962cf8d85cc385cdc00fcb0d2d4acd6/excel%20vba%20sales%20form.PNG)
+
 - **VBA Form Design & Layout:**
+  This image shows the structured layout of the form, designed for easy navigation and efficient data management.
+  
   ![VBA Design](https://raw.githubusercontent.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/c393f40d0bcb60febeb1eb33b12d0eb2bd02cdf9/excel%20form%20to%20vba%202.PNG)
+
 - **VBA Code for Database Interaction:**
+  This snippet highlights how VBA communicates with MySQL, ensuring smooth data transfer between the application and database.
+  
   ![VBA Code](https://raw.githubusercontent.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/5cd3175051688ec6238cc1cbf967fab1538b5523/Excel%20to%20vba%203.PNG)
+
 - **ODBC Data Source Configuration:**
+  This shows the ODBC connection setup, which enables Excel to connect seamlessly to the MySQL database.
+  
   ![ODBC Settings](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/excel%20odbc.PNG?raw=true)
 
 ### Key Functionalities:
@@ -79,6 +90,7 @@ End Sub
 - [VBA Documentation](https://docs.microsoft.com/en-us/office/vba/api/overview/excel)
 - [MySQL ODBC Connector](https://dev.mysql.com/doc/connector-odbc/en/)
 - [VBA with MySQL Tutorial](https://www.mysqltutorial.org/mysql-administration/odbc-driver-mysql/)
+
 
 
 
