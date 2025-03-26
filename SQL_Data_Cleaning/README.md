@@ -39,12 +39,12 @@ The dataset originally contained **numerous errors**, such as inconsistent forma
 - **Raw Data Before Cleaning**:
   The dataset initially contained missing values, duplicate entries, and unstandardized text formats.
   
-  ![Raw Data](https://raw.githubusercontent.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/main/layoffs.csv)
+  [View Raw Dataset](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/layoffs.csv)
 
 - **Cleaned Data After Processing**:
   After executing the SQL cleaning queries, the dataset became structured, free from duplicates, and ready for analysis.
   
-  ![Cleaned Data](https://raw.githubusercontent.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/main/Layoffs%20dataset%20cleaned%20in%20sql.csv)
+  [View Cleaned Dataset](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Layoffs%20dataset%20cleaned%20in%20sql.csv)
 
 ### Key Cleaning Techniques:
 1. **Removed Duplicates** using `DELETE` and `DISTINCT` functions.
@@ -80,4 +80,5 @@ WHERE total_laid_off IS NULL;
 - [SQL Data Cleaning Techniques](https://www.sqlshack.com/sql-data-cleaning-techniques/)
 - [MySQL Documentation](https://dev.mysql.com/doc/)
 - [CSV Best Practices](https://www.data-to-fish.com/csv-python/)
+
 
