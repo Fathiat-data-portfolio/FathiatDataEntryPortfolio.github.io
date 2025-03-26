@@ -29,7 +29,7 @@ Managing customer data efficiently is crucial for any business. This VBA-based s
 ## Insights Deep Dive
 ### Features Implemented:
 - **User Interface (GUI):**
-  ![Sales Form](https://raw.githubusercontent.com/YourUsername/YourRepo/main/excel_vba_sales_form.PNG)
+  ![Sales Form](https://raw.githubusercontent.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/main/excel_vba_sales_form.PNG)
 - **VBA Form Design & Layout:**
   ![VBA Design](https://raw.githubusercontent.com/YourUsername/YourRepo/main/excel_form_to_vba_2.PNG)
 - **VBA Code for Database Interaction:**
