@@ -44,7 +44,7 @@ The dataset originally contained **numerous errors**, such as inconsistent forma
 - **Cleaned Data After Processing**:
   After executing the SQL cleaning queries, the dataset became structured, free from duplicates, and ready for analysis.
   
-  [View Cleaned Dataset](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Layoffs%20dataset%20cleaned%20in%20sql.csv)
+  [View Cleaned Dataset]https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Layoffs%20dataset%20cleaned%20in%20sql.xlsm
 
 ### Key Cleaning Techniques:
 1. **Removed Duplicates** using `DELETE` and `DISTINCT` functions.
