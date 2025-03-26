@@ -20,7 +20,7 @@ This project demonstrates the process of **data entry and management of leads** 
 
 ## Dataset
 - **Raw Data (Entered Leads)**: [View Leads Data](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/custom_salesforce_leads_with_status.csv)
-- **Salesforce Leads Screenshot**:
+- **Salesforce Leads**:
   ![Salesforce Leads](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Sales%20force.PNG)
 
 ## Data Entry Process
