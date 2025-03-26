@@ -20,7 +20,6 @@ This project focuses on **manual data entry** from a **paper-based survey** into
 - **Paper-Based Surveys**: Original source of data.
 
 ## Dataset
-- **Raw Survey Data (Scanned Copy)**: [View Survey Data](#) *(Replace with actual link)*
 - **Entered Data in Excel**: [View Entered Data](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/survey_data.csv)
 
 ## Why Data Entry?
