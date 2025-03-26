@@ -19,7 +19,7 @@ This project focuses on **cleaning a raw dataset of layoffs** using **SQL**. The
 - **SQL (Structured Query Language)**: For data cleaning and transformation.
 - **MySQL**: Database management system used for storing and manipulating data.
 - **CSV Format**: Used for storing both raw and cleaned datasets.
-- **Excel**: For additional data validation and visualization.
+- **Excel**: For additional data validation.
 
 ## Why Data Cleaning?
 Data cleaning is essential for ensuring data quality, which leads to **better decision-making, more accurate analysis, and improved machine learning models**. The process helps in:
