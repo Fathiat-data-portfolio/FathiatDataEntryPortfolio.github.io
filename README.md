@@ -29,13 +29,13 @@ Managing customer data efficiently is crucial for any business. This VBA-based s
 ## Insights Deep Dive
 ### Features Implemented:
 - **User Interface (GUI):**
-  ![Sales Form](excel%20vba%20sales%20form.PNG)
+  ![Sales Form](https://raw.githubusercontent.com/YourUsername/YourRepo/main/excel_vba_sales_form.PNG)
 - **VBA Form Design & Layout:**
-  ![VBA Design](excel%20form%20to%20vba%202.PNG)
+  ![VBA Design](https://raw.githubusercontent.com/YourUsername/YourRepo/main/excel_form_to_vba_2.PNG)
 - **VBA Code for Database Interaction:**
-  ![VBA Code](Excel%20to%20vba%203.PNG)
+  ![VBA Code](https://raw.githubusercontent.com/YourUsername/YourRepo/main/Excel_to_vba_3.PNG)
 - **ODBC Data Source Configuration:**
-  ![ODBC Settings](excel%20odbc.PNG)
+  ![ODBC Settings](https://raw.githubusercontent.com/YourUsername/YourRepo/main/excel_odbc.PNG)
 
 ### Key Functionalities:
 1. **Insert New Customer Data** into MySQL from the VBA form.
@@ -71,6 +71,7 @@ End Sub
 - [VBA Documentation](https://docs.microsoft.com/en-us/office/vba/api/overview/excel)
 - [MySQL ODBC Connector](https://dev.mysql.com/doc/connector-odbc/en/)
 - [VBA with MySQL Tutorial](https://www.mysqltutorial.org/mysql-administration/odbc-driver-mysql/)
+
 
 
 
