@@ -21,7 +21,7 @@ This project focuses on **manual data entry** from a **paper-based survey** into
 
 ## Dataset
 - **Raw Survey Data (Scanned Copy)**: [View Survey Data](#) *(Replace with actual link)*
-- **Entered Data in Excel**: [View Entered Data](#) *(Replace with actual link)*
+- **Entered Data in Excel**: [View Entered Data](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/survey_data.csv)
 
 ## Why Data Entry?
 Data entry is an essential process for converting raw information into a structured format, making it easier for analysis and decision-making. Proper data entry helps to:
@@ -44,7 +44,7 @@ The dataset originally consisted of **handwritten survey responses**. Through ma
 - **Entered Data After Processing**:
   The responses were digitized, structured, and formatted correctly for analysis.
   
-  [View Entered Data](#) *(Replace with actual link)*
+  [View Entered Data](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/survey_data.csv)
 
 ### Key Data Entry Techniques:
 1. **Manual Data Entry with Validation** to prevent typographical errors.
@@ -61,4 +61,5 @@ The dataset originally consisted of **handwritten survey responses**. Through ma
 - [Data Entry Best Practices](https://www.dataentrybestpractices.com)
 - [How to Maintain Accuracy in Manual Data Entry](https://www.dataintegrity.com)
 - [Excel for Data Management](https://www.microsoft.com/excel)
+
 
