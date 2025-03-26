@@ -15,6 +15,12 @@
 ## Data Structure and Overview
 This project is an automated **Sales Form** built with **Excel VBA** and connected to **MySQL** using ODBC. The system allows users to **Insert, Update, Delete, and Refresh** customer records dynamically.
 
+## Tools
+- **Microsoft Excel**: For hosting the VBA script and form interface.
+- **VBA (Visual Basic for Applications)**: For automation and database interactions.
+- **MySQL**: For data storage and retrieval.
+- **ODBC (Open Database Connectivity)**: For connecting Excel with MySQL.
+
 ## Executive Summary
 Managing customer data efficiently is crucial for any business. This VBA-based sales form provides an **interactive GUI** for managing customer details, backed by a **MySQL database** for structured data storage. The project demonstrates:
 - **VBA UserForm for Data Entry**
@@ -57,12 +63,6 @@ Sub Show_Data()
 End Sub
 ```
 
-## Tools
-- **Microsoft Excel**: For hosting the VBA script and form interface.
-- **VBA (Visual Basic for Applications)**: For automation and database interactions.
-- **MySQL**: For data storage and retrieval.
-- **ODBC (Open Database Connectivity)**: For connecting Excel with MySQL.
-
 ## Limitations
 - **Requires ODBC Driver Setup**: Users must configure ODBC on their machine.
 - **Limited Error Handling**: The form does not handle all exceptions, e.g., invalid data types.
@@ -77,4 +77,5 @@ End Sub
 - [VBA Documentation](https://docs.microsoft.com/en-us/office/vba/api/overview/excel)
 - [MySQL ODBC Connector](https://dev.mysql.com/doc/connector-odbc/en/)
 - [VBA with MySQL Tutorial](https://www.mysqltutorial.org/mysql-administration/odbc-driver-mysql/)
+
 
