@@ -1,4 +1,4 @@
-# USA Beverage Sales Dashboard
+# Retail Beverage Sales Dashboard
 
 ## Project Overview
 This project analyzes and visualizes beverage sales data across different brands and retailers in the USA. The dataset includes sales, units sold, operating profit, and pricing information. The main objective is to create a **dynamic Excel dashboard** that provides insights into sales trends, brand performance, and regional distribution.
@@ -12,15 +12,6 @@ This project analyzes and visualizes beverage sales data across different brands
   - By **Quarterly Sales Trends**
 - **Data Visualizations**: Pivot tables, charts, and conditional formatting for easy analysis.
 
-## Repository Structure
-```
-/Sales-Dashboard-Project
-│── /data               # Contains raw datasets (CSV, Excel)
-│── /images             # Stores screenshots of dashboards & datasets
-│── /dashboard          # Contains the Excel dashboard file
-│── README.md           # Project description & details
-```
-
 ## Dataset
 The dataset contains:
 - **Retailer Information** (Retailer ID, Region, State, City)
@@ -30,8 +21,6 @@ The dataset contains:
 ## Tools Used
 - **Microsoft Excel**: Pivot tables, charts, formulas, and dashboard design
 - **Power Query**: Data transformation and cleaning
-- **MySQL** *(if applicable)*: Data storage and queries
-
 
 ### **Dataset Preview**
 ![Dataset Preview](images/usa_beverage_dataset.PNG)
