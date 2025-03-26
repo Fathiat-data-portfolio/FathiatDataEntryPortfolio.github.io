@@ -2,14 +2,15 @@
 
 ## Table of Contents
 1. [Data Structure and Overview](#data-structure-and-overview)
-2. [Executive Summary](#executive-summary)
-3. [Insights Deep Dive](#insights-deep-dive)
+2. [Tools](#tools)
+3. [Why VBA Automation?](#why-vba-automation)
+4. [Executive Summary](#executive-summary)
+5. [Insights Deep Dive](#insights-deep-dive)
    - [Features Implemented](#features-implemented)
    - [Key Functionalities](#key-functionalities)
    - [Code Snippet for Fetching Data](#code-snippet-for-fetching-data)
-4. [Tools](#tools)
-5. [Limitations](#limitations)
-6. [References](#references)
+6. [Limitations](#limitations)
+7. [References](#references)
 
 ## Data Structure and Overview
 This project is an automated **Sales Form** built with **Excel VBA** and connected to **MySQL** using ODBC. The system allows users to **Insert, Update, Delete, and Refresh** customer records dynamically.
@@ -20,6 +21,13 @@ This project is an automated **Sales Form** built with **Excel VBA** and connect
 - **MySQL**: For data storage and retrieval.
 - **ODBC (Open Database Connectivity)**: For connecting Excel with MySQL.
 
+## Why VBA Automation?
+Managing customer data manually in Excel can be time-consuming and prone to errors. By integrating VBA with MySQL, we achieve:
+- **Automated Data Entry**: Reducing manual input and errors.
+- **Faster Data Retrieval**: Fetching and updating records efficiently.
+- **Seamless Database Integration**: Ensuring data is stored securely in MySQL.
+- **Enhanced User Experience**: Using an interactive form instead of raw spreadsheets.
+
 ## Executive Summary
 Managing customer data efficiently is crucial for any business. This VBA-based sales form provides an **interactive GUI** for managing customer details, backed by a **MySQL database** for structured data storage. The project demonstrates:
 - **VBA UserForm for Data Entry**
@@ -29,13 +37,13 @@ Managing customer data efficiently is crucial for any business. This VBA-based s
 ## Insights Deep Dive
 ### Features Implemented:
 - **User Interface (GUI):**
-  ![Sales Form](https://raw.githubusercontent.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/main/excel_vba_sales_form.PNG)
+  ![Sales Form](https://raw.githubusercontent.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/cef6f88bd962cf8d85cc385cdc00fcb0d2d4acd6/excel%20vba%20sales%20form.PNG)
 - **VBA Form Design & Layout:**
-  ![VBA Design](https://raw.githubusercontent.com/YourUsername/YourRepo/main/excel_form_to_vba_2.PNG)
+  ![VBA Design](https://raw.githubusercontent.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/c393f40d0bcb60febeb1eb33b12d0eb2bd02cdf9/excel%20form%20to%20vba%202.PNG)
 - **VBA Code for Database Interaction:**
-  ![VBA Code](https://raw.githubusercontent.com/YourUsername/YourRepo/main/Excel_to_vba_3.PNG)
+  ![VBA Code](https://raw.githubusercontent.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/5cd3175051688ec6238cc1cbf967fab1538b5523/Excel%20to%20vba%203.PNG)
 - **ODBC Data Source Configuration:**
-  ![ODBC Settings](https://raw.githubusercontent.com/YourUsername/YourRepo/main/excel_odbc.PNG)
+  ![ODBC Settings](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/excel%20odbc.PNG?raw=true)
 
 ### Key Functionalities:
 1. **Insert New Customer Data** into MySQL from the VBA form.
@@ -71,7 +79,6 @@ End Sub
 - [VBA Documentation](https://docs.microsoft.com/en-us/office/vba/api/overview/excel)
 - [MySQL ODBC Connector](https://dev.mysql.com/doc/connector-odbc/en/)
 - [VBA with MySQL Tutorial](https://www.mysqltutorial.org/mysql-administration/odbc-driver-mysql/)
-
 
 
 
