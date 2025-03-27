@@ -19,18 +19,22 @@ The dataset contains:
 - **Operating Profit & Margins**
 
 ### **Dataset Preview**
-![Dataset Preview](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/usa%20beverage%20dataset.PNG)
+![Dataset Preview](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Excel_Dashboard/usa%20beverage%20dataset.PNG
+)
 
 ### **Sales Analysis Report**
-![Sales Analysis](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/analysis%20usa.PNG)
+![Sales Analysis](
+https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Excel_Dashboard/analysis%20usa.PNG)
 
 ### **Final Dashboard**
-![Dashboard](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/usa%20beverage%20dashboard%20new.PNG)
+![Dashboard](
+https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Excel_Dashboard/usa%20beverage%20dashboard%20new.PNG)
 
 ## Download Dataset & Dashboard
 - **Dataset (CSV Format)**: [Download Here](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Dashboard%20%20usa%20retail.csv)
-- **Sales Analysis CSV**: [Download Here](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Analysis%20csv.csv)
-- **Excel Dashboard File**: [Download Here](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Dashboard%20usa.xlsx)
+- **Sales Analysis CSV**: [Download Here](
+https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Excel_Dashboard/Analysis%20csv.csv)
+- **Excel Dashboard File**: [Download Here](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Excel_Dashboard/Dashboard%20usa.xlsx)
 
 ## How to Use
 1. Open the **Dashboard Excel file** in **Microsoft Excel**.
