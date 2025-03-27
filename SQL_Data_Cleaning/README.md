@@ -39,12 +39,13 @@ The dataset originally contained **numerous errors**, such as inconsistent forma
 - **Raw Data Before Cleaning**:
   The dataset initially contained missing values, duplicate entries, and unstandardized text formats.
   
-  [View Raw Dataset](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/layoffs.csv)
+  [View Raw Dataset](
+https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/SQL_Data_Cleaning/layoffs.csv)
 
 - **Cleaned Data After Processing**:
   After executing the SQL cleaning queries, the dataset became structured, free from duplicates, and ready for analysis.
   
-  [View Cleaned Dataset](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/672222a40608bef7a623bb44bb7a10fd72f0122f/layoffs%20data%20cleaned.csv)
+  [View Cleaned Dataset](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/SQL_Data_Cleaning/layoffs%20data%20cleaned.csv)
 
 ### Key Cleaning Techniques:
 1. **Removed Duplicates** using `DELETE` and `DISTINCT` functions.
