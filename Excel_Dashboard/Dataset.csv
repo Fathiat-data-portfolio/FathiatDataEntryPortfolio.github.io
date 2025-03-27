@@ -1,0 +1,1999 @@
+Usa Beverage Retailer  Dataset,,,,,,,,,,,
+,,,,,,,,,,,
+Retailer,Retailer ID,Invoice Date,Region,State,City,Beverage Brand,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin
+BevCo,1185732,1/1/2022,Northeast,New York,New York,Coca-Cola,$0.50 ,"12,000","$6,000 ","$3,000 ",50%
+BevCo,1185732,1/2/2022,Northeast,New York,New York,Diet Coke,$0.50 ,"10,000","$5,000 ","$1,500 ",30%
+BevCo,1185732,1/3/2022,Northeast,New York,New York,Sprite,$0.40 ,"10,000","$4,000 ","$1,400 ",35%
+BevCo,1185732,1/4/2022,Northeast,New York,New York,Fanta,$0.45 ,"8,500","$3,825 ","$1,339 ",35%
+BevCo,1185732,1/5/2022,Northeast,New York,New York,Powerade,$0.60 ,"9,000","$5,400 ","$1,620 ",30%
+BevCo,1185732,1/6/2022,Northeast,New York,New York,Dasani Water,$0.50 ,"10,000","$5,000 ","$1,250 ",25%
+BevCo,1185732,1/7/2022,Northeast,New York,New York,Coca-Cola,$0.50 ,"12,500","$6,250 ","$3,125 ",50%
+BevCo,1185732,1/8/2022,Northeast,New York,New York,Diet Coke,$0.50 ,"9,000","$4,500 ","$1,350 ",30%
+BevCo,1185732,1/21/2022,Northeast,New York,New York,Sprite,$0.40 ,"9,500","$3,800 ","$1,330 ",35%
+BevCo,1185732,1/22/2022,Northeast,New York,New York,Fanta,$0.45 ,"8,250","$3,713 ","$1,299 ",35%
+BevCo,1185732,1/23/2022,Northeast,New York,New York,Powerade,$0.60 ,"9,000","$5,400 ","$1,620 ",30%
+BevCo,1185732,1/24/2022,Northeast,New York,New York,Dasani Water,$0.50 ,"10,000","$5,000 ","$1,250 ",25%
+BevCo,1185732,1/25/2022,Northeast,New York,New York,Coca-Cola,$0.50 ,"12,200","$6,100 ","$3,050 ",50%
+BevCo,1185732,1/26/2022,Northeast,New York,New York,Diet Coke,$0.50 ,"9,250","$4,625 ","$1,388 ",30%
+BevCo,1185732,1/27/2022,Northeast,New York,New York,Sprite,$0.40 ,"9,500","$3,800 ","$1,330 ",35%
+BevCo,1185732,1/28/2022,Northeast,New York,New York,Fanta,$0.45 ,"8,000","$3,600 ","$1,260 ",35%
+BevCo,1185732,1/29/2022,Northeast,New York,New York,Powerade,$0.60 ,"8,500","$5,100 ","$1,530 ",30%
+BevCo,1185732,1/30/2022,Northeast,New York,New York,Dasani Water,$0.50 ,"9,500","$4,750 ","$1,188 ",25%
+BevCo,1185732,1/31/2022,Northeast,New York,New York,Coca-Cola,$0.50 ,"12,000","$6,000 ","$3,000 ",50%
+BevCo,1185732,2/1/2022,Northeast,New York,New York,Diet Coke,$0.50 ,"9,000","$4,500 ","$1,350 ",30%
+BevCo,1185732,2/2/2022,Northeast,New York,New York,Sprite,$0.40 ,"9,000","$3,600 ","$1,260 ",35%
+BevCo,1185732,2/3/2022,Northeast,New York,New York,Fanta,$0.45 ,"8,250","$3,713 ","$1,299 ",35%
+BevCo,1185732,2/4/2022,Northeast,New York,New York,Powerade,$0.60 ,"8,250","$4,950 ","$1,485 ",30%
+BevCo,1185732,2/5/2022,Northeast,New York,New York,Dasani Water,$0.50 ,"9,500","$4,750 ","$1,188 ",25%
+BevCo,1185732,2/6/2022,Northeast,New York,New York,Coca-Cola,$0.60 ,"12,200","$7,320 ","$3,660 ",50%
+BevCo,1185732,2/7/2022,Northeast,New York,New York,Diet Coke,$0.55 ,"9,250","$5,088 ","$1,526 ",30%
+BevCo,1185732,2/8/2022,Northeast,New York,New York,Sprite,$0.50 ,"9,000","$4,500 ","$1,575 ",35%
+Amazon,1185732,2/9/2022,Northeast,New York,New York,Fanta,$0.50 ,"8,500","$4,250 ","$1,488 ",35%
+Amazon,1185732,2/10/2022,Northeast,New York,New York,Powerade,$0.60 ,"8,750","$5,250 ","$1,575 ",30%
+Amazon,1185732,3/3/2022,Northeast,New York,New York,Dasani Water,$0.65 ,"10,000","$6,500 ","$1,625 ",25%
+Amazon,1185732,3/4/2022,Northeast,New York,New York,Coca-Cola,$0.60 ,"12,500","$7,500 ","$3,750 ",50%
+Amazon,1185732,3/5/2022,Northeast,New York,New York,Diet Coke,$0.55 ,"10,000","$5,500 ","$1,650 ",30%
+Amazon,1185732,3/6/2022,Northeast,New York,New York,Sprite,$0.50 ,"9,250","$4,625 ","$1,619 ",35%
+Amazon,1185732,3/7/2022,Northeast,New York,New York,Fanta,$0.50 ,"9,000","$4,500 ","$1,575 ",35%
+Amazon,1185732,3/8/2022,Northeast,New York,New York,Powerade,$0.60 ,"9,000","$5,400 ","$1,620 ",30%
+Amazon,1185732,3/9/2022,Northeast,New York,New York,Dasani Water,$0.65 ,"10,500","$6,825 ","$1,706 ",25%
+Amazon,1185732,3/10/2022,Northeast,New York,New York,Coca-Cola,$0.60 ,"12,750","$7,650 ","$3,825 ",50%
+Amazon,1185732,3/11/2022,Northeast,New York,New York,Diet Coke,$0.55 ,"10,250","$5,638 ","$1,691 ",30%
+Amazon,1185732,3/12/2022,Northeast,New York,New York,Sprite,$0.50 ,"9,500","$4,750 ","$1,663 ",35%
+Amazon,1185732,3/13/2022,Northeast,New York,New York,Fanta,$0.50 ,"9,000","$4,500 ","$1,575 ",35%
+Amazon,1185732,3/14/2022,Northeast,New York,New York,Powerade,$0.60 ,"9,250","$5,550 ","$1,665 ",30%
+Amazon,1185732,3/15/2022,Northeast,New York,New York,Dasani Water,$0.65 ,"11,000","$7,150 ","$1,788 ",25%
+Amazon,1185732,3/16/2022,Northeast,New York,New York,Coca-Cola,$0.60 ,"12,500","$7,500 ","$3,750 ",50%
+Amazon,1185732,3/17/2022,Northeast,New York,New York,Diet Coke,$0.55 ,"10,250","$5,638 ","$1,691 ",30%
+Amazon,1185732,3/18/2022,Northeast,New York,New York,Sprite,$0.50 ,"9,500","$4,750 ","$1,663 ",35%
+Amazon,1185732,3/31/2022,Northeast,New York,New York,Fanta,$0.50 ,"9,250","$4,625 ","$1,619 ",35%
+Amazon,1185732,4/17/2022,Northeast,New York,New York,Powerade,$0.60 ,"9,000","$5,400 ","$1,620 ",30%
+Amazon,1185732,4/18/2022,Northeast,New York,New York,Dasani Water,$0.65 ,"10,750","$6,988 ","$1,747 ",25%
+Amazon,1185732,4/19/2022,Northeast,New York,New York,Coca-Cola,$0.60 ,"12,000","$7,200 ","$3,600 ",50%
+Amazon,1185732,4/20/2022,Northeast,New York,New York,Diet Coke,$0.55 ,"10,000","$5,500 ","$1,650 ",30%
+Amazon,1185732,4/21/2022,Northeast,New York,New York,Sprite,$0.50 ,"9,250","$4,625 ","$1,619 ",35%
+Amazon,1185732,4/22/2022,Northeast,New York,New York,Fanta,$0.50 ,"9,000","$4,500 ","$1,575 ",35%
+Amazon,1185732,4/23/2022,Northeast,New York,New York,Powerade,$0.60 ,"9,000","$5,400 ","$1,620 ",30%
+Amazon,1185732,4/24/2022,Northeast,New York,New York,Dasani Water,$0.65 ,"10,000","$6,500 ","$1,625 ",25%
+Amazon,1185732,4/25/2022,Northeast,New York,New York,Powerade,$0.65 ,"8,750","$5,688 ","$1,706 ",30%
+Amazon,1185732,4/26/2022,Northeast,New York,New York,Dasani Water,$0.70 ,"10,000","$7,000 ","$1,750 ",25%
+Amazon,1185732,4/27/2022,Northeast,New York,New York,Coca-Cola,$0.65 ,"11,500","$7,475 ","$3,738 ",50%
+Amazon,1185732,4/28/2022,Northeast,New York,New York,Diet Coke,$0.55 ,"9,750","$5,363 ","$1,609 ",30%
+Amazon,1185732,4/29/2022,Northeast,New York,New York,Sprite,$0.55 ,"9,200","$5,060 ","$1,771 ",35%
+Amazon,1185732,4/30/2022,Northeast,New York,New York,Fanta,$0.55 ,"9,000","$4,950 ","$1,733 ",35%
+Amazon,1185732,5/1/2022,Northeast,New York,New York,Powerade,$0.65 ,"8,750","$5,688 ","$1,706 ",30%
+Amazon,1185732,5/2/2022,Northeast,New York,New York,Dasani Water,$0.70 ,"9,750","$6,825 ","$1,706 ",25%
+Amazon,1185732,5/3/2022,Northeast,New York,New York,Coca-Cola,$0.65 ,"12,000","$7,800 ","$3,900 ",50%
+Amazon,1185732,5/4/2022,Northeast,New York,New York,Diet Coke,$0.55 ,"10,000","$5,500 ","$1,650 ",30%
+Amazon,1185732,5/5/2022,Northeast,New York,New York,Sprite,$0.55 ,"9,500","$5,225 ","$1,829 ",35%
+Amazon,1185732,5/6/2022,Northeast,New York,New York,Fanta,$0.55 ,"9,000","$4,950 ","$1,733 ",35%
+Amazon,1185732,5/7/2022,Northeast,New York,New York,Powerade,$0.65 ,"9,000","$5,850 ","$1,755 ",30%
+Amazon,1185732,7/18/2022,Northeast,New York,New York,Dasani Water,$0.70 ,"10,000","$7,000 ","$1,750 ",25%
+Amazon,1197831,7/19/2022,Northeast,New York,New York,Coca-Cola,$0.25 ,"9,000","$2,250 ",$788 ,35%
+Amazon,1197831,7/20/2022,Northeast,New York,New York,Diet Coke,$0.35 ,"9,000","$3,150 ","$1,103 ",35%
+Amazon,1197831,7/21/2022,Northeast,New York,New York,Sprite,$0.35 ,"7,000","$2,450 ",$858 ,35%
+Amazon,1197831,7/22/2022,Northeast,New York,New York,Fanta,$0.35 ,"7,000","$2,450 ","$1,103 ",45%
+Amazon,1197831,7/23/2022,South,Texas,Houston,Powerade,$0.40 ,"5,500","$2,200 ",$660 ,30%
+Amazon,1197831,7/24/2022,South,Texas,Houston,Dasani Water,$0.35 ,"7,000","$2,450 ","$1,225 ",50%
+Amazon,1197831,7/25/2022,South,Texas,Houston,Coca-Cola,$0.25 ,"8,500","$2,125 ",$744 ,35%
+Amazon,1197831,7/26/2022,South,Texas,Houston,Diet Coke,$0.35 ,"8,500","$2,975 ","$1,041 ",35%
+Amazon,1197831,7/27/2022,South,Texas,Houston,Sprite,$0.35 ,"6,750","$2,363 ",$827 ,35%
+Amazon,1197831,7/28/2022,South,Texas,Houston,Fanta,$0.35 ,"6,250","$2,188 ",$984 ,45%
+Amazon,1197831,7/29/2022,South,Texas,Houston,Powerade,$0.40 ,"5,000","$2,000 ",$600 ,30%
+Amazon,1197831,7/30/2022,South,Texas,Houston,Dasani Water,$0.35 ,"7,000","$2,450 ","$1,225 ",50%
+Amazon,1197831,7/31/2022,South,Texas,Houston,Coca-Cola,$0.30 ,"8,750","$2,625 ",$919 ,35%
+Amazon,1197831,8/1/2022,South,Texas,Houston,Diet Coke,$0.40 ,"8,750","$3,500 ","$1,225 ",35%
+Amazon,1197831,8/2/2022,South,Texas,Houston,Sprite,$0.35 ,"7,000","$2,450 ",$858 ,35%
+FizzyCo,1197831,8/3/2022,South,Texas,Houston,Fanta,$0.40 ,"6,000","$2,400 ","$1,080 ",45%
+FizzyCo,1197831,8/4/2022,South,Texas,Houston,Powerade,$0.45 ,"5,000","$2,250 ",$675 ,30%
+FizzyCo,1197831,8/5/2022,South,Texas,Houston,Dasani Water,$0.40 ,"6,500","$2,600 ","$1,300 ",50%
+FizzyCo,1197831,8/6/2022,South,Texas,Houston,Coca-Cola,$0.30 ,"9,000","$2,700 ",$945 ,35%
+FizzyCo,1197831,8/7/2022,South,Texas,Houston,Diet Coke,$0.40 ,"9,000","$3,600 ","$1,260 ",35%
+FizzyCo,1197831,8/8/2022,South,Texas,Houston,Sprite,$0.35 ,"7,250","$2,538 ",$888 ,35%
+FizzyCo,1197831,8/9/2022,South,Texas,Houston,Fanta,$0.40 ,"6,250","$2,500 ","$1,125 ",45%
+Walmart,1197831,8/10/2022,South,Texas,Houston,Powerade,$0.45 ,"5,250","$2,363 ",$709 ,30%
+Walmart,1197831,8/11/2022,South,Texas,Houston,Dasani Water,$0.40 ,"8,000","$3,200 ","$1,600 ",50%
+Walmart,1197831,8/12/2022,South,Texas,Houston,Coca-Cola,$0.30 ,"9,250","$2,775 ",$971 ,35%
+Walmart,1197831,8/13/2022,South,Texas,Houston,Diet Coke,$0.40 ,"9,250","$3,700 ","$1,295 ",35%
+Walmart,1197831,8/14/2022,South,Texas,Houston,Sprite,$0.35 ,"7,750","$2,713 ",$949 ,35%
+Walmart,1197831,8/15/2022,South,Texas,Houston,Fanta,$0.40 ,"7,000","$2,800 ","$1,260 ",45%
+Walmart,1197831,8/16/2022,South,Texas,Houston,Powerade,$0.45 ,"6,000","$2,700 ",$810 ,30%
+Walmart,1197831,8/17/2022,South,Texas,Houston,Dasani Water,$0.40 ,"9,500","$3,800 ","$1,900 ",50%
+Walmart,1197831,8/18/2022,South,Texas,Houston,Coca-Cola,$0.40 ,"9,500","$3,800 ","$1,330 ",35%
+Walmart,1197831,8/19/2022,South,Texas,Houston,Diet Coke,$0.45 ,"9,500","$4,275 ","$1,496 ",35%
+Walmart,1197831,8/20/2022,South,Texas,Houston,Sprite,$0.40 ,"8,000","$3,200 ","$1,120 ",35%
+Walmart,1197831,8/21/2022,South,Texas,Houston,Fanta,$0.40 ,"7,500","$3,000 ","$1,350 ",45%
+Walmart,1197831,8/22/2022,South,Texas,Houston,Powerade,$0.45 ,"6,500","$2,925 ",$878 ,30%
+Walmart,1197831,8/23/2022,South,Texas,Houston,Dasani Water,$0.50 ,"10,000","$5,000 ","$2,500 ",50%
+Walmart,1197831,8/24/2022,South,Texas,Houston,Coca-Cola,$0.40 ,"9,500","$3,800 ","$1,330 ",35%
+Walmart,1197831,8/25/2022,South,Texas,Houston,Diet Coke,$0.45 ,"9,500","$4,275 ","$1,496 ",35%
+Walmart,1197831,8/26/2022,South,Texas,Houston,Sprite,$0.40 ,"11,000","$4,400 ","$1,540 ",35%
+Walmart,1197831,8/27/2022,South,Texas,Houston,Fanta,$0.40 ,"7,000","$2,800 ","$1,260 ",45%
+Walmart,1197831,8/28/2022,South,Texas,Houston,Powerade,$0.45 ,"7,000","$3,150 ",$945 ,30%
+Walmart,1197831,8/29/2022,South,Texas,Houston,Dasani Water,$0.50 ,"9,750","$4,875 ","$2,438 ",50%
+Walmart,1197831,8/30/2022,South,Texas,Houston,Coca-Cola,$0.40 ,"9,250","$3,700 ","$1,295 ",35%
+Walmart,1197831,8/31/2022,South,Texas,Houston,Diet Coke,$0.45 ,"9,250","$4,163 ","$1,457 ",35%
+Walmart,1197831,9/1/2022,South,Texas,Houston,Sprite,$0.40 ,"11,000","$4,400 ","$1,540 ",35%
+Walmart,1197831,9/2/2022,South,Texas,Houston,Fanta,$0.40 ,"6,500","$2,600 ","$1,170 ",45%
+Walmart,1197831,9/3/2022,South,Texas,Houston,Powerade,$0.45 ,"6,500","$2,925 ",$878 ,30%
+Walmart,1197831,9/4/2022,South,Texas,Houston,Dasani Water,$0.50 ,"9,000","$4,500 ","$2,250 ",50%
+Walmart,1197831,9/5/2022,South,Texas,Houston,Coca-Cola,$0.45 ,"8,500","$3,825 ","$1,339 ",35%
+Walmart,1197831,9/6/2022,South,Texas,Houston,Diet Coke,$0.45 ,"8,500","$3,825 ","$1,339 ",35%
+Walmart,1197831,9/7/2022,South,Texas,Houston,Sprite,$0.50 ,"9,000","$4,500 ","$1,575 ",35%
+Walmart,1197831,9/8/2022,South,Texas,Houston,Fanta,$0.50 ,"6,250","$3,125 ","$1,406 ",45%
+Walmart,1197831,9/9/2022,South,Texas,Houston,Powerade,$0.45 ,"6,250","$2,813 ",$844 ,30%
+Walmart,1197831,9/10/2022,South,Texas,Houston,Dasani Water,$0.55 ,"8,500","$4,675 ","$2,338 ",50%
+Walmart,1197831,9/11/2022,South,Texas,Houston,Coca-Cola,$0.45 ,"8,000","$3,600 ","$1,260 ",35%
+Walmart,1197831,9/12/2022,South,Texas,Houston,Diet Coke,$0.45 ,"8,000","$3,600 ","$1,260 ",35%
+Walmart,1197831,9/13/2022,South,Texas,Houston,Sprite,$0.50 ,"7,500","$3,750 ","$1,313 ",35%
+Walmart,1197831,9/14/2022,South,Texas,Houston,Fanta,$0.50 ,"6,000","$3,000 ","$1,350 ",45%
+Walmart,1197831,9/15/2022,South,Texas,Houston,Powerade,$0.45 ,"5,750","$2,588 ",$776 ,30%
+Walmart,1197831,9/16/2022,South,Texas,Houston,Dasani Water,$0.55 ,"7,500","$4,125 ","$2,063 ",50%
+Walmart,1197831,10/20/2022,South,Texas,Houston,Coca-Cola,$0.45 ,"9,000","$4,050 ","$1,418 ",35%
+Walmart,1197831,10/21/2022,South,Texas,Houston,Diet Coke,$0.45 ,"9,000","$4,050 ","$1,418 ",35%
+Walmart,1197831,10/22/2022,South,Texas,Houston,Sprite,$0.50 ,"8,250","$4,125 ","$1,444 ",35%
+Walmart,1197831,10/23/2022,South,Texas,Houston,Fanta,$0.50 ,"6,750","$3,375 ","$1,519 ",45%
+Walmart,1197831,10/24/2022,South,Texas,Houston,Powerade,$0.45 ,"6,500","$2,925 ",$878 ,30%
+Walmart,1197831,10/25/2022,South,Texas,Houston,Dasani Water,$0.55 ,"8,500","$4,675 ","$2,338 ",50%
+Walmart,1197831,10/26/2022,South,Texas,Houston,Coca-Cola,$0.45 ,"9,500","$4,275 ","$1,496 ",35%
+Walmart,1197831,10/27/2022,South,Texas,Houston,Diet Coke,$0.45 ,"9,500","$4,275 ","$1,496 ",35%
+Walmart,1197831,10/28/2022,South,Texas,Houston,Sprite,$0.50 ,"8,500","$4,250 ","$1,488 ",35%
+Walmart,1197831,10/29/2022,South,Texas,Houston,Fanta,$0.50 ,"7,000","$3,500 ","$1,575 ",45%
+Walmart,1197831,10/30/2022,South,Texas,Houston,Powerade,$0.45 ,"6,500","$2,925 ",$878 ,30%
+Walmart,1197831,10/31/2022,South,Texas,Houston,Dasani Water,$0.55 ,"9,000","$4,950 ","$2,475 ",50%
+West Soda,1128299,11/1/2022,South,Texas,Houston,Coca-Cola,$0.40 ,"7,750","$3,100 ","$1,085 ",35%
+West Soda,1128299,11/2/2022,South,Texas,Houston,Diet Coke,$0.50 ,"7,750","$3,875 ",$775 ,20%
+West Soda,1128299,11/3/2022,South,Texas,Houston,Sprite,$0.50 ,"7,750","$3,875 ","$1,356 ",35%
+West Soda,1128299,11/4/2022,South,Texas,Houston,Fanta,$0.50 ,"6,250","$3,125 ",$938 ,30%
+West Soda,1128299,11/5/2022,West,California,San Francisco,Powerade,$0.55 ,"5,750","$3,163 ","$1,581 ",50%
+West Soda,1128299,11/6/2022,West,California,San Francisco,Dasani Water,$0.50 ,"7,750","$3,875 ",$581 ,15%
+West Soda,1128299,11/7/2022,West,California,San Francisco,Coca-Cola,$0.40 ,"8,250","$3,300 ","$1,155 ",35%
+West Soda,1128299,11/8/2022,West,California,San Francisco,Diet Coke,$0.50 ,"7,250","$3,625 ",$725 ,20%
+West Soda,1128299,11/9/2022,West,California,San Francisco,Sprite,$0.50 ,"7,250","$3,625 ","$1,269 ",35%
+West Soda,1128299,11/10/2022,West,California,San Francisco,Fanta,$0.50 ,"5,750","$2,875 ",$863 ,30%
+West Soda,1128299,11/11/2022,West,California,San Francisco,Powerade,$0.55 ,"5,000","$2,750 ","$1,375 ",50%
+West Soda,1128299,11/12/2022,West,California,San Francisco,Dasani Water,$0.50 ,"7,000","$3,500 ",$525 ,15%
+West Soda,1128299,11/13/2022,West,California,San Francisco,Coca-Cola,$0.50 ,"8,500","$4,250 ","$1,488 ",35%
+West Soda,1128299,11/14/2022,West,California,San Francisco,Diet Coke,$0.60 ,"7,000","$4,200 ",$840 ,20%
+West Soda,1128299,11/15/2022,West,California,San Francisco,Sprite,$0.60 ,"7,000","$4,200 ","$1,470 ",35%
+West Soda,1128299,12/22/2022,West,California,San Francisco,Fanta,$0.60 ,"6,000","$3,600 ","$1,080 ",30%
+West Soda,1128299,12/23/2022,West,California,San Francisco,Powerade,$0.65 ,"5,000","$3,250 ","$1,625 ",50%
+West Soda,1128299,12/24/2022,West,California,San Francisco,Dasani Water,$0.60 ,"7,000","$4,200 ",$630 ,15%
+West Soda,1128299,12/25/2022,West,California,San Francisco,Coca-Cola,$0.60 ,"8,750","$5,250 ","$1,838 ",35%
+West Soda,1128299,12/26/2022,West,California,San Francisco,Diet Coke,$0.65 ,"6,750","$4,388 ",$878 ,20%
+West Soda,1128299,12/27/2022,West,California,San Francisco,Sprite,$0.65 ,"7,250","$4,713 ","$1,649 ",35%
+West Soda,1128299,12/28/2022,West,California,San Francisco,Fanta,$0.60 ,"6,250","$3,750 ","$1,125 ",30%
+West Soda,1128299,12/29/2022,West,California,San Francisco,Powerade,$0.65 ,"5,250","$3,413 ","$1,706 ",50%
+West Soda,1128299,12/30/2022,West,California,San Francisco,Dasani Water,$0.80 ,"7,000","$5,600 ",$840 ,15%
+West Soda,1128299,12/31/2022,West,California,San Francisco,Coca-Cola,$0.60 ,"9,000","$5,400 ","$2,160 ",40%
+West Soda,1128299,1/1/2023,West,California,San Francisco,Diet Coke,$0.65 ,"7,500","$4,875 ","$1,219 ",25%
+West Soda,1128299,1/2/2023,West,California,San Francisco,Sprite,$0.65 ,"7,500","$4,875 ","$1,950 ",40%
+West Soda,1128299,1/3/2023,West,California,San Francisco,Fanta,$0.60 ,"6,500","$3,900 ","$1,365 ",35%
+West Soda,1128299,1/4/2023,West,California,San Francisco,Powerade,$0.65 ,"5,500","$3,575 ","$1,966 ",55%
+West Soda,1128299,1/5/2023,West,California,San Francisco,Dasani Water,$0.80 ,"7,250","$5,800 ","$1,160 ",20%
+West Soda,1128299,1/6/2023,West,California,San Francisco,Coca-Cola,$0.60 ,"9,750","$5,850 ","$2,340 ",40%
+West Soda,1128299,1/7/2023,West,California,San Francisco,Diet Coke,$0.65 ,"8,250","$5,363 ","$1,341 ",25%
+West Soda,1128299,1/8/2023,West,California,San Francisco,Sprite,$0.65 ,"8,250","$5,363 ","$2,145 ",40%
+West Soda,1128299,1/9/2023,West,California,San Francisco,Fanta,$0.60 ,"7,000","$4,200 ","$1,470 ",35%
+West Soda,1128299,1/10/2023,West,California,San Francisco,Powerade,$0.65 ,"5,750","$3,738 ","$2,056 ",55%
+West Soda,1128299,1/11/2023,West,California,San Francisco,Dasani Water,$0.80 ,"8,750","$7,000 ","$1,400 ",20%
+West Soda,1128299,1/12/2023,West,California,San Francisco,Coca-Cola,$0.60 ,"10,250","$6,150 ","$2,153 ",35%
+West Soda,1128299,1/13/2023,West,California,San Francisco,Diet Coke,$0.65 ,"8,750","$5,688 ","$1,138 ",20%
+West Soda,1128299,1/14/2023,West,California,San Francisco,Sprite,$0.65 ,"8,250","$5,363 ","$1,877 ",35%
+West Soda,1128299,1/15/2023,West,California,San Francisco,Fanta,$0.60 ,"7,250","$4,350 ","$1,305 ",30%
+West Soda,1128299,1/16/2023,West,California,San Francisco,Powerade,$0.65 ,"7,750","$5,038 ","$2,519 ",50%
+West Soda,1128299,1/17/2023,West,California,San Francisco,Dasani Water,$0.80 ,"7,750","$6,200 ",$930 ,15%
+West Soda,1128299,1/18/2023,West,California,San Francisco,Coca-Cola,$0.65 ,"9,750","$6,338 ","$2,218 ",35%
+West Soda,1128299,1/19/2023,West,California,San Francisco,Diet Coke,$0.70 ,"9,250","$6,475 ","$1,295 ",20%
+West Soda,1128299,1/20/2023,West,California,San Francisco,Sprite,$0.65 ,"8,000","$5,200 ","$1,820 ",35%
+West Soda,1128299,1/21/2023,West,California,San Francisco,Fanta,$0.65 ,"7,500","$4,875 ","$1,463 ",30%
+West Soda,1128299,1/22/2023,West,California,San Francisco,Powerade,$0.75 ,"7,500","$5,625 ","$2,813 ",50%
+West Soda,1128299,1/23/2023,West,California,San Francisco,Dasani Water,$0.80 ,"7,250","$5,800 ",$870 ,15%
+West Soda,1128299,1/24/2023,West,California,San Francisco,Coca-Cola,$0.55 ,"9,250","$5,088 ","$1,526 ",30%
+West Soda,1128299,1/25/2023,West,California,San Francisco,Diet Coke,$0.60 ,"9,250","$5,550 ",$833 ,15%
+West Soda,1128299,1/26/2023,West,California,San Francisco,Sprite,$0.55 ,"7,750","$4,263 ","$1,279 ",30%
+West Soda,1128299,1/27/2023,West,California,San Francisco,Fanta,$0.55 ,"7,250","$3,988 ",$997 ,25%
+West Soda,1128299,1/28/2023,West,California,San Francisco,Powerade,$0.65 ,"7,250","$4,713 ","$2,121 ",45%
+West Soda,1128299,1/29/2023,West,California,San Francisco,Dasani Water,$0.70 ,"7,750","$5,425 ",$543 ,10%
+West Soda,1128299,1/30/2023,West,California,San Francisco,Coca-Cola,$0.55 ,"8,750","$4,813 ","$1,444 ",30%
+West Soda,1128299,1/31/2023,West,California,San Francisco,Diet Coke,$0.60 ,"8,750","$5,250 ",$788 ,15%
+West Soda,1128299,2/1/2023,West,California,San Francisco,Sprite,$0.55 ,"7,000","$3,850 ","$1,155 ",30%
+West Soda,1128299,2/2/2023,West,California,San Francisco,Fanta,$0.55 ,"6,750","$3,713 ",$928 ,25%
+West Soda,1128299,2/3/2023,West,California,San Francisco,Powerade,$0.65 ,"6,500","$4,225 ","$1,901 ",45%
+West Soda,1128299,2/4/2023,West,California,San Francisco,Dasani Water,$0.70 ,"7,000","$4,900 ",$490 ,10%
+West Soda,1128299,2/5/2023,West,California,San Francisco,Coca-Cola,$0.55 ,"8,750","$4,813 ","$1,444 ",30%
+West Soda,1128299,2/6/2023,West,California,San Francisco,Diet Coke,$0.60 ,"8,750","$5,250 ",$788 ,15%
+West Soda,1128299,2/7/2023,West,California,San Francisco,Sprite,$0.55 ,"7,250","$3,988 ","$1,196 ",30%
+West Soda,1128299,2/8/2023,West,California,San Francisco,Fanta,$0.55 ,"7,000","$3,850 ",$963 ,25%
+West Soda,1128299,2/9/2023,West,California,San Francisco,Powerade,$0.65 ,"6,500","$4,225 ","$1,901 ",45%
+West Soda,1128299,2/10/2023,West,California,San Francisco,Dasani Water,$0.70 ,"7,750","$5,425 ",$543 ,10%
+West Soda,1128299,2/11/2023,West,California,San Francisco,Coca-Cola,$0.55 ,"9,750","$5,363 ","$1,609 ",30%
+West Soda,1128299,2/12/2023,West,California,San Francisco,Diet Coke,$0.60 ,"9,750","$5,850 ",$878 ,15%
+West Soda,1128299,2/13/2023,West,California,San Francisco,Sprite,$0.55 ,"7,750","$4,263 ","$1,279 ",30%
+West Soda,1128299,2/14/2023,West,California,San Francisco,Fanta,$0.55 ,"7,750","$4,263 ","$1,066 ",25%
+West Soda,1128299,2/15/2023,West,California,San Francisco,Powerade,$0.65 ,"7,000","$4,550 ","$2,048 ",45%
+West Soda,1128299,2/16/2023,West,California,San Francisco,Dasani Water,$0.70 ,"8,000","$5,600 ",$560 ,10%
+Target,1189833,2/17/2023,West,California,San Francisco,Coca-Cola,$0.35 ,"7,000","$2,450 ",$980 ,40%
+Target,1189833,2/18/2023,West,California,San Francisco,Diet Coke,$0.45 ,"7,000","$3,150 ",$788 ,25%
+Target,1189833,3/9/2023,West,California,San Francisco,Sprite,$0.45 ,"7,000","$3,150 ","$1,260 ",40%
+Target,1189833,3/10/2023,West,California,San Francisco,Fanta,$0.45 ,"5,500","$2,475 ",$866 ,35%
+Target,1189833,3/11/2023,West,California,Los Angeles,Powerade,$0.50 ,"5,000","$2,500 ","$1,375 ",55%
+Target,1189833,3/12/2023,West,California,Los Angeles,Dasani Water,$0.45 ,"7,000","$3,150 ",$630 ,20%
+Target,1189833,3/13/2023,West,California,Los Angeles,Coca-Cola,$0.35 ,"7,500","$2,625 ","$1,050 ",40%
+Target,1189833,3/14/2023,West,California,Los Angeles,Diet Coke,$0.45 ,"6,500","$2,925 ",$731 ,25%
+Target,1189833,3/15/2023,West,California,Los Angeles,Sprite,$0.45 ,"6,750","$3,038 ","$1,215 ",40%
+Target,1189833,3/16/2023,West,California,Los Angeles,Fanta,$0.45 ,"5,250","$2,363 ",$827 ,35%
+Target,1189833,3/17/2023,West,California,Los Angeles,Powerade,$0.50 ,"4,500","$2,250 ","$1,238 ",55%
+Target,1189833,3/18/2023,West,California,Los Angeles,Dasani Water,$0.45 ,"6,500","$2,925 ",$585 ,20%
+Target,1189833,3/19/2023,West,California,Los Angeles,Coca-Cola,$0.35 ,"8,000","$2,800 ","$1,120 ",40%
+Target,1189833,3/20/2023,West,California,Los Angeles,Diet Coke,$0.45 ,"6,500","$2,925 ",$731 ,25%
+Target,1189833,3/21/2023,West,California,Los Angeles,Sprite,$0.45 ,"6,500","$2,925 ","$1,170 ",40%
+Target,1189833,3/22/2023,West,California,Los Angeles,Fanta,$0.45 ,"5,500","$2,475 ",$866 ,35%
+Target,1189833,3/23/2023,West,California,Los Angeles,Powerade,$0.50 ,"4,250","$2,125 ","$1,169 ",55%
+Target,1189833,4/6/2023,West,California,Los Angeles,Dasani Water,$0.45 ,"6,250","$2,813 ",$563 ,20%
+Target,1189833,4/7/2023,West,California,Los Angeles,Coca-Cola,$0.45 ,"8,000","$3,600 ","$1,440 ",40%
+Target,1189833,4/8/2023,West,California,Los Angeles,Diet Coke,$0.50 ,"6,000","$3,000 ",$750 ,25%
+Target,1189833,4/9/2023,West,California,Los Angeles,Sprite,$0.50 ,"6,250","$3,125 ","$1,250 ",40%
+Target,1189833,4/10/2023,West,California,Los Angeles,Fanta,$0.45 ,"5,250","$2,363 ",$827 ,35%
+Target,1189833,4/11/2023,West,California,Los Angeles,Powerade,$0.50 ,"4,250","$2,125 ","$1,169 ",55%
+Target,1189833,4/12/2023,West,California,Los Angeles,Dasani Water,$0.65 ,"6,000","$3,900 ",$780 ,20%
+Target,1189833,4/13/2023,West,California,Los Angeles,Coca-Cola,$0.45 ,"8,000","$3,600 ","$1,440 ",40%
+Target,1189833,4/14/2023,West,California,Los Angeles,Diet Coke,$0.50 ,"6,500","$3,250 ",$813 ,25%
+Target,1189833,4/15/2023,West,California,Los Angeles,Sprite,$0.50 ,"6,500","$3,250 ","$1,300 ",40%
+Target,1189833,4/16/2023,West,California,Los Angeles,Fanta,$0.45 ,"5,500","$2,475 ",$866 ,35%
+Target,1189833,4/17/2023,West,California,Los Angeles,Powerade,$0.50 ,"4,500","$2,250 ","$1,238 ",55%
+Target,1189833,4/18/2023,West,California,Los Angeles,Dasani Water,$0.65 ,"6,250","$4,063 ",$813 ,20%
+Target,1189833,4/19/2023,West,California,Los Angeles,Coca-Cola,$0.45 ,"9,000","$4,050 ","$1,620 ",40%
+Target,1189833,4/20/2023,West,California,Los Angeles,Diet Coke,$0.50 ,"7,500","$3,750 ",$938 ,25%
+Target,1189833,4/21/2023,West,California,Los Angeles,Sprite,$0.50 ,"7,500","$3,750 ","$1,500 ",40%
+Target,1189833,4/22/2023,West,California,Los Angeles,Fanta,$0.45 ,"6,250","$2,813 ",$984 ,35%
+Target,1189833,4/23/2023,West,California,Los Angeles,Powerade,$0.50 ,"5,000","$2,500 ","$1,375 ",55%
+Target,1189833,4/24/2023,West,California,Los Angeles,Dasani Water,$0.65 ,"8,000","$5,200 ","$1,040 ",20%
+Target,1189833,4/25/2023,West,California,Los Angeles,Coca-Cola,$0.45 ,"9,500","$4,275 ","$1,710 ",40%
+Target,1189833,4/26/2023,West,California,Los Angeles,Diet Coke,$0.50 ,"8,000","$4,000 ","$1,000 ",25%
+Target,1189833,4/27/2023,West,California,Los Angeles,Sprite,$0.50 ,"7,500","$3,750 ","$1,500 ",40%
+Target,1189833,4/28/2023,West,California,Los Angeles,Fanta,$0.45 ,"6,500","$2,925 ","$1,024 ",35%
+Target,1189833,4/29/2023,West,California,Los Angeles,Powerade,$0.50 ,"7,000","$3,500 ","$1,925 ",55%
+Target,1189833,4/30/2023,West,California,Los Angeles,Dasani Water,$0.65 ,"7,000","$4,550 ",$910 ,20%
+Target,1189833,5/1/2023,West,California,Los Angeles,Coca-Cola,$0.50 ,"9,000","$4,500 ","$1,800 ",40%
+Target,1189833,5/2/2023,West,California,Los Angeles,Diet Coke,$0.55 ,"8,500","$4,675 ","$1,169 ",25%
+Target,1189833,5/3/2023,West,California,Los Angeles,Sprite,$0.50 ,"7,250","$3,625 ","$1,450 ",40%
+Target,1189833,5/4/2023,West,California,Los Angeles,Fanta,$0.50 ,"6,750","$3,375 ","$1,181 ",35%
+Target,1189833,5/5/2023,West,California,Los Angeles,Powerade,$0.60 ,"6,750","$4,050 ","$2,228 ",55%
+Target,1189833,5/6/2023,West,California,Los Angeles,Dasani Water,$0.65 ,"6,500","$4,225 ",$845 ,20%
+Target,1189833,5/7/2023,West,California,Los Angeles,Coca-Cola,$0.50 ,"8,500","$4,250 ","$1,700 ",40%
+Target,1189833,5/8/2023,West,California,Los Angeles,Diet Coke,$0.55 ,"8,500","$4,675 ","$1,169 ",25%
+Target,1189833,5/9/2023,West,California,Los Angeles,Sprite,$0.50 ,"7,000","$3,500 ","$1,400 ",40%
+Target,1189833,5/10/2023,West,California,Los Angeles,Fanta,$0.50 ,"6,500","$3,250 ","$1,138 ",35%
+Target,1189833,5/11/2023,West,California,Los Angeles,Powerade,$0.60 ,"6,500","$3,900 ","$2,145 ",55%
+Target,1189833,5/12/2023,West,California,Los Angeles,Dasani Water,$0.65 ,"7,000","$4,550 ",$910 ,20%
+Target,1189833,5/13/2023,West,California,Los Angeles,Coca-Cola,$0.50 ,"8,000","$4,000 ","$1,600 ",40%
+Target,1189833,5/14/2023,West,California,Los Angeles,Diet Coke,$0.55 ,"8,000","$4,400 ","$1,100 ",25%
+Target,1189833,5/15/2023,West,California,Los Angeles,Sprite,$0.50 ,"6,500","$3,250 ","$1,300 ",40%
+Target,1189833,5/16/2023,West,California,Los Angeles,Fanta,$0.50 ,"6,250","$3,125 ","$1,094 ",35%
+Target,1189833,5/17/2023,West,California,Los Angeles,Powerade,$0.60 ,"6,000","$3,600 ","$1,980 ",55%
+Target,1189833,5/18/2023,West,California,Los Angeles,Dasani Water,$0.65 ,"6,500","$4,225 ",$845 ,20%
+Target,1189833,5/19/2023,West,California,Los Angeles,Coca-Cola,$0.50 ,"8,250","$4,125 ","$1,650 ",40%
+Target,1189833,5/20/2023,West,California,Los Angeles,Diet Coke,$0.55 ,"8,250","$4,538 ","$1,134 ",25%
+Target,1189833,5/21/2023,West,California,Los Angeles,Sprite,$0.50 ,"6,750","$3,375 ","$1,350 ",40%
+Target,1189833,5/22/2023,West,California,Los Angeles,Fanta,$0.50 ,"6,500","$3,250 ","$1,138 ",35%
+Target,1189833,5/23/2023,West,California,Los Angeles,Powerade,$0.60 ,"6,000","$3,600 ","$1,980 ",55%
+Target,1189833,5/24/2023,West,California,Los Angeles,Dasani Water,$0.65 ,"7,000","$4,550 ",$910 ,20%
+Target,1189833,5/25/2023,West,California,Los Angeles,Coca-Cola,$0.50 ,"9,000","$4,500 ","$1,800 ",40%
+Target,1189833,5/26/2023,West,California,Los Angeles,Diet Coke,$0.55 ,"9,000","$4,950 ","$1,238 ",25%
+Target,1189833,5/27/2023,West,California,Los Angeles,Sprite,$0.50 ,"7,000","$3,500 ","$1,400 ",40%
+Target,1189833,5/28/2023,West,California,Los Angeles,Fanta,$0.50 ,"7,000","$3,500 ","$1,225 ",35%
+Target,1189833,5/29/2023,West,California,Los Angeles,Powerade,$0.60 ,"6,250","$3,750 ","$2,063 ",55%
+Target,1189833,5/30/2023,West,California,Los Angeles,Dasani Water,$0.65 ,"7,250","$4,713 ",$943 ,20%
+BevCo,1185732,5/31/2023,West,California,Los Angeles,Coca-Cola,$0.45 ,"4,750","$2,138 ",$855 ,40%
+BevCo,1185732,6/1/2023,West,California,Los Angeles,Diet Coke,$0.45 ,"2,750","$1,238 ",$433 ,35%
+BevCo,1185732,6/2/2023,West,California,Los Angeles,Sprite,$0.35 ,"2,750",$963 ,$337 ,35%
+BevCo,1185732,6/3/2023,West,California,Los Angeles,Fanta,$0.40 ,"1,250",$500 ,$200 ,40%
+BevCo,1185732,6/4/2023,Midwest,Illinois,Chicago,Powerade,$0.55 ,"1,750",$963 ,$337 ,35%
+BevCo,1185732,6/5/2023,Midwest,Illinois,Chicago,Dasani Water,$0.45 ,"2,750","$1,238 ",$619 ,50%
+BevCo,1185732,6/6/2023,Midwest,Illinois,Chicago,Coca-Cola,$0.45 ,"5,250","$2,363 ",$945 ,40%
+BevCo,1185732,6/7/2023,Midwest,Illinois,Chicago,Diet Coke,$0.45 ,"1,750",$788 ,$276 ,35%
+BevCo,1185732,6/8/2023,Midwest,Illinois,Chicago,Sprite,$0.35 ,"2,250",$788 ,$276 ,35%
+BevCo,1185732,6/9/2023,Midwest,Illinois,Chicago,Fanta,$0.40 ,"1,000",$400 ,$160 ,40%
+BevCo,1185732,6/10/2023,Midwest,Illinois,Chicago,Powerade,$0.55 ,"1,750",$963 ,$337 ,35%
+BevCo,1185732,6/11/2023,Midwest,Illinois,Chicago,Dasani Water,$0.45 ,"2,750","$1,238 ",$619 ,50%
+BevCo,1185732,6/12/2023,Midwest,Illinois,Chicago,Coca-Cola,$0.50 ,"4,950","$2,475 ",$990 ,40%
+BevCo,1185732,6/13/2023,Midwest,Illinois,Chicago,Diet Coke,$0.50 ,"2,000","$1,000 ",$350 ,35%
+BevCo,1185732,6/14/2023,Midwest,Illinois,Chicago,Sprite,$0.40 ,"2,250",$900 ,$315 ,35%
+BevCo,1185732,6/15/2023,Midwest,Illinois,Chicago,Fanta,$0.45 ,750,$338 ,$135 ,40%
+BevCo,1185732,6/16/2023,Midwest,Illinois,Chicago,Powerade,$0.60 ,"1,250",$750 ,$263 ,35%
+BevCo,1185732,6/17/2023,Midwest,Illinois,Chicago,Dasani Water,$0.50 ,"2,250","$1,125 ",$563 ,50%
+BevCo,1185732,6/18/2023,Midwest,Illinois,Chicago,Coca-Cola,$0.50 ,"4,500","$2,250 ",$900 ,40%
+BevCo,1185732,6/19/2023,Midwest,Illinois,Chicago,Diet Coke,$0.50 ,"1,500",$750 ,$263 ,35%
+BevCo,1185732,6/20/2023,Midwest,Illinois,Chicago,Sprite,$0.40 ,"1,500",$600 ,$210 ,35%
+BevCo,1185732,6/21/2023,Midwest,Illinois,Chicago,Fanta,$0.45 ,750,$338 ,$135 ,40%
+BevCo,1185732,6/22/2023,Midwest,Illinois,Chicago,Powerade,$0.60 ,"1,000",$600 ,$210 ,35%
+BevCo,1185732,6/23/2023,Midwest,Illinois,Chicago,Dasani Water,$0.50 ,"2,250","$1,125 ",$563 ,50%
+BevCo,1185732,6/24/2023,Midwest,Illinois,Chicago,Coca-Cola,$0.60 ,"4,950","$2,970 ","$1,188 ",40%
+BevCo,1185732,6/25/2023,Midwest,Illinois,Chicago,Diet Coke,$0.55 ,"2,000","$1,100 ",$385 ,35%
+BevCo,1185732,6/26/2023,Midwest,Illinois,Chicago,Sprite,$0.50 ,"1,750",$875 ,$306 ,35%
+BevCo,1185732,6/27/2023,Midwest,Illinois,Chicago,Fanta,$0.50 ,"1,000",$500 ,$200 ,40%
+BevCo,1185732,6/28/2023,Midwest,Illinois,Chicago,Powerade,$0.60 ,"1,250",$750 ,$263 ,35%
+BevCo,1185732,6/29/2023,Midwest,Illinois,Chicago,Dasani Water,$0.65 ,"2,500","$1,625 ",$813 ,50%
+BevCo,1185732,6/30/2023,Midwest,Illinois,Chicago,Coca-Cola,$0.50 ,"5,000","$2,500 ","$1,000 ",40%
+BevCo,1185732,7/1/2023,Midwest,Illinois,Chicago,Diet Coke,$0.45 ,"2,500","$1,125 ",$394 ,35%
+BevCo,1185732,7/2/2023,Midwest,Illinois,Chicago,Sprite,$0.40 ,"2,000",$800 ,$280 ,35%
+BevCo,1185732,7/3/2023,Midwest,Illinois,Chicago,Fanta,$0.40 ,"1,750",$700 ,$280 ,40%
+BevCo,1185732,7/4/2023,Midwest,Illinois,Chicago,Powerade,$0.50 ,"1,750",$875 ,$306 ,35%
+BevCo,1185732,7/5/2023,Midwest,Illinois,Chicago,Dasani Water,$0.55 ,"3,500","$1,925 ",$963 ,50%
+BevCo,1185732,7/6/2023,Midwest,Illinois,Chicago,Coca-Cola,$0.50 ,"5,750","$2,875 ","$1,150 ",40%
+BevCo,1185732,7/7/2023,Midwest,Illinois,Chicago,Diet Coke,$0.45 ,"3,250","$1,463 ",$512 ,35%
+BevCo,1185732,7/8/2023,Midwest,Illinois,Chicago,Sprite,$0.40 ,"2,500","$1,000 ",$350 ,35%
+BevCo,1185732,7/9/2023,Midwest,Illinois,Chicago,Fanta,$0.40 ,"2,000",$800 ,$320 ,40%
+BevCo,1185732,7/10/2023,Midwest,Illinois,Chicago,Powerade,$0.50 ,"2,250","$1,125 ",$394 ,35%
+BevCo,1185732,7/11/2023,Midwest,Illinois,Chicago,Dasani Water,$0.55 ,"4,000","$2,200 ","$1,100 ",50%
+BevCo,1185732,7/12/2023,Midwest,Illinois,Chicago,Coca-Cola,$0.50 ,"5,500","$2,750 ","$1,100 ",40%
+BevCo,1185732,7/13/2023,Midwest,Illinois,Chicago,Diet Coke,$0.45 ,"3,250","$1,463 ",$512 ,35%
+BevCo,1185732,7/14/2023,Midwest,Illinois,Chicago,Sprite,$0.40 ,"2,500","$1,000 ",$350 ,35%
+BevCo,1185732,7/15/2023,Midwest,Illinois,Chicago,Fanta,$0.40 ,"2,250",$900 ,$360 ,40%
+BevCo,1185732,7/16/2023,Midwest,Illinois,Chicago,Powerade,$0.50 ,"2,000","$1,000 ",$350 ,35%
+BevCo,1185732,7/17/2023,Midwest,Illinois,Chicago,Dasani Water,$0.55 ,"3,750","$2,063 ","$1,031 ",50%
+BevCo,1185732,7/18/2023,Midwest,Illinois,Chicago,Coca-Cola,$0.50 ,"5,000","$2,500 ","$1,000 ",40%
+BevCo,1185732,7/19/2023,Midwest,Illinois,Chicago,Diet Coke,$0.45 ,"3,000","$1,350 ",$473 ,35%
+BevCo,1185732,7/20/2023,Midwest,Illinois,Chicago,Sprite,$0.40 ,"2,000",$800 ,$280 ,35%
+BevCo,1185732,7/21/2023,Midwest,Illinois,Chicago,Fanta,$0.40 ,"1,750",$700 ,$280 ,40%
+BevCo,1185732,7/22/2023,Midwest,Illinois,Chicago,Powerade,$0.50 ,"1,750",$875 ,$306 ,35%
+BevCo,1185732,7/23/2023,Midwest,Illinois,Chicago,Dasani Water,$0.55 ,"2,500","$1,375 ",$688 ,50%
+BevCo,1185732,7/24/2023,Midwest,Illinois,Chicago,Coca-Cola,$0.60 ,"4,250","$2,550 ","$1,020 ",40%
+BevCo,1185732,7/25/2023,Midwest,Illinois,Chicago,Diet Coke,$0.50 ,"2,500","$1,250 ",$438 ,35%
+BevCo,1185732,7/26/2023,Midwest,Illinois,Chicago,Sprite,$0.50 ,"1,500",$750 ,$263 ,35%
+BevCo,1185732,7/27/2023,Midwest,Illinois,Chicago,Fanta,$0.50 ,"1,250",$625 ,$250 ,40%
+BevCo,1185732,7/28/2023,Midwest,Illinois,Chicago,Powerade,$0.60 ,"1,250",$750 ,$263 ,35%
+BevCo,1185732,7/29/2023,Midwest,Illinois,Chicago,Dasani Water,$0.65 ,"2,500","$1,625 ",$813 ,50%
+BevCo,1185732,7/30/2023,Midwest,Illinois,Chicago,Coca-Cola,$0.60 ,"4,000","$2,400 ",$960 ,40%
+BevCo,1185732,7/31/2023,Midwest,Illinois,Chicago,Diet Coke,$0.50 ,"2,500","$1,250 ",$438 ,35%
+BevCo,1185732,8/1/2023,Midwest,Illinois,Chicago,Sprite,$0.50 ,"1,950",$975 ,$341 ,35%
+BevCo,1185732,8/2/2023,Midwest,Illinois,Chicago,Fanta,$0.50 ,"1,750",$875 ,$350 ,40%
+BevCo,1185732,8/3/2023,Midwest,Illinois,Chicago,Powerade,$0.60 ,"1,500",$900 ,$315 ,35%
+BevCo,1185732,8/4/2023,Midwest,Illinois,Chicago,Dasani Water,$0.65 ,"2,500","$1,625 ",$813 ,50%
+BevCo,1185732,8/5/2023,Midwest,Illinois,Chicago,Coca-Cola,$0.60 ,"5,000","$3,000 ","$1,200 ",40%
+BevCo,1185732,8/6/2023,Midwest,Illinois,Chicago,Diet Coke,$0.50 ,"3,000","$1,500 ",$525 ,35%
+BevCo,1185732,8/7/2023,Midwest,Illinois,Chicago,Sprite,$0.50 ,"2,500","$1,250 ",$438 ,35%
+BevCo,1185732,8/8/2023,Midwest,Illinois,Chicago,Fanta,$0.50 ,"2,000","$1,000 ",$400 ,40%
+BevCo,1185732,8/9/2023,Midwest,Illinois,Chicago,Powerade,$0.60 ,"2,000","$1,200 ",$420 ,35%
+BevCo,1185732,8/10/2023,Midwest,Illinois,Chicago,Dasani Water,$0.65 ,"3,000","$1,950 ",$975 ,50%
+FizzyCo,1197831,8/11/2023,Midwest,Illinois,Chicago,Coca-Cola,$0.20 ,"7,250","$1,450 ",$435 ,30%
+FizzyCo,1197831,8/12/2023,Midwest,Illinois,Chicago,Diet Coke,$0.30 ,"7,250","$2,175 ",$653 ,30%
+FizzyCo,1197831,8/13/2023,Midwest,Illinois,Chicago,Sprite,$0.30 ,"5,250","$1,575 ",$473 ,30%
+FizzyCo,1197831,8/14/2023,Midwest,Illinois,Chicago,Fanta,$0.35 ,"5,250","$1,838 ",$735 ,40%
+FizzyCo,1197831,8/15/2023,South,Texas,Dallas,Powerade,$0.40 ,"3,750","$1,500 ",$375 ,25%
+FizzyCo,1197831,8/16/2023,South,Texas,Dallas,Dasani Water,$0.35 ,"5,250","$1,838 ",$827 ,45%
+FizzyCo,1197831,8/17/2023,South,Texas,Dallas,Coca-Cola,$0.25 ,"6,750","$1,688 ",$506 ,30%
+FizzyCo,1197831,8/18/2023,South,Texas,Dallas,Diet Coke,$0.35 ,"6,500","$2,275 ",$683 ,30%
+FizzyCo,1197831,8/19/2023,South,Texas,Dallas,Sprite,$0.35 ,"4,750","$1,663 ",$499 ,30%
+FizzyCo,1197831,8/20/2023,South,Texas,Dallas,Fanta,$0.35 ,"4,250","$1,488 ",$595 ,40%
+FizzyCo,1197831,8/21/2023,South,Texas,Dallas,Powerade,$0.40 ,"3,000","$1,200 ",$300 ,25%
+FizzyCo,1197831,8/22/2023,South,Texas,Dallas,Dasani Water,$0.35 ,"5,000","$1,750 ",$788 ,45%
+FizzyCo,1197831,8/23/2023,South,Texas,Dallas,Coca-Cola,$0.30 ,"6,750","$2,025 ",$709 ,35%
+FizzyCo,1197831,8/24/2023,South,Texas,Dallas,Diet Coke,$0.40 ,"6,750","$2,700 ",$945 ,35%
+FizzyCo,1197831,8/25/2023,South,Texas,Dallas,Sprite,$0.30 ,"5,000","$1,500 ",$525 ,35%
+FizzyCo,1197831,8/26/2023,South,Texas,Dallas,Fanta,$0.35 ,"4,000","$1,400 ",$630 ,45%
+FizzyCo,1197831,8/27/2023,South,Texas,Dallas,Powerade,$0.40 ,"3,000","$1,200 ",$360 ,30%
+FizzyCo,1197831,8/28/2023,South,Texas,Dallas,Dasani Water,$0.35 ,"4,500","$1,575 ",$788 ,50%
+FizzyCo,1197831,8/29/2023,South,Texas,Dallas,Coca-Cola,$0.20 ,"7,000","$1,400 ",$490 ,35%
+FizzyCo,1197831,8/30/2023,South,Texas,Dallas,Diet Coke,$0.30 ,"7,000","$2,100 ",$735 ,35%
+FizzyCo,1197831,8/31/2023,South,Texas,Dallas,Sprite,$0.25 ,"5,250","$1,313 ",$459 ,35%
+FizzyCo,1197831,9/1/2023,South,Texas,Dallas,Fanta,$0.30 ,"4,250","$1,275 ",$574 ,45%
+FizzyCo,1197831,9/2/2023,South,Texas,Dallas,Powerade,$0.35 ,"3,250","$1,138 ",$341 ,30%
+FizzyCo,1197831,9/3/2023,South,Texas,Dallas,Dasani Water,$0.30 ,"6,000","$1,800 ",$900 ,50%
+FizzyCo,1197831,9/4/2023,South,Texas,Dallas,Coca-Cola,$0.20 ,"7,500","$1,500 ",$525 ,35%
+FizzyCo,1197831,9/5/2023,South,Texas,Dallas,Diet Coke,$0.30 ,"7,750","$2,325 ",$814 ,35%
+FizzyCo,1197831,9/6/2023,South,Texas,Dallas,Sprite,$0.25 ,"6,250","$1,563 ",$547 ,35%
+FizzyCo,1197831,9/7/2023,South,Texas,Dallas,Fanta,$0.35 ,"5,500","$1,925 ",$866 ,45%
+FizzyCo,1197831,9/8/2023,South,Texas,Dallas,Powerade,$0.50 ,"4,500","$2,250 ",$675 ,30%
+FizzyCo,1197831,9/9/2023,South,Texas,Dallas,Dasani Water,$0.45 ,"8,000","$3,600 ","$1,800 ",50%
+FizzyCo,1197831,9/10/2023,South,Texas,Dallas,Coca-Cola,$0.45 ,"8,000","$3,600 ","$1,260 ",35%
+FizzyCo,1197831,9/11/2023,South,Texas,Dallas,Diet Coke,$0.50 ,"8,000","$4,000 ","$1,400 ",35%
+FizzyCo,1197831,9/12/2023,South,Texas,Dallas,Sprite,$0.45 ,"6,500","$2,925 ","$1,024 ",35%
+FizzyCo,1197831,9/13/2023,South,Texas,Dallas,Fanta,$0.45 ,"6,000","$2,700 ","$1,215 ",45%
+FizzyCo,1197831,9/14/2023,South,Texas,Dallas,Powerade,$0.50 ,"5,000","$2,500 ",$750 ,30%
+FizzyCo,1197831,9/15/2023,South,Texas,Dallas,Dasani Water,$0.55 ,"8,750","$4,813 ","$2,406 ",50%
+FizzyCo,1197831,9/16/2023,South,Texas,Dallas,Coca-Cola,$0.45 ,"8,250","$3,713 ","$1,485 ",40%
+FizzyCo,1197831,9/17/2023,South,Texas,Dallas,Diet Coke,$0.50 ,"8,250","$4,125 ","$1,650 ",40%
+FizzyCo,1197831,9/18/2023,South,Texas,Dallas,Sprite,$0.45 ,"9,750","$4,388 ","$1,755 ",40%
+FizzyCo,1197831,9/19/2023,South,Texas,Dallas,Fanta,$0.45 ,"5,750","$2,588 ","$1,294 ",50%
+FizzyCo,1197831,9/20/2023,South,Texas,Dallas,Powerade,$0.50 ,"5,750","$2,875 ","$1,006 ",35%
+FizzyCo,1197831,9/21/2023,South,Texas,Dallas,Dasani Water,$0.60 ,"8,500","$5,100 ","$2,805 ",55%
+FizzyCo,1197831,9/22/2023,South,Texas,Dallas,Coca-Cola,$0.50 ,"8,000","$4,000 ","$1,600 ",40%
+FizzyCo,1197831,9/23/2023,South,Texas,Dallas,Diet Coke,$0.55 ,"8,000","$4,400 ","$1,760 ",40%
+FizzyCo,1197831,9/24/2023,South,Texas,Dallas,Sprite,$0.50 ,"9,750","$4,875 ","$1,950 ",40%
+FizzyCo,1197831,9/25/2023,South,Texas,Dallas,Fanta,$0.50 ,"5,250","$2,625 ","$1,313 ",50%
+FizzyCo,1197831,9/26/2023,South,Texas,Dallas,Powerade,$0.55 ,"5,250","$2,888 ","$1,011 ",35%
+FizzyCo,1197831,9/27/2023,South,Texas,Dallas,Dasani Water,$0.60 ,"7,750","$4,650 ","$2,558 ",55%
+FizzyCo,1197831,9/28/2023,South,Texas,Dallas,Coca-Cola,$0.55 ,"7,250","$3,988 ","$1,595 ",40%
+FizzyCo,1197831,9/29/2023,South,Texas,Dallas,Diet Coke,$0.55 ,"6,750","$3,713 ","$1,485 ",40%
+FizzyCo,1197831,9/30/2023,South,Texas,Dallas,Sprite,$0.60 ,"7,250","$4,350 ","$1,740 ",40%
+FizzyCo,1197831,10/1/2023,South,Texas,Dallas,Fanta,$0.60 ,"4,500","$2,700 ","$1,350 ",50%
+FizzyCo,1197831,10/2/2023,South,Texas,Dallas,Powerade,$0.55 ,"4,500","$2,475 ",$866 ,35%
+FizzyCo,1197831,10/3/2023,South,Texas,Dallas,Dasani Water,$0.50 ,"6,750","$3,375 ","$1,856 ",55%
+FizzyCo,1197831,10/4/2023,South,Texas,Dallas,Coca-Cola,$0.40 ,"6,250","$2,500 ","$1,000 ",40%
+FizzyCo,1197831,10/5/2023,South,Texas,Dallas,Diet Coke,$0.40 ,"6,250","$2,500 ","$1,000 ",40%
+FizzyCo,1197831,10/6/2023,South,Texas,Dallas,Sprite,$0.45 ,"5,750","$2,588 ","$1,035 ",40%
+FizzyCo,1197831,10/7/2023,South,Texas,Dallas,Fanta,$0.45 ,"4,250","$1,913 ",$956 ,50%
+FizzyCo,1197831,10/8/2023,South,Texas,Dallas,Powerade,$0.40 ,"4,000","$1,600 ",$560 ,35%
+FizzyCo,1197831,10/9/2023,South,Texas,Dallas,Dasani Water,$0.50 ,"5,750","$2,875 ","$1,581 ",55%
+FizzyCo,1197831,10/10/2023,South,Texas,Dallas,Coca-Cola,$0.40 ,"7,250","$2,900 ","$1,160 ",40%
+FizzyCo,1197831,10/11/2023,South,Texas,Dallas,Diet Coke,$0.40 ,"7,250","$2,900 ","$1,160 ",40%
+FizzyCo,1197831,10/12/2023,South,Texas,Dallas,Sprite,$0.65 ,"6,500","$4,225 ","$1,690 ",40%
+FizzyCo,1197831,10/13/2023,South,Texas,Dallas,Fanta,$0.65 ,"5,000","$3,250 ","$1,625 ",50%
+FizzyCo,1197831,10/14/2023,South,Texas,Dallas,Powerade,$0.60 ,"4,750","$2,850 ",$998 ,35%
+FizzyCo,1197831,10/15/2023,South,Texas,Dallas,Dasani Water,$0.70 ,"6,750","$4,725 ","$2,599 ",55%
+FizzyCo,1197831,10/16/2023,South,Texas,Dallas,Coca-Cola,$0.60 ,"8,250","$4,950 ","$1,980 ",40%
+FizzyCo,1197831,10/17/2023,South,Texas,Dallas,Diet Coke,$0.60 ,"8,250","$4,950 ","$1,980 ",40%
+FizzyCo,1197831,10/18/2023,South,Texas,Dallas,Sprite,$0.65 ,"7,250","$4,713 ","$1,885 ",40%
+FizzyCo,1197831,10/19/2023,South,Texas,Dallas,Fanta,$0.65 ,"5,750","$3,738 ","$1,869 ",50%
+FizzyCo,1197831,10/20/2023,South,Texas,Dallas,Powerade,$0.60 ,"5,250","$3,150 ","$1,103 ",35%
+FizzyCo,1197831,10/21/2023,South,Texas,Dallas,Dasani Water,$0.70 ,"7,750","$5,425 ","$2,984 ",55%
+BevCo,1185732,10/22/2023,South,Texas,Dallas,Coca-Cola,$0.45 ,"4,250","$1,913 ","$1,052 ",55%
+BevCo,1185732,10/23/2023,South,Texas,Dallas,Diet Coke,$0.45 ,"2,250","$1,013 ",$354 ,35%
+BevCo,1185732,10/24/2023,South,Texas,Dallas,Sprite,$0.35 ,"2,250",$788 ,$315 ,40%
+BevCo,1185732,10/25/2023,South,Texas,Dallas,Fanta,$0.40 ,750,$300 ,$120 ,40%
+BevCo,1185732,10/26/2023,Northeast,Pennsylvania,Philadelphia,Powerade,$0.55 ,"1,250",$688 ,$241 ,35%
+BevCo,1185732,10/27/2023,Northeast,Pennsylvania,Philadelphia,Dasani Water,$0.45 ,"2,250","$1,013 ",$304 ,30%
+BevCo,1185732,10/28/2023,Northeast,Pennsylvania,Philadelphia,Coca-Cola,$0.45 ,"4,750","$2,138 ","$1,176 ",55%
+BevCo,1185732,10/29/2023,Northeast,Pennsylvania,Philadelphia,Diet Coke,$0.45 ,"1,250",$563 ,$197 ,35%
+BevCo,1185732,10/30/2023,Northeast,Pennsylvania,Philadelphia,Sprite,$0.35 ,"1,750",$613 ,$245 ,40%
+BevCo,1185732,10/31/2023,Northeast,Pennsylvania,Philadelphia,Fanta,$0.40 ,500,$200 ,$80 ,40%
+BevCo,1185732,11/1/2023,Northeast,Pennsylvania,Philadelphia,Powerade,$0.55 ,"1,250",$688 ,$241 ,35%
+BevCo,1185732,11/2/2023,Northeast,Pennsylvania,Philadelphia,Dasani Water,$0.45 ,"2,250","$1,013 ",$304 ,30%
+BevCo,1185732,11/3/2023,Northeast,Pennsylvania,Philadelphia,Coca-Cola,$0.50 ,"4,450","$2,225 ","$1,224 ",55%
+BevCo,1185732,11/4/2023,Northeast,Pennsylvania,Philadelphia,Diet Coke,$0.50 ,"1,500",$750 ,$263 ,35%
+BevCo,1185732,11/5/2023,Northeast,Pennsylvania,Philadelphia,Sprite,$0.40 ,"1,750",$700 ,$280 ,40%
+BevCo,1185732,11/6/2023,Northeast,Pennsylvania,Philadelphia,Fanta,$0.45 ,250,$113 ,$45 ,40%
+BevCo,1185732,11/7/2023,Northeast,Pennsylvania,Philadelphia,Powerade,$0.60 ,750,$450 ,$135 ,30%
+BevCo,1185732,11/8/2023,Northeast,Pennsylvania,Philadelphia,Dasani Water,$0.50 ,"1,750",$875 ,$219 ,25%
+BevCo,1185732,11/9/2023,Northeast,Pennsylvania,Philadelphia,Coca-Cola,$0.50 ,"4,500","$2,250 ","$1,125 ",50%
+BevCo,1185732,11/10/2023,Northeast,Pennsylvania,Philadelphia,Diet Coke,$0.50 ,"1,500",$750 ,$225 ,30%
+BevCo,1185732,11/11/2023,Northeast,Pennsylvania,Philadelphia,Sprite,$0.40 ,"1,500",$600 ,$210 ,35%
+BevCo,1185732,11/12/2023,Northeast,Pennsylvania,Philadelphia,Fanta,$0.45 ,750,$338 ,$118 ,35%
+BevCo,1185732,11/13/2023,Northeast,Pennsylvania,Philadelphia,Powerade,$0.60 ,750,$450 ,$135 ,30%
+BevCo,1185732,11/14/2023,Northeast,Pennsylvania,Philadelphia,Dasani Water,$0.50 ,"2,000","$1,000 ",$250 ,25%
+BevCo,1185732,11/15/2023,Northeast,Pennsylvania,Philadelphia,Coca-Cola,$0.60 ,"4,700","$2,820 ","$1,410 ",50%
+BevCo,1185732,11/16/2023,Northeast,Pennsylvania,Philadelphia,Diet Coke,$0.60 ,"1,750","$1,050 ",$315 ,30%
+BevCo,1185732,11/17/2023,Northeast,Pennsylvania,Philadelphia,Sprite,$0.55 ,"1,500",$825 ,$289 ,35%
+BevCo,1185732,11/18/2023,Northeast,Pennsylvania,Philadelphia,Fanta,$0.55 ,"1,000",$550 ,$193 ,35%
+BevCo,1185732,11/19/2023,Northeast,Pennsylvania,Philadelphia,Powerade,$0.65 ,"1,250",$813 ,$244 ,30%
+BevCo,1185732,11/20/2023,Northeast,Pennsylvania,Philadelphia,Dasani Water,$0.70 ,"2,500","$1,750 ",$525 ,30%
+BevCo,1185732,11/21/2023,Northeast,Pennsylvania,Philadelphia,Coca-Cola,$0.65 ,"5,000","$3,250 ","$1,788 ",55%
+BevCo,1185732,11/22/2023,Northeast,Pennsylvania,Philadelphia,Diet Coke,$0.60 ,"2,500","$1,500 ",$525 ,35%
+BevCo,1185732,11/23/2023,Northeast,Pennsylvania,Philadelphia,Sprite,$0.55 ,"1,750",$963 ,$385 ,40%
+BevCo,1185732,11/24/2023,Northeast,Pennsylvania,Philadelphia,Fanta,$0.55 ,"1,500",$825 ,$330 ,40%
+BevCo,1185732,11/25/2023,Northeast,Pennsylvania,Philadelphia,Powerade,$0.65 ,"1,500",$975 ,$341 ,35%
+BevCo,1185732,11/26/2023,Northeast,Pennsylvania,Philadelphia,Dasani Water,$0.70 ,"3,000","$2,100 ",$630 ,30%
+BevCo,1185732,11/27/2023,Northeast,Pennsylvania,Philadelphia,Coca-Cola,$0.65 ,"5,000","$3,250 ","$1,788 ",55%
+BevCo,1185732,11/28/2023,Northeast,Pennsylvania,Philadelphia,Diet Coke,$0.60 ,"3,000","$1,800 ",$630 ,35%
+BevCo,1185732,11/29/2023,Northeast,Pennsylvania,Philadelphia,Sprite,$0.55 ,"2,250","$1,238 ",$495 ,40%
+BevCo,1185732,11/30/2023,Northeast,Pennsylvania,Philadelphia,Fanta,$0.55 ,"1,750",$963 ,$385 ,40%
+BevCo,1185732,12/1/2023,Northeast,Pennsylvania,Philadelphia,Powerade,$0.65 ,"2,000","$1,300 ",$455 ,35%
+BevCo,1185732,12/2/2023,Northeast,Pennsylvania,Philadelphia,Dasani Water,$0.70 ,"3,750","$2,625 ",$788 ,30%
+BevCo,1185732,12/3/2023,Northeast,Pennsylvania,Philadelphia,Coca-Cola,$0.65 ,"5,250","$3,413 ","$1,877 ",55%
+BevCo,1185732,12/4/2023,Northeast,Pennsylvania,Philadelphia,Diet Coke,$0.60 ,"3,000","$1,800 ",$630 ,35%
+BevCo,1185732,12/5/2023,Northeast,Pennsylvania,Philadelphia,Sprite,$0.55 ,"2,250","$1,238 ",$495 ,40%
+BevCo,1185732,12/6/2023,Northeast,Pennsylvania,Philadelphia,Fanta,$0.55 ,"2,000","$1,100 ",$440 ,40%
+BevCo,1185732,12/7/2023,Northeast,Pennsylvania,Philadelphia,Powerade,$0.65 ,"1,750","$1,138 ",$398 ,35%
+BevCo,1185732,12/8/2023,Northeast,Pennsylvania,Philadelphia,Dasani Water,$0.70 ,"3,500","$2,450 ",$735 ,30%
+BevCo,1185732,12/9/2023,Northeast,Pennsylvania,Philadelphia,Coca-Cola,$0.65 ,"4,750","$3,088 ","$1,544 ",50%
+BevCo,1185732,12/10/2023,Northeast,Pennsylvania,Philadelphia,Diet Coke,$0.50 ,"2,750","$1,375 ",$413 ,30%
+BevCo,1185732,12/11/2023,Northeast,Pennsylvania,Philadelphia,Sprite,$0.45 ,"2,000",$900 ,$315 ,35%
+BevCo,1185732,12/12/2023,Northeast,Pennsylvania,Philadelphia,Fanta,$0.45 ,"1,750",$788 ,$276 ,35%
+BevCo,1185732,12/13/2023,Northeast,Pennsylvania,Philadelphia,Powerade,$0.55 ,"1,250",$688 ,$206 ,30%
+BevCo,1185732,12/14/2023,Northeast,Pennsylvania,Philadelphia,Dasani Water,$0.60 ,"2,250","$1,350 ",$338 ,25%
+BevCo,1185732,12/15/2023,Northeast,Pennsylvania,Philadelphia,Coca-Cola,$0.60 ,"4,000","$2,400 ","$1,200 ",50%
+BevCo,1185732,12/16/2023,Northeast,Pennsylvania,Philadelphia,Diet Coke,$0.50 ,"2,250","$1,125 ",$338 ,30%
+BevCo,1185732,12/17/2023,Northeast,Pennsylvania,Philadelphia,Sprite,$0.50 ,"1,250",$625 ,$219 ,35%
+BevCo,1185732,12/18/2023,Northeast,Pennsylvania,Philadelphia,Fanta,$0.50 ,"1,000",$500 ,$175 ,35%
+BevCo,1185732,12/19/2023,Northeast,Pennsylvania,Philadelphia,Powerade,$0.60 ,"1,000",$600 ,$180 ,30%
+BevCo,1185732,12/20/2023,Northeast,Pennsylvania,Philadelphia,Dasani Water,$0.65 ,"2,250","$1,463 ",$366 ,25%
+BevCo,1185732,12/21/2023,Northeast,Pennsylvania,Philadelphia,Coca-Cola,$0.70 ,"3,750","$2,625 ","$1,444 ",55%
+BevCo,1185732,12/22/2023,Northeast,Pennsylvania,Philadelphia,Diet Coke,$0.60 ,"2,000","$1,200 ",$420 ,35%
+BevCo,1185732,12/23/2023,Northeast,Pennsylvania,Philadelphia,Sprite,$0.60 ,"1,950","$1,170 ",$468 ,40%
+BevCo,1185732,12/24/2023,Northeast,Pennsylvania,Philadelphia,Fanta,$0.60 ,"1,750","$1,050 ",$420 ,40%
+BevCo,1185732,12/25/2023,Northeast,Pennsylvania,Philadelphia,Powerade,$0.70 ,"1,500","$1,050 ",$368 ,35%
+BevCo,1185732,12/26/2023,Northeast,Pennsylvania,Philadelphia,Dasani Water,$0.75 ,"2,500","$1,875 ",$563 ,30%
+BevCo,1185732,12/27/2023,Northeast,Pennsylvania,Philadelphia,Coca-Cola,$0.70 ,"4,750","$3,325 ","$1,829 ",55%
+BevCo,1185732,12/28/2023,Northeast,Pennsylvania,Philadelphia,Diet Coke,$0.60 ,"2,750","$1,650 ",$578 ,35%
+BevCo,1185732,12/29/2023,Northeast,Pennsylvania,Philadelphia,Sprite,$0.60 ,"2,250","$1,350 ",$540 ,40%
+BevCo,1185732,12/30/2023,Northeast,Pennsylvania,Philadelphia,Fanta,$0.60 ,"1,750","$1,050 ",$420 ,40%
+BevCo,1185732,12/31/2023,Northeast,Pennsylvania,Philadelphia,Powerade,$0.70 ,"1,750","$1,225 ",$429 ,35%
+BevCo,1185732,1/1/2022,Northeast,Pennsylvania,Philadelphia,Dasani Water,$0.75 ,"2,750","$2,063 ",$619 ,30%
+West Soda,1128299,1/2/2022,Northeast,Pennsylvania,Philadelphia,Coca-Cola,$0.35 ,"4,500","$1,575 ",$630 ,40%
+West Soda,1128299,1/3/2022,Northeast,Pennsylvania,Philadelphia,Diet Coke,$0.45 ,"4,500","$2,025 ",$506 ,25%
+West Soda,1128299,1/4/2022,Northeast,Pennsylvania,Philadelphia,Sprite,$0.45 ,"4,500","$2,025 ",$810 ,40%
+West Soda,1128299,1/5/2022,Northeast,Pennsylvania,Philadelphia,Fanta,$0.45 ,"3,000","$1,350 ",$473 ,35%
+West Soda,1128299,1/6/2022,West,Nevada,Las Vegas,Powerade,$0.50 ,"2,500","$1,250 ",$688 ,55%
+West Soda,1128299,1/7/2022,West,Nevada,Las Vegas,Dasani Water,$0.45 ,"4,750","$2,138 ",$428 ,20%
+West Soda,1128299,1/8/2022,West,Nevada,Las Vegas,Coca-Cola,$0.35 ,"5,250","$1,838 ",$735 ,40%
+West Soda,1128299,1/9/2022,West,Nevada,Las Vegas,Diet Coke,$0.45 ,"4,250","$1,913 ",$478 ,25%
+West Soda,1128299,1/10/2022,West,Nevada,Las Vegas,Sprite,$0.45 ,"4,250","$1,913 ",$765 ,40%
+West Soda,1128299,1/11/2022,West,Nevada,Las Vegas,Fanta,$0.45 ,"2,750","$1,238 ",$433 ,35%
+West Soda,1128299,1/12/2022,West,Nevada,Las Vegas,Powerade,$0.50 ,"2,000","$1,000 ",$550 ,55%
+West Soda,1128299,1/13/2022,West,Nevada,Las Vegas,Dasani Water,$0.45 ,"4,000","$1,800 ",$360 ,20%
+West Soda,1128299,1/14/2022,West,Nevada,Las Vegas,Coca-Cola,$0.45 ,"5,500","$2,475 ",$990 ,40%
+West Soda,1128299,1/15/2022,West,Nevada,Las Vegas,Diet Coke,$0.55 ,"4,000","$2,200 ",$550 ,25%
+West Soda,1128299,1/16/2022,West,Nevada,Las Vegas,Sprite,$0.55 ,"4,000","$2,200 ",$880 ,40%
+West Soda,1128299,1/17/2022,West,Nevada,Las Vegas,Fanta,$0.55 ,"3,000","$1,650 ",$578 ,35%
+West Soda,1128299,1/18/2022,West,Nevada,Las Vegas,Powerade,$0.60 ,"1,750","$1,050 ",$578 ,55%
+West Soda,1128299,1/19/2022,West,Nevada,Las Vegas,Dasani Water,$0.55 ,"3,750","$2,063 ",$413 ,20%
+West Soda,1128299,1/20/2022,West,Nevada,Las Vegas,Coca-Cola,$0.60 ,"5,500","$3,300 ","$1,320 ",40%
+West Soda,1128299,1/21/2022,West,Nevada,Las Vegas,Diet Coke,$0.65 ,"3,500","$2,275 ",$569 ,25%
+West Soda,1128299,1/22/2022,West,Nevada,Las Vegas,Sprite,$0.65 ,"4,000","$2,600 ","$1,040 ",40%
+West Soda,1128299,1/23/2022,West,Nevada,Las Vegas,Fanta,$0.60 ,"3,000","$1,800 ",$630 ,35%
+West Soda,1128299,1/24/2022,West,Nevada,Las Vegas,Powerade,$0.65 ,"2,000","$1,300 ",$715 ,55%
+West Soda,1128299,1/25/2022,West,Nevada,Las Vegas,Dasani Water,$0.80 ,"3,500","$2,800 ",$560 ,20%
+West Soda,1128299,1/26/2022,West,Nevada,Las Vegas,Coca-Cola,$0.60 ,"5,500","$3,300 ","$1,485 ",45%
+West Soda,1128299,1/27/2022,West,Nevada,Las Vegas,Diet Coke,$0.65 ,"4,000","$2,600 ",$780 ,30%
+West Soda,1128299,1/28/2022,West,Nevada,Las Vegas,Sprite,$0.65 ,"4,000","$2,600 ","$1,170 ",45%
+West Soda,1128299,1/29/2022,West,Nevada,Las Vegas,Fanta,$0.60 ,"3,000","$1,800 ",$720 ,40%
+West Soda,1128299,1/30/2022,West,Nevada,Las Vegas,Powerade,$0.65 ,"2,000","$1,300 ",$780 ,60%
+West Soda,1128299,1/31/2022,West,Nevada,Las Vegas,Dasani Water,$0.80 ,"4,500","$3,600 ",$900 ,25%
+West Soda,1128299,2/1/2022,West,Nevada,Las Vegas,Coca-Cola,$0.60 ,"7,000","$4,200 ","$1,890 ",45%
+West Soda,1128299,2/2/2022,West,Nevada,Las Vegas,Diet Coke,$0.65 ,"5,500","$3,575 ","$1,073 ",30%
+West Soda,1128299,2/3/2022,West,Nevada,Las Vegas,Sprite,$0.65 ,"5,500","$3,575 ","$1,609 ",45%
+West Soda,1128299,2/4/2022,West,Nevada,Las Vegas,Fanta,$0.60 ,"4,250","$2,550 ","$1,020 ",40%
+West Soda,1128299,2/5/2022,West,Nevada,Las Vegas,Powerade,$0.65 ,"3,000","$1,950 ","$1,170 ",60%
+West Soda,1128299,2/6/2022,West,Nevada,Las Vegas,Dasani Water,$0.80 ,"6,000","$4,800 ","$1,200 ",25%
+West Soda,1128299,2/7/2022,West,Nevada,Las Vegas,Coca-Cola,$0.60 ,"7,500","$4,500 ","$1,800 ",40%
+West Soda,1128299,2/8/2022,West,Nevada,Las Vegas,Diet Coke,$0.65 ,"6,000","$3,900 ",$975 ,25%
+West Soda,1128299,2/9/2022,West,Nevada,Las Vegas,Sprite,$0.65 ,"5,500","$3,575 ","$1,430 ",40%
+West Soda,1128299,2/10/2022,West,Nevada,Las Vegas,Fanta,$0.60 ,"4,500","$2,700 ",$945 ,35%
+West Soda,1128299,2/11/2022,West,Nevada,Las Vegas,Powerade,$0.65 ,"5,000","$3,250 ","$1,788 ",55%
+West Soda,1128299,2/12/2022,West,Nevada,Las Vegas,Dasani Water,$0.80 ,"5,000","$4,000 ",$800 ,20%
+West Soda,1128299,2/13/2022,West,Nevada,Las Vegas,Coca-Cola,$0.65 ,"7,000","$4,550 ","$1,820 ",40%
+West Soda,1128299,2/14/2022,West,Nevada,Las Vegas,Diet Coke,$0.70 ,"6,500","$4,550 ","$1,138 ",25%
+West Soda,1128299,2/15/2022,West,Nevada,Las Vegas,Sprite,$0.65 ,"5,250","$3,413 ","$1,365 ",40%
+West Soda,1128299,2/16/2022,West,Nevada,Las Vegas,Fanta,$0.65 ,"4,750","$3,088 ","$1,081 ",35%
+West Soda,1128299,2/17/2022,West,Nevada,Las Vegas,Powerade,$0.75 ,"4,750","$3,563 ","$1,959 ",55%
+West Soda,1128299,2/18/2022,West,Nevada,Las Vegas,Dasani Water,$0.80 ,"4,000","$3,200 ",$640 ,20%
+West Soda,1128299,2/19/2022,West,Nevada,Las Vegas,Coca-Cola,$0.60 ,"6,000","$3,600 ","$1,260 ",35%
+West Soda,1128299,2/20/2022,West,Nevada,Las Vegas,Diet Coke,$0.65 ,"6,000","$3,900 ",$780 ,20%
+West Soda,1128299,2/21/2022,West,Nevada,Las Vegas,Sprite,$0.60 ,"4,500","$2,700 ",$945 ,35%
+West Soda,1128299,2/22/2022,West,Nevada,Las Vegas,Fanta,$0.60 ,"4,000","$2,400 ",$720 ,30%
+West Soda,1128299,2/23/2022,West,Nevada,Las Vegas,Powerade,$0.70 ,"4,000","$2,800 ","$1,400 ",50%
+West Soda,1128299,2/24/2022,West,Nevada,Las Vegas,Dasani Water,$0.75 ,"4,500","$3,375 ",$506 ,15%
+West Soda,1128299,2/25/2022,West,Nevada,Las Vegas,Coca-Cola,$0.60 ,"5,500","$3,300 ","$1,155 ",35%
+West Soda,1128299,2/26/2022,West,Nevada,Las Vegas,Diet Coke,$0.65 ,"5,500","$3,575 ",$715 ,20%
+West Soda,1128299,2/27/2022,West,Nevada,Las Vegas,Sprite,$0.60 ,"3,750","$2,250 ",$788 ,35%
+West Soda,1128299,2/28/2022,West,Nevada,Las Vegas,Fanta,$0.60 ,"3,500","$2,100 ",$630 ,30%
+West Soda,1128299,3/1/2022,West,Nevada,Las Vegas,Powerade,$0.70 ,"3,250","$2,275 ","$1,138 ",50%
+West Soda,1128299,3/2/2022,West,Nevada,Las Vegas,Dasani Water,$0.75 ,"3,750","$2,813 ",$422 ,15%
+West Soda,1128299,3/3/2022,West,Nevada,Las Vegas,Coca-Cola,$0.60 ,"5,750","$3,450 ","$1,208 ",35%
+West Soda,1128299,3/4/2022,West,Nevada,Las Vegas,Diet Coke,$0.65 ,"5,750","$3,738 ",$748 ,20%
+West Soda,1128299,3/5/2022,West,Nevada,Las Vegas,Sprite,$0.60 ,"4,250","$2,550 ",$893 ,35%
+West Soda,1128299,3/6/2022,West,Nevada,Las Vegas,Fanta,$0.60 ,"4,000","$2,400 ",$720 ,30%
+West Soda,1128299,3/7/2022,West,Nevada,Las Vegas,Powerade,$0.70 ,"3,500","$2,450 ","$1,225 ",50%
+West Soda,1128299,3/8/2022,West,Nevada,Las Vegas,Dasani Water,$0.75 ,"4,750","$3,563 ",$534 ,15%
+West Soda,1128299,3/9/2022,West,Nevada,Las Vegas,Coca-Cola,$0.60 ,"6,750","$4,050 ","$1,418 ",35%
+West Soda,1128299,3/10/2022,West,Nevada,Las Vegas,Diet Coke,$0.65 ,"6,750","$4,388 ",$878 ,20%
+West Soda,1128299,3/11/2022,West,Nevada,Las Vegas,Sprite,$0.60 ,"4,750","$2,850 ",$998 ,35%
+West Soda,1128299,3/12/2022,West,Nevada,Las Vegas,Fanta,$0.60 ,"4,750","$2,850 ",$855 ,30%
+West Soda,1128299,3/13/2022,West,Nevada,Las Vegas,Powerade,$0.70 ,"4,000","$2,800 ","$1,400 ",50%
+West Soda,1128299,3/14/2022,West,Nevada,Las Vegas,Dasani Water,$0.75 ,"5,000","$3,750 ",$563 ,15%
+West Soda,1128299,3/15/2022,West,Nevada,Las Vegas,Coca-Cola,$0.30 ,"4,250","$1,275 ",$446 ,35%
+West Soda,1128299,3/16/2022,West,Nevada,Las Vegas,Diet Coke,$0.40 ,"4,250","$1,700 ",$340 ,20%
+West Soda,1128299,3/17/2022,West,Nevada,Las Vegas,Sprite,$0.40 ,"4,250","$1,700 ",$595 ,35%
+West Soda,1128299,3/18/2022,West,Nevada,Las Vegas,Fanta,$0.40 ,"2,750","$1,100 ",$330 ,30%
+West Soda,1128299,3/19/2022,West,Colorado,Denver,Powerade,$0.45 ,"2,250","$1,013 ",$506 ,50%
+West Soda,1128299,3/20/2022,West,Colorado,Denver,Dasani Water,$0.40 ,"4,750","$1,900 ",$285 ,15%
+West Soda,1128299,3/21/2022,West,Colorado,Denver,Coca-Cola,$0.30 ,"5,250","$1,575 ",$551 ,35%
+West Soda,1128299,3/22/2022,West,Colorado,Denver,Diet Coke,$0.40 ,"4,250","$1,700 ",$340 ,20%
+West Soda,1128299,3/23/2022,West,Colorado,Denver,Sprite,$0.40 ,"4,250","$1,700 ",$595 ,35%
+West Soda,1128299,3/24/2022,West,Colorado,Denver,Fanta,$0.40 ,"2,750","$1,100 ",$330 ,30%
+West Soda,1128299,3/25/2022,West,Colorado,Denver,Powerade,$0.45 ,"2,000",$900 ,$450 ,50%
+West Soda,1128299,3/26/2022,West,Colorado,Denver,Dasani Water,$0.40 ,"4,000","$1,600 ",$240 ,15%
+West Soda,1128299,3/27/2022,West,Colorado,Denver,Coca-Cola,$0.40 ,"5,500","$2,200 ",$770 ,35%
+West Soda,1128299,3/28/2022,West,Colorado,Denver,Diet Coke,$0.50 ,"4,000","$2,000 ",$400 ,20%
+West Soda,1128299,3/29/2022,West,Colorado,Denver,Sprite,$0.55 ,"4,000","$2,200 ",$770 ,35%
+West Soda,1128299,3/30/2022,West,Colorado,Denver,Fanta,$0.55 ,"3,000","$1,650 ",$495 ,30%
+West Soda,1128299,3/31/2022,West,Colorado,Denver,Powerade,$0.60 ,"1,500",$900 ,$450 ,50%
+West Soda,1128299,4/1/2022,West,Colorado,Denver,Dasani Water,$0.55 ,"3,500","$1,925 ",$289 ,15%
+West Soda,1128299,4/2/2022,West,Colorado,Denver,Coca-Cola,$0.60 ,"5,250","$3,150 ","$1,103 ",35%
+West Soda,1128299,4/3/2022,West,Colorado,Denver,Diet Coke,$0.65 ,"3,250","$2,113 ",$423 ,20%
+West Soda,1128299,4/4/2022,West,Colorado,Denver,Sprite,$0.65 ,"3,750","$2,438 ",$853 ,35%
+West Soda,1128299,4/5/2022,West,Colorado,Denver,Fanta,$0.60 ,"2,750","$1,650 ",$495 ,30%
+West Soda,1128299,4/6/2022,West,Colorado,Denver,Powerade,$0.65 ,"1,750","$1,138 ",$569 ,50%
+West Soda,1128299,4/7/2022,West,Colorado,Denver,Dasani Water,$0.80 ,"3,250","$2,600 ",$390 ,15%
+West Soda,1128299,4/8/2022,West,Colorado,Denver,Coca-Cola,$0.60 ,"5,250","$3,150 ","$1,575 ",50%
+West Soda,1128299,4/9/2022,West,Colorado,Denver,Diet Coke,$0.65 ,"3,750","$2,438 ",$853 ,35%
+West Soda,1128299,4/10/2022,West,Colorado,Denver,Sprite,$0.65 ,"3,750","$2,438 ","$1,219 ",50%
+West Soda,1128299,4/11/2022,West,Colorado,Denver,Fanta,$0.60 ,"2,750","$1,650 ",$743 ,45%
+West Soda,1128299,4/12/2022,West,Colorado,Denver,Powerade,$0.65 ,"1,750","$1,138 ",$739 ,65%
+West Soda,1128299,4/13/2022,West,Colorado,Denver,Dasani Water,$0.80 ,"4,750","$3,800 ","$1,140 ",30%
+West Soda,1128299,4/14/2022,West,Colorado,Denver,Coca-Cola,$0.60 ,"7,250","$4,350 ","$2,175 ",50%
+West Soda,1128299,4/15/2022,West,Colorado,Denver,Diet Coke,$0.65 ,"5,750","$3,738 ","$1,308 ",35%
+West Soda,1128299,4/16/2022,West,Colorado,Denver,Sprite,$0.65 ,"5,750","$3,738 ","$1,869 ",50%
+West Soda,1128299,4/17/2022,West,Colorado,Denver,Fanta,$0.65 ,"4,500","$2,925 ","$1,316 ",45%
+West Soda,1128299,4/18/2022,West,Colorado,Denver,Powerade,$0.70 ,"3,250","$2,275 ","$1,479 ",65%
+West Soda,1128299,4/19/2022,West,Colorado,Denver,Dasani Water,$0.85 ,"6,250","$5,313 ","$1,594 ",30%
+West Soda,1128299,4/20/2022,West,Colorado,Denver,Coca-Cola,$0.65 ,"7,750","$5,038 ","$2,267 ",45%
+West Soda,1128299,4/21/2022,West,Colorado,Denver,Diet Coke,$0.70 ,"6,250","$4,375 ","$1,313 ",30%
+West Soda,1128299,4/22/2022,West,Colorado,Denver,Sprite,$0.70 ,"5,750","$4,025 ","$1,811 ",45%
+West Soda,1128299,4/23/2022,West,Colorado,Denver,Fanta,$0.65 ,"4,750","$3,088 ","$1,235 ",40%
+West Soda,1128299,4/24/2022,West,Colorado,Denver,Powerade,$0.70 ,"5,250","$3,675 ","$2,205 ",60%
+West Soda,1128299,4/25/2022,West,Colorado,Denver,Dasani Water,$0.85 ,"5,250","$4,463 ","$1,116 ",25%
+West Soda,1128299,4/26/2022,West,Colorado,Denver,Coca-Cola,$0.70 ,"7,250","$5,075 ","$2,284 ",45%
+West Soda,1128299,4/27/2022,West,Colorado,Denver,Diet Coke,$0.75 ,"6,750","$5,063 ","$1,519 ",30%
+West Soda,1128299,4/28/2022,West,Colorado,Denver,Sprite,$0.70 ,"5,500","$3,850 ","$1,733 ",45%
+West Soda,1128299,4/29/2022,West,Colorado,Denver,Fanta,$0.70 ,"5,000","$3,500 ","$1,400 ",40%
+West Soda,1128299,4/30/2022,West,Colorado,Denver,Powerade,$0.75 ,"5,000","$3,750 ","$2,250 ",60%
+West Soda,1128299,5/1/2022,West,Colorado,Denver,Dasani Water,$0.80 ,"4,000","$3,200 ",$800 ,25%
+West Soda,1128299,5/2/2022,West,Colorado,Denver,Coca-Cola,$0.65 ,"6,000","$3,900 ","$1,560 ",40%
+West Soda,1128299,5/3/2022,West,Colorado,Denver,Diet Coke,$0.70 ,"6,000","$4,200 ","$1,050 ",25%
+West Soda,1128299,5/4/2022,West,Colorado,Denver,Sprite,$0.65 ,"4,500","$2,925 ","$1,170 ",40%
+West Soda,1128299,5/5/2022,West,Colorado,Denver,Fanta,$0.65 ,"4,000","$2,600 ",$910 ,35%
+West Soda,1128299,5/6/2022,West,Colorado,Denver,Powerade,$0.75 ,"4,000","$3,000 ","$1,650 ",55%
+West Soda,1128299,5/7/2022,West,Colorado,Denver,Dasani Water,$0.70 ,"4,250","$2,975 ",$595 ,20%
+West Soda,1128299,5/8/2022,West,Colorado,Denver,Coca-Cola,$0.55 ,"5,250","$2,888 ","$1,155 ",40%
+West Soda,1128299,5/9/2022,West,Colorado,Denver,Diet Coke,$0.60 ,"5,250","$3,150 ",$788 ,25%
+West Soda,1128299,5/10/2022,West,Colorado,Denver,Sprite,$0.55 ,"3,500","$1,925 ",$770 ,40%
+West Soda,1128299,5/11/2022,West,Colorado,Denver,Fanta,$0.55 ,"3,250","$1,788 ",$626 ,35%
+West Soda,1128299,5/12/2022,West,Colorado,Denver,Powerade,$0.65 ,"3,000","$1,950 ","$1,073 ",55%
+West Soda,1128299,5/13/2022,West,Colorado,Denver,Dasani Water,$0.70 ,"3,500","$2,450 ",$490 ,20%
+West Soda,1128299,5/14/2022,West,Colorado,Denver,Coca-Cola,$0.55 ,"5,750","$3,163 ","$1,265 ",40%
+West Soda,1128299,5/15/2022,West,Colorado,Denver,Diet Coke,$0.60 ,"5,750","$3,450 ",$863 ,25%
+West Soda,1128299,5/16/2022,West,Colorado,Denver,Sprite,$0.55 ,"4,250","$2,338 ",$935 ,40%
+West Soda,1128299,5/17/2022,West,Colorado,Denver,Fanta,$0.65 ,"4,000","$2,600 ",$910 ,35%
+West Soda,1128299,5/18/2022,West,Colorado,Denver,Powerade,$0.75 ,"3,750","$2,813 ","$1,547 ",55%
+West Soda,1128299,5/19/2022,West,Colorado,Denver,Dasani Water,$0.80 ,"5,000","$4,000 ",$800 ,20%
+West Soda,1128299,5/20/2022,West,Colorado,Denver,Coca-Cola,$0.65 ,"7,000","$4,550 ","$1,820 ",40%
+West Soda,1128299,5/21/2022,West,Colorado,Denver,Diet Coke,$0.70 ,"7,000","$4,900 ","$1,225 ",25%
+West Soda,1128299,5/22/2022,West,Colorado,Denver,Sprite,$0.65 ,"5,000","$3,250 ","$1,300 ",40%
+West Soda,1128299,5/23/2022,West,Colorado,Denver,Fanta,$0.65 ,"5,000","$3,250 ","$1,138 ",35%
+West Soda,1128299,5/24/2022,West,Colorado,Denver,Powerade,$0.75 ,"4,250","$3,188 ","$1,753 ",55%
+West Soda,1128299,5/25/2022,West,Colorado,Denver,Dasani Water,$0.80 ,"5,250","$4,200 ",$840 ,20%
+West Soda,1128299,5/26/2022,West,Colorado,Denver,Coca-Cola,$0.40 ,"4,500","$1,800 ",$540 ,30%
+West Soda,1128299,5/27/2022,West,Colorado,Denver,Diet Coke,$0.50 ,"4,500","$2,250 ",$563 ,25%
+West Soda,1128299,5/28/2022,West,Colorado,Denver,Sprite,$0.50 ,"4,500","$2,250 ",$563 ,25%
+West Soda,1128299,5/29/2022,West,Colorado,Denver,Fanta,$0.50 ,"3,000","$1,500 ",$450 ,30%
+West Soda,1128299,5/30/2022,West,Washington,Seattle,Powerade,$0.55 ,"2,500","$1,375 ",$344 ,25%
+West Soda,1128299,5/31/2022,West,Washington,Seattle,Dasani Water,$0.50 ,"5,000","$2,500 ",$500 ,20%
+West Soda,1128299,6/1/2022,West,Washington,Seattle,Coca-Cola,$0.40 ,"5,500","$2,200 ",$660 ,30%
+West Soda,1128299,6/2/2022,West,Washington,Seattle,Diet Coke,$0.50 ,"4,500","$2,250 ",$563 ,25%
+West Soda,1128299,6/3/2022,West,Washington,Seattle,Sprite,$0.50 ,"4,500","$2,250 ",$563 ,25%
+West Soda,1128299,6/4/2022,West,Washington,Seattle,Fanta,$0.50 ,"3,000","$1,500 ",$450 ,30%
+West Soda,1128299,6/5/2022,West,Washington,Seattle,Powerade,$0.55 ,"2,250","$1,238 ",$309 ,25%
+West Soda,1128299,6/6/2022,West,Washington,Seattle,Dasani Water,$0.50 ,"4,250","$2,125 ",$425 ,20%
+West Soda,1128299,6/7/2022,West,Washington,Seattle,Coca-Cola,$0.50 ,"5,750","$2,875 ",$863 ,30%
+West Soda,1128299,6/8/2022,West,Washington,Seattle,Diet Coke,$0.60 ,"4,250","$2,550 ",$638 ,25%
+West Soda,1128299,6/9/2022,West,Washington,Seattle,Sprite,$0.65 ,"4,250","$2,763 ",$691 ,25%
+West Soda,1128299,6/10/2022,West,Washington,Seattle,Fanta,$0.65 ,"3,250","$2,113 ",$634 ,30%
+West Soda,1128299,6/11/2022,West,Washington,Seattle,Powerade,$0.70 ,"1,750","$1,225 ",$306 ,25%
+West Soda,1128299,6/12/2022,West,Washington,Seattle,Dasani Water,$0.65 ,"3,750","$2,438 ",$488 ,20%
+West Soda,1128299,6/13/2022,West,Washington,Seattle,Coca-Cola,$0.70 ,"5,500","$3,850 ","$1,155 ",30%
+West Soda,1128299,6/14/2022,West,Washington,Seattle,Diet Coke,$0.75 ,"3,500","$2,625 ",$656 ,25%
+West Soda,1128299,6/15/2022,West,Washington,Seattle,Sprite,$0.75 ,"4,000","$3,000 ",$750 ,25%
+West Soda,1128299,6/16/2022,West,Washington,Seattle,Fanta,$0.60 ,"3,000","$1,800 ",$540 ,30%
+West Soda,1128299,6/17/2022,West,Washington,Seattle,Powerade,$0.65 ,"2,000","$1,300 ",$325 ,25%
+West Soda,1128299,6/18/2022,West,Washington,Seattle,Dasani Water,$0.80 ,"3,500","$2,800 ",$560 ,20%
+West Soda,1128299,6/19/2022,West,Washington,Seattle,Coca-Cola,$0.60 ,"5,500","$3,300 ",$990 ,30%
+West Soda,1128299,6/20/2022,West,Washington,Seattle,Diet Coke,$0.65 ,"4,000","$2,600 ",$650 ,25%
+West Soda,1128299,6/21/2022,West,Washington,Seattle,Sprite,$0.65 ,"4,000","$2,600 ",$650 ,25%
+West Soda,1128299,6/22/2022,West,Washington,Seattle,Fanta,$0.60 ,"3,000","$1,800 ",$540 ,30%
+West Soda,1128299,6/23/2022,West,Washington,Seattle,Powerade,$0.65 ,"2,000","$1,300 ",$325 ,25%
+West Soda,1128299,6/24/2022,West,Washington,Seattle,Dasani Water,$0.80 ,"5,000","$4,000 ",$800 ,20%
+West Soda,1128299,6/25/2022,West,Washington,Seattle,Coca-Cola,$0.75 ,"7,500","$5,625 ","$1,688 ",30%
+West Soda,1128299,6/26/2022,West,Washington,Seattle,Diet Coke,$0.80 ,"6,250","$5,000 ","$1,250 ",25%
+West Soda,1128299,6/27/2022,West,Washington,Seattle,Sprite,$0.80 ,"6,250","$5,000 ","$1,250 ",25%
+West Soda,1128299,6/28/2022,West,Washington,Seattle,Fanta,$0.80 ,"5,000","$4,000 ","$1,200 ",30%
+West Soda,1128299,6/29/2022,West,Washington,Seattle,Powerade,$0.85 ,"3,750","$3,188 ",$797 ,25%
+West Soda,1128299,6/30/2022,West,Washington,Seattle,Dasani Water,$1.00 ,"6,750","$6,750 ","$1,350 ",20%
+West Soda,1128299,7/1/2022,West,Washington,Seattle,Coca-Cola,$0.80 ,"8,250","$6,600 ","$1,980 ",30%
+West Soda,1128299,7/2/2022,West,Washington,Seattle,Diet Coke,$0.85 ,"6,750","$5,738 ","$1,434 ",25%
+West Soda,1128299,7/3/2022,West,Washington,Seattle,Sprite,$0.85 ,"6,250","$5,313 ","$1,328 ",25%
+West Soda,1128299,7/4/2022,West,Washington,Seattle,Fanta,$0.80 ,"5,250","$4,200 ","$1,260 ",30%
+West Soda,1128299,7/5/2022,West,Washington,Seattle,Powerade,$0.85 ,"5,750","$4,888 ","$1,222 ",25%
+West Soda,1128299,7/6/2022,West,Washington,Seattle,Dasani Water,$1.00 ,"5,750","$5,750 ","$1,150 ",20%
+West Soda,1128299,7/7/2022,West,Washington,Seattle,Coca-Cola,$0.85 ,"7,750","$6,588 ","$1,976 ",30%
+West Soda,1128299,7/8/2022,West,Washington,Seattle,Diet Coke,$0.80 ,"7,500","$6,000 ","$1,500 ",25%
+West Soda,1128299,7/9/2022,West,Washington,Seattle,Sprite,$0.75 ,"6,250","$4,688 ","$1,172 ",25%
+West Soda,1128299,7/10/2022,West,Washington,Seattle,Fanta,$0.75 ,"5,750","$4,313 ","$1,294 ",30%
+West Soda,1128299,7/11/2022,West,Washington,Seattle,Powerade,$0.75 ,"5,750","$4,313 ","$1,078 ",25%
+West Soda,1128299,7/12/2022,West,Washington,Seattle,Dasani Water,$0.80 ,"4,000","$3,200 ",$640 ,20%
+West Soda,1128299,7/13/2022,West,Washington,Seattle,Coca-Cola,$0.70 ,"6,000","$4,200 ","$1,260 ",30%
+West Soda,1128299,7/14/2022,West,Washington,Seattle,Diet Coke,$0.75 ,"6,000","$4,500 ","$1,125 ",25%
+West Soda,1128299,7/15/2022,West,Washington,Seattle,Sprite,$0.70 ,"4,500","$3,150 ",$788 ,25%
+West Soda,1128299,7/16/2022,West,Washington,Seattle,Fanta,$0.70 ,"4,000","$2,800 ",$840 ,30%
+West Soda,1128299,7/17/2022,West,Washington,Seattle,Powerade,$0.80 ,"4,250","$3,400 ",$850 ,25%
+West Soda,1128299,7/18/2022,West,Washington,Seattle,Dasani Water,$0.65 ,"4,500","$2,925 ",$585 ,20%
+West Soda,1128299,7/19/2022,West,Washington,Seattle,Coca-Cola,$0.60 ,"5,500","$3,300 ",$990 ,30%
+West Soda,1128299,7/20/2022,West,Washington,Seattle,Diet Coke,$0.65 ,"5,500","$3,575 ",$894 ,25%
+West Soda,1128299,7/21/2022,West,Washington,Seattle,Sprite,$0.60 ,"3,750","$2,250 ",$563 ,25%
+West Soda,1128299,7/22/2022,West,Washington,Seattle,Fanta,$0.60 ,"3,500","$2,100 ",$630 ,30%
+West Soda,1128299,7/23/2022,West,Washington,Seattle,Powerade,$0.70 ,"3,250","$2,275 ",$569 ,25%
+West Soda,1128299,7/24/2022,West,Washington,Seattle,Dasani Water,$0.75 ,"3,750","$2,813 ",$563 ,20%
+West Soda,1128299,7/25/2022,West,Washington,Seattle,Coca-Cola,$0.60 ,"6,000","$3,600 ","$1,080 ",30%
+West Soda,1128299,7/26/2022,West,Washington,Seattle,Diet Coke,$0.65 ,"6,250","$4,063 ","$1,016 ",25%
+West Soda,1128299,7/27/2022,West,Washington,Seattle,Sprite,$0.60 ,"4,750","$2,850 ",$713 ,25%
+West Soda,1128299,7/28/2022,West,Washington,Seattle,Fanta,$0.70 ,"4,500","$3,150 ",$945 ,30%
+West Soda,1128299,7/29/2022,West,Washington,Seattle,Powerade,$0.90 ,"4,250","$3,825 ",$956 ,25%
+West Soda,1128299,7/30/2022,West,Washington,Seattle,Dasani Water,$0.95 ,"5,500","$5,225 ","$1,045 ",20%
+West Soda,1128299,7/31/2022,West,Washington,Seattle,Coca-Cola,$0.80 ,"7,500","$6,000 ","$1,800 ",30%
+West Soda,1128299,8/1/2022,West,Washington,Seattle,Diet Coke,$0.85 ,"7,500","$6,375 ","$1,594 ",25%
+West Soda,1128299,8/2/2022,West,Washington,Seattle,Sprite,$0.80 ,"5,500","$4,400 ","$1,100 ",25%
+West Soda,1128299,8/3/2022,West,Washington,Seattle,Fanta,$0.80 ,"5,500","$4,400 ","$1,320 ",30%
+West Soda,1128299,8/4/2022,West,Washington,Seattle,Powerade,$0.90 ,"4,750","$4,275 ","$1,069 ",25%
+West Soda,1128299,8/5/2022,West,Washington,Seattle,Dasani Water,$0.95 ,"5,750","$5,463 ","$1,093 ",20%
+BevCo,1185732,8/6/2022,West,Washington,Seattle,Coca-Cola,$0.45 ,"10,500","$4,725 ","$2,126 ",45%
+BevCo,1185732,8/7/2022,West,Washington,Seattle,Diet Coke,$0.45 ,"8,500","$3,825 ","$1,339 ",35%
+BevCo,1185732,8/8/2022,West,Washington,Seattle,Sprite,$0.35 ,"8,500","$2,975 ",$744 ,25%
+BevCo,1185732,8/9/2022,West,Washington,Seattle,Fanta,$0.40 ,"7,000","$2,800 ",$840 ,30%
+BevCo,1185732,8/10/2022,Southeast,Florida,Miami,Powerade,$0.55 ,"7,500","$4,125 ","$1,444 ",35%
+BevCo,1185732,8/11/2022,Southeast,Florida,Miami,Dasani Water,$0.45 ,"8,500","$3,825 ","$1,913 ",50%
+BevCo,1185732,8/12/2022,Southeast,Florida,Miami,Coca-Cola,$0.45 ,"11,000","$4,950 ","$2,228 ",45%
+BevCo,1185732,8/13/2022,Southeast,Florida,Miami,Diet Coke,$0.45 ,"7,500","$3,375 ","$1,181 ",35%
+BevCo,1185732,8/14/2022,Southeast,Florida,Miami,Sprite,$0.35 ,"8,000","$2,800 ",$700 ,25%
+West Soda,1185732,8/15/2022,Southeast,Florida,Miami,Fanta,$0.40 ,"6,750","$2,700 ",$810 ,30%
+BevCo,1185732,8/16/2022,Southeast,Florida,Miami,Powerade,$0.55 ,"7,500","$4,125 ","$1,444 ",35%
+BevCo,1185732,8/17/2022,Southeast,Florida,Miami,Dasani Water,$0.45 ,"8,500","$3,825 ","$1,913 ",50%
+BevCo,1185732,8/18/2022,Southeast,Florida,Miami,Coca-Cola,$0.45 ,"10,700","$4,815 ","$2,167 ",45%
+BevCo,1185732,8/19/2022,Southeast,Florida,Miami,Diet Coke,$0.45 ,"7,500","$3,375 ","$1,181 ",35%
+BevCo,1185732,8/20/2022,Southeast,Florida,Miami,Sprite,$0.35 ,"7,750","$2,713 ",$678 ,25%
+BevCo,1185732,8/21/2022,Southeast,Florida,Miami,Fanta,$0.40 ,"6,250","$2,500 ",$750 ,30%
+BevCo,1185732,8/22/2022,Southeast,Florida,Miami,Powerade,$0.55 ,"6,750","$3,713 ","$1,299 ",35%
+BevCo,1185732,8/23/2022,Southeast,Florida,Miami,Dasani Water,$0.45 ,"7,750","$3,488 ","$1,744 ",50%
+BevCo,1185732,4/24/2022,Southeast,Florida,Miami,Coca-Cola,$0.45 ,"10,250","$4,613 ","$2,076 ",45%
+BevCo,1185732,4/24/2022,Southeast,Florida,Miami,Diet Coke,$0.45 ,"7,250","$3,263 ","$1,142 ",35%
+West Soda,1185732,4/24/2022,Southeast,Florida,Miami,Sprite,$0.35 ,"7,250","$2,538 ",$634 ,25%
+West Soda,1185732,4/24/2022,Southeast,Florida,Miami,Fanta,$0.40 ,"6,500","$2,600 ",$780 ,30%
+West Soda,1185732,4/24/2022,Southeast,Florida,Miami,Powerade,$0.55 ,"6,750","$3,713 ","$1,299 ",35%
+West Soda,1185732,4/24/2022,Southeast,Florida,Miami,Dasani Water,$0.45 ,"8,000","$3,600 ","$1,800 ",50%
+West Soda,1185732,4/24/2022,Southeast,Florida,Miami,Coca-Cola,$0.55 ,"10,700","$5,885 ","$2,648 ",45%
+West Soda,1185732,4/24/2022,Southeast,Florida,Miami,Diet Coke,$0.55 ,"7,750","$4,263 ","$1,492 ",35%
+West Soda,1185732,4/24/2022,Southeast,Florida,Miami,Sprite,$0.50 ,"7,500","$3,750 ",$938 ,25%
+West Soda,1185732,4/24/2022,Southeast,Florida,Miami,Fanta,$0.50 ,"7,000","$3,500 ","$1,050 ",30%
+West Soda,1185732,4/24/2022,Southeast,Florida,Miami,Powerade,$0.60 ,"7,250","$4,350 ","$1,523 ",35%
+West Soda,1185732,4/24/2022,Southeast,Florida,Miami,Dasani Water,$0.65 ,"8,250","$5,363 ","$2,681 ",50%
+West Soda,1185732,4/24/2022,Southeast,Florida,Miami,Coca-Cola,$0.60 ,"10,750","$6,450 ","$2,903 ",45%
+West Soda,1185732,4/24/2022,Southeast,Florida,Miami,Diet Coke,$0.55 ,"8,250","$4,538 ","$1,588 ",35%
+West Soda,1185732,9/7/2022,Southeast,Florida,Miami,Sprite,$0.50 ,"8,000","$4,000 ","$1,000 ",25%
+West Soda,1185732,9/8/2022,Southeast,Florida,Miami,Fanta,$0.50 ,"7,750","$3,875 ","$1,163 ",30%
+West Soda,1185732,9/9/2022,Southeast,Florida,Miami,Powerade,$0.65 ,"7,750","$5,038 ","$1,763 ",35%
+West Soda,1185732,9/10/2022,Southeast,Florida,Miami,Dasani Water,$0.70 ,"9,250","$6,475 ","$3,238 ",50%
+West Soda,1185732,9/11/2022,Southeast,Florida,Miami,Coca-Cola,$0.65 ,"11,500","$7,475 ","$3,364 ",45%
+West Soda,1185732,9/12/2022,Southeast,Florida,Miami,Diet Coke,$0.60 ,"9,000","$5,400 ","$1,890 ",35%
+West Soda,1185732,9/13/2022,Southeast,Florida,Miami,Sprite,$0.55 ,"8,250","$4,538 ","$1,134 ",25%
+West Soda,1185732,9/14/2022,Southeast,Florida,Miami,Fanta,$0.55 ,"7,750","$4,263 ","$1,279 ",30%
+West Soda,1185732,9/15/2022,Southeast,Florida,Miami,Powerade,$0.65 ,"8,000","$5,200 ","$1,820 ",35%
+West Soda,1185732,9/16/2022,Southeast,Florida,Miami,Dasani Water,$0.70 ,"9,750","$6,825 ","$3,413 ",50%
+West Soda,1185732,9/17/2022,Southeast,Florida,Miami,Coca-Cola,$0.65 ,"11,250","$7,313 ","$3,291 ",45%
+West Soda,1185732,9/18/2022,Southeast,Florida,Miami,Diet Coke,$0.60 ,"9,000","$5,400 ","$1,890 ",35%
+West Soda,1185732,9/19/2022,Southeast,Florida,Miami,Sprite,$0.55 ,"8,250","$4,538 ","$1,134 ",25%
+BevCo,1185732,9/20/2022,Southeast,Florida,Miami,Fanta,$0.45 ,"7,750","$3,488 ","$1,046 ",30%
+BevCo,1185732,9/21/2022,Southeast,Florida,Miami,Powerade,$0.55 ,"7,500","$4,125 ","$1,444 ",35%
+BevCo,1185732,9/22/2022,Southeast,Florida,Miami,Dasani Water,$0.60 ,"9,250","$5,550 ","$2,775 ",50%
+BevCo,1185732,9/23/2022,Southeast,Florida,Miami,Coca-Cola,$0.55 ,"10,500","$5,775 ","$2,599 ",45%
+BevCo,1185732,9/24/2022,Southeast,Florida,Miami,Diet Coke,$0.50 ,"8,500","$4,250 ","$1,488 ",35%
+FizzyCo,1185732,9/25/2022,Southeast,Florida,Miami,Sprite,$0.45 ,"7,500","$3,375 ",$844 ,25%
+FizzyCo,1185732,9/26/2022,Southeast,Florida,Miami,Fanta,$0.45 ,"7,250","$3,263 ",$979 ,30%
+FizzyCo,1185732,9/27/2022,Southeast,Florida,Miami,Powerade,$0.55 ,"7,250","$3,988 ","$1,396 ",35%
+FizzyCo,1185732,9/28/2022,Southeast,Florida,Miami,Dasani Water,$0.60 ,"8,250","$4,950 ","$2,475 ",50%
+FizzyCo,1185732,9/29/2022,Southeast,Florida,Miami,Coca-Cola,$0.60 ,"10,000","$6,000 ","$2,700 ",45%
+FizzyCo,1185732,9/30/2022,Southeast,Florida,Miami,Diet Coke,$0.50 ,"8,250","$4,125 ","$1,444 ",35%
+FizzyCo,1185732,10/1/2022,Southeast,Florida,Miami,Sprite,$0.50 ,"7,250","$3,625 ",$906 ,25%
+FizzyCo,1185732,10/2/2022,Southeast,Florida,Miami,Fanta,$0.50 ,"7,000","$3,500 ","$1,050 ",30%
+FizzyCo,1185732,10/3/2022,Southeast,Florida,Miami,Powerade,$0.60 ,"7,000","$4,200 ","$1,470 ",35%
+FizzyCo,1185732,10/4/2022,Southeast,Florida,Miami,Dasani Water,$0.65 ,"8,250","$5,363 ","$2,681 ",50%
+FizzyCo,1185732,10/5/2022,Southeast,Florida,Miami,Coca-Cola,$0.60 ,"9,750","$5,850 ","$2,633 ",45%
+FizzyCo,1185732,10/6/2022,Southeast,Florida,Miami,Diet Coke,$0.50 ,"8,000","$4,000 ","$1,400 ",35%
+FizzyCo,1185732,10/7/2022,Southeast,Florida,Miami,Sprite,$0.50 ,"7,450","$3,725 ",$931 ,25%
+FizzyCo,1185732,10/8/2022,Southeast,Florida,Miami,Fanta,$0.50 ,"7,750","$3,875 ","$1,163 ",30%
+FizzyCo,1185732,10/9/2022,Southeast,Florida,Miami,Powerade,$0.65 ,"7,500","$4,875 ","$1,706 ",35%
+FizzyCo,1185732,10/10/2022,Southeast,Florida,Miami,Dasani Water,$0.70 ,"8,500","$5,950 ","$2,975 ",50%
+FizzyCo,1185732,5/24/2022,Southeast,Florida,Miami,Coca-Cola,$0.65 ,"10,750","$6,988 ","$3,144 ",45%
+FizzyCo,1185732,5/24/2022,Southeast,Florida,Miami,Diet Coke,$0.55 ,"8,750","$4,813 ","$1,684 ",35%
+FizzyCo,1185732,5/24/2022,Southeast,Florida,Miami,Sprite,$0.55 ,"8,250","$4,538 ","$1,134 ",25%
+FizzyCo,1185732,5/24/2022,Southeast,Florida,Miami,Fanta,$0.55 ,"7,750","$4,263 ","$1,279 ",30%
+BevCo,1185732,5/24/2022,Southeast,Florida,Miami,Powerade,$0.65 ,"7,750","$5,038 ","$1,763 ",35%
+BevCo,1185732,5/24/2022,Southeast,Florida,Miami,Dasani Water,$0.70 ,"8,750","$6,125 ","$3,063 ",50%
+BevCo,1185732,10/17/2022,Southeast,Florida,Miami,Coca-Cola,$0.35 ,"4,500","$1,575 ",$551 ,35%
+BevCo,1185732,10/18/2022,Southeast,Florida,Miami,Diet Coke,$0.35 ,"2,500",$875 ,$263 ,30%
+BevCo,1185732,10/19/2022,Southeast,Florida,Miami,Sprite,$0.25 ,"2,500",$625 ,$188 ,30%
+BevCo,1185732,10/20/2022,Southeast,Florida,Miami,Fanta,$0.30 ,"1,000",$300 ,$105 ,35%
+BevCo,1185732,10/21/2022,Midwest,Minnesota,Minneapolis,Powerade,$0.45 ,"1,500",$675 ,$203 ,30%
+BevCo,1185732,10/22/2022,Midwest,Minnesota,Minneapolis,Dasani Water,$0.35 ,"2,500",$875 ,$394 ,45%
+BevCo,1185732,10/23/2022,Midwest,Minnesota,Minneapolis,Coca-Cola,$0.35 ,"5,000","$1,750 ",$613 ,35%
+BevCo,1185732,10/24/2022,Midwest,Minnesota,Minneapolis,Diet Coke,$0.35 ,"1,500",$525 ,$158 ,30%
+BevCo,1185732,10/25/2022,Midwest,Minnesota,Minneapolis,Sprite,$0.25 ,"2,000",$500 ,$150 ,30%
+BevCo,1185732,10/26/2022,Midwest,Minnesota,Minneapolis,Fanta,$0.30 ,750,$225 ,$79 ,35%
+BevCo,1185732,10/27/2022,Midwest,Minnesota,Minneapolis,Powerade,$0.45 ,"1,500",$675 ,$203 ,30%
+BevCo,1185732,10/28/2022,Midwest,Minnesota,Minneapolis,Dasani Water,$0.35 ,"2,250",$788 ,$354 ,45%
+BevCo,1185732,10/29/2022,Midwest,Minnesota,Minneapolis,Coca-Cola,$0.40 ,"4,450","$1,780 ",$623 ,35%
+BevCo,1185732,10/30/2022,Midwest,Minnesota,Minneapolis,Diet Coke,$0.40 ,"1,250",$500 ,$150 ,30%
+BevCo,1185732,10/31/2022,Midwest,Minnesota,Minneapolis,Sprite,$0.30 ,"1,750",$525 ,$158 ,30%
+BevCo,1185732,11/1/2022,Midwest,Minnesota,Minneapolis,Fanta,$0.35 ,250,$88 ,$31 ,35%
+BevCo,1185732,11/2/2022,Midwest,Minnesota,Minneapolis,Powerade,$0.50 ,750,$375 ,$113 ,30%
+BevCo,1185732,11/3/2022,Midwest,Minnesota,Minneapolis,Dasani Water,$0.40 ,"1,750",$700 ,$315 ,45%
+BevCo,1185732,11/4/2022,Midwest,Minnesota,Minneapolis,Coca-Cola,$0.40 ,"4,000","$1,600 ",$560 ,35%
+BevCo,1185732,11/5/2022,Midwest,Minnesota,Minneapolis,Diet Coke,$0.40 ,"1,000",$400 ,$120 ,30%
+BevCo,1185732,11/6/2022,Midwest,Minnesota,Minneapolis,Sprite,$0.30 ,"1,000",$300 ,$90 ,30%
+BevCo,1185732,11/7/2022,Midwest,Minnesota,Minneapolis,Fanta,$0.35 ,250,$88 ,$31 ,35%
+BevCo,1185732,11/8/2022,Midwest,Minnesota,Minneapolis,Powerade,$0.50 ,500,$250 ,$75 ,30%
+BevCo,1185732,11/9/2022,Midwest,Minnesota,Minneapolis,Dasani Water,$0.40 ,"1,750",$700 ,$315 ,45%
+BevCo,1185732,11/10/2022,Midwest,Minnesota,Minneapolis,Coca-Cola,$0.50 ,"4,450","$2,225 ",$779 ,35%
+BevCo,1185732,11/11/2022,Midwest,Minnesota,Minneapolis,Diet Coke,$0.45 ,"1,500",$675 ,$203 ,30%
+BevCo,1185732,11/12/2022,Midwest,Minnesota,Minneapolis,Sprite,$0.40 ,"1,250",$500 ,$150 ,30%
+BevCo,1185732,11/13/2022,Midwest,Minnesota,Minneapolis,Fanta,$0.40 ,500,$200 ,$70 ,35%
+BevCo,1185732,11/14/2022,Midwest,Minnesota,Minneapolis,Powerade,$0.55 ,750,$413 ,$124 ,30%
+BevCo,1185732,11/15/2022,Midwest,Minnesota,Minneapolis,Dasani Water,$0.60 ,"1,750","$1,050 ",$473 ,45%
+BevCo,1185732,11/16/2022,Midwest,Minnesota,Minneapolis,Coca-Cola,$0.45 ,"4,250","$1,913 ",$669 ,35%
+BevCo,1185732,11/17/2022,Midwest,Minnesota,Minneapolis,Diet Coke,$0.40 ,"1,750",$700 ,$210 ,30%
+BevCo,1185732,11/18/2022,Midwest,Minnesota,Minneapolis,Sprite,$0.35 ,"1,750",$613 ,$184 ,30%
+BevCo,1185732,11/19/2022,Midwest,Minnesota,Minneapolis,Fanta,$0.35 ,"1,500",$525 ,$184 ,35%
+BevCo,1185732,11/20/2022,Midwest,Minnesota,Minneapolis,Powerade,$0.50 ,"1,500",$750 ,$225 ,30%
+BevCo,1185732,11/21/2022,Midwest,Minnesota,Minneapolis,Dasani Water,$0.55 ,"3,250","$1,788 ",$804 ,45%
+BevCo,1185732,11/22/2022,Midwest,Minnesota,Minneapolis,Coca-Cola,$0.50 ,"5,500","$2,750 ",$963 ,35%
+BevCo,1185732,11/23/2022,Midwest,Minnesota,Minneapolis,Diet Coke,$0.45 ,"3,000","$1,350 ",$405 ,30%
+BevCo,1185732,11/24/2022,Midwest,Minnesota,Minneapolis,Sprite,$0.40 ,"2,250",$900 ,$270 ,30%
+BevCo,1185732,11/25/2022,Midwest,Minnesota,Minneapolis,Fanta,$0.40 ,"1,750",$700 ,$245 ,35%
+BevCo,1185732,11/26/2022,Midwest,Minnesota,Minneapolis,Powerade,$0.50 ,"2,000","$1,000 ",$300 ,30%
+BevCo,1185732,11/27/2022,Midwest,Minnesota,Minneapolis,Dasani Water,$0.55 ,"3,750","$2,063 ",$928 ,45%
+BevCo,1185732,11/28/2022,Midwest,Minnesota,Minneapolis,Coca-Cola,$0.50 ,"5,250","$2,625 ",$919 ,35%
+BevCo,1185732,11/29/2022,Midwest,Minnesota,Minneapolis,Diet Coke,$0.45 ,"3,000","$1,350 ",$405 ,30%
+BevCo,1185732,11/30/2022,Midwest,Minnesota,Minneapolis,Sprite,$0.40 ,"2,250",$900 ,$270 ,30%
+BevCo,1185732,12/1/2022,Midwest,Minnesota,Minneapolis,Fanta,$0.35 ,"1,750",$613 ,$214 ,35%
+BevCo,1185732,12/2/2022,Midwest,Minnesota,Minneapolis,Powerade,$0.45 ,"1,500",$675 ,$203 ,30%
+BevCo,1185732,12/3/2022,Midwest,Minnesota,Minneapolis,Dasani Water,$0.50 ,"3,250","$1,625 ",$731 ,45%
+BevCo,1185732,12/4/2022,Midwest,Minnesota,Minneapolis,Coca-Cola,$0.45 ,"4,500","$2,025 ",$709 ,35%
+BevCo,1185732,12/5/2022,Midwest,Minnesota,Minneapolis,Diet Coke,$0.40 ,"2,500","$1,000 ",$300 ,30%
+BevCo,1185732,12/6/2022,Midwest,Minnesota,Minneapolis,Sprite,$0.25 ,"1,500",$375 ,$113 ,30%
+BevCo,1185732,12/7/2022,Midwest,Minnesota,Minneapolis,Fanta,$0.25 ,"1,250",$313 ,$109 ,35%
+BevCo,1185732,12/8/2022,Midwest,Minnesota,Minneapolis,Powerade,$0.35 ,"1,250",$438 ,$131 ,30%
+BevCo,1185732,12/9/2022,Midwest,Minnesota,Minneapolis,Dasani Water,$0.40 ,"2,000",$800 ,$360 ,45%
+BevCo,1185732,12/10/2022,Midwest,Minnesota,Minneapolis,Coca-Cola,$0.45 ,"3,750","$1,688 ",$591 ,35%
+BevCo,1185732,12/11/2022,Midwest,Minnesota,Minneapolis,Diet Coke,$0.35 ,"2,000",$700 ,$210 ,30%
+BevCo,1185732,12/12/2022,Midwest,Minnesota,Minneapolis,Sprite,$0.35 ,"1,000",$350 ,$105 ,30%
+BevCo,1185732,12/13/2022,Midwest,Minnesota,Minneapolis,Fanta,$0.35 ,750,$263 ,$92 ,35%
+BevCo,1185732,12/14/2022,Midwest,Minnesota,Minneapolis,Powerade,$0.45 ,750,$338 ,$101 ,30%
+BevCo,1185732,12/15/2022,Midwest,Minnesota,Minneapolis,Dasani Water,$0.50 ,"2,000","$1,000 ",$450 ,45%
+BevCo,1185732,12/16/2022,Midwest,Minnesota,Minneapolis,Coca-Cola,$0.50 ,"3,500","$1,750 ",$613 ,35%
+BevCo,1185732,12/17/2022,Midwest,Minnesota,Minneapolis,Diet Coke,$0.40 ,"2,000",$800 ,$240 ,30%
+BevCo,1185732,12/18/2022,Midwest,Minnesota,Minneapolis,Sprite,$0.40 ,"1,450",$580 ,$174 ,30%
+BevCo,1185732,12/19/2022,Midwest,Minnesota,Minneapolis,Fanta,$0.40 ,"1,500",$600 ,$210 ,35%
+BevCo,1185732,12/20/2022,Midwest,Minnesota,Minneapolis,Powerade,$0.55 ,"1,250",$688 ,$206 ,30%
+BevCo,1185732,12/21/2022,Midwest,Minnesota,Minneapolis,Dasani Water,$0.60 ,"2,250","$1,350 ",$608 ,45%
+BevCo,1185732,12/22/2022,Midwest,Minnesota,Minneapolis,Coca-Cola,$0.55 ,"4,750","$2,613 ",$914 ,35%
+BevCo,1185732,12/23/2022,Midwest,Minnesota,Minneapolis,Diet Coke,$0.45 ,"2,750","$1,238 ",$371 ,30%
+BevCo,1185732,12/24/2022,Midwest,Minnesota,Minneapolis,Sprite,$0.45 ,"2,250","$1,013 ",$304 ,30%
+BevCo,1185732,12/25/2022,Midwest,Minnesota,Minneapolis,Fanta,$0.45 ,"1,750",$788 ,$276 ,35%
+BevCo,1185732,12/26/2022,Midwest,Minnesota,Minneapolis,Powerade,$0.55 ,"1,750",$963 ,$289 ,30%
+BevCo,1185732,12/27/2022,Midwest,Minnesota,Minneapolis,Dasani Water,$0.60 ,"2,750","$1,650 ",$743 ,45%
+Target,1189833,12/28/2022,Midwest,Minnesota,Minneapolis,Coca-Cola,$0.35 ,"4,750","$1,663 ",$748 ,45%
+Target,1189833,12/29/2022,Midwest,Minnesota,Minneapolis,Diet Coke,$0.45 ,"4,750","$2,138 ",$641 ,30%
+Target,1189833,12/30/2022,Midwest,Minnesota,Minneapolis,Sprite,$0.45 ,"4,750","$2,138 ",$962 ,45%
+Target,1189833,12/31/2022,Midwest,Minnesota,Minneapolis,Fanta,$0.45 ,"3,250","$1,463 ",$585 ,40%
+Target,1189833,1/1/2023,Midwest,Montana,Billings,Powerade,$0.50 ,"2,750","$1,375 ",$825 ,60%
+Target,1189833,1/2/2023,Midwest,Montana,Billings,Dasani Water,$0.45 ,"4,750","$2,138 ",$534 ,25%
+Target,1189833,1/3/2023,Midwest,Montana,Billings,Coca-Cola,$0.35 ,"5,250","$1,838 ",$827 ,45%
+Target,1189833,1/4/2023,Midwest,Montana,Billings,Diet Coke,$0.45 ,"4,250","$1,913 ",$574 ,30%
+Target,1189833,1/5/2023,Midwest,Montana,Billings,Sprite,$0.45 ,"4,500","$2,025 ",$911 ,45%
+Target,1189833,1/6/2023,Midwest,Montana,Billings,Fanta,$0.45 ,"3,000","$1,350 ",$540 ,40%
+Target,1189833,1/7/2023,Midwest,Montana,Billings,Powerade,$0.50 ,"2,250","$1,125 ",$675 ,60%
+Target,1189833,1/8/2023,Midwest,Montana,Billings,Dasani Water,$0.45 ,"4,250","$1,913 ",$478 ,25%
+Target,1189833,1/9/2023,Midwest,Montana,Billings,Coca-Cola,$0.35 ,"5,750","$2,013 ",$906 ,45%
+Target,1189833,1/10/2023,Midwest,Montana,Billings,Diet Coke,$0.45 ,"4,250","$1,913 ",$574 ,30%
+Target,1189833,1/11/2023,Midwest,Montana,Billings,Sprite,$0.45 ,"4,250","$1,913 ",$861 ,45%
+Target,1189833,1/12/2023,Midwest,Montana,Billings,Fanta,$0.45 ,"3,250","$1,463 ",$585 ,40%
+Target,1189833,1/13/2023,Midwest,Montana,Billings,Powerade,$0.50 ,"2,000","$1,000 ",$600 ,60%
+Target,1189833,1/14/2023,Midwest,Montana,Billings,Dasani Water,$0.45 ,"4,000","$1,800 ",$450 ,25%
+Target,1189833,1/15/2023,Midwest,Montana,Billings,Coca-Cola,$0.45 ,"5,750","$2,588 ","$1,164 ",45%
+Target,1189833,1/16/2023,Midwest,Montana,Billings,Diet Coke,$0.45 ,"3,750","$1,688 ",$506 ,30%
+Target,1189833,1/17/2023,Midwest,Montana,Billings,Sprite,$0.45 ,"4,000","$1,800 ",$810 ,45%
+Target,1189833,1/18/2023,Midwest,Montana,Billings,Fanta,$0.40 ,"3,000","$1,200 ",$480 ,40%
+Target,1189833,1/19/2023,Midwest,Montana,Billings,Powerade,$0.45 ,"2,000",$900 ,$540 ,60%
+Target,1189833,1/20/2023,Midwest,Montana,Billings,Dasani Water,$0.60 ,"3,750","$2,250 ",$563 ,25%
+Target,1189833,1/21/2023,Midwest,Montana,Billings,Coca-Cola,$0.40 ,"5,750","$2,300 ","$1,035 ",45%
+Target,1189833,1/22/2023,Midwest,Montana,Billings,Diet Coke,$0.45 ,"4,250","$1,913 ",$574 ,30%
+Target,1189833,1/23/2023,Midwest,Montana,Billings,Sprite,$0.45 ,"4,250","$1,913 ",$861 ,45%
+Target,1189833,1/24/2023,Midwest,Montana,Billings,Fanta,$0.40 ,"3,250","$1,300 ",$520 ,40%
+Target,1189833,1/25/2023,Midwest,Montana,Billings,Powerade,$0.45 ,"2,250","$1,013 ",$608 ,60%
+Target,1189833,1/26/2023,Midwest,Montana,Billings,Dasani Water,$0.60 ,"4,000","$2,400 ",$600 ,25%
+Target,1189833,1/27/2023,Midwest,Montana,Billings,Coca-Cola,$0.40 ,"6,750","$2,700 ","$1,215 ",45%
+Target,1189833,1/28/2023,Midwest,Montana,Billings,Diet Coke,$0.45 ,"5,250","$2,363 ",$709 ,30%
+Target,1189833,1/29/2023,Midwest,Montana,Billings,Sprite,$0.45 ,"5,500","$2,475 ","$1,114 ",45%
+Target,1189833,1/30/2023,Midwest,Montana,Billings,Fanta,$0.40 ,"4,250","$1,700 ",$680 ,40%
+Target,1189833,1/31/2023,Midwest,Montana,Billings,Powerade,$0.45 ,"3,000","$1,350 ",$810 ,60%
+Target,1189833,2/1/2023,Midwest,Montana,Billings,Dasani Water,$0.60 ,"6,000","$3,600 ",$900 ,25%
+Target,1189833,2/2/2023,Midwest,Montana,Billings,Coca-Cola,$0.40 ,"7,500","$3,000 ","$1,350 ",45%
+Target,1189833,2/3/2023,Midwest,Montana,Billings,Diet Coke,$0.45 ,"6,000","$2,700 ",$810 ,30%
+Target,1189833,2/4/2023,Midwest,Montana,Billings,Sprite,$0.45 ,"5,500","$2,475 ","$1,114 ",45%
+Target,1189833,2/5/2023,Midwest,Montana,Billings,Fanta,$0.40 ,"4,500","$1,800 ",$720 ,40%
+Target,1189833,2/6/2023,Midwest,Montana,Billings,Powerade,$0.45 ,"4,750","$2,138 ","$1,283 ",60%
+Target,1189833,2/7/2023,Midwest,Montana,Billings,Dasani Water,$0.60 ,"4,750","$2,850 ",$713 ,25%
+Target,1189833,2/8/2023,Midwest,Montana,Billings,Coca-Cola,$0.45 ,"6,750","$3,038 ","$1,367 ",45%
+Target,1189833,2/9/2023,Midwest,Montana,Billings,Diet Coke,$0.55 ,"6,250","$3,438 ","$1,031 ",30%
+Target,1189833,2/10/2023,Midwest,Montana,Billings,Sprite,$0.50 ,"5,000","$2,500 ","$1,125 ",45%
+Target,1189833,2/11/2023,Midwest,Montana,Billings,Fanta,$0.45 ,"4,250","$1,913 ",$765 ,40%
+Target,1189833,2/12/2023,Midwest,Montana,Billings,Powerade,$0.55 ,"4,250","$2,338 ","$1,403 ",60%
+Target,1189833,2/13/2023,Midwest,Montana,Billings,Dasani Water,$0.60 ,"4,000","$2,400 ",$600 ,25%
+Target,1189833,2/14/2023,Midwest,Montana,Billings,Coca-Cola,$0.45 ,"6,000","$2,700 ","$1,215 ",45%
+Target,1189833,2/15/2023,Midwest,Montana,Billings,Diet Coke,$0.50 ,"6,000","$3,000 ",$900 ,30%
+Target,1189833,2/16/2023,Midwest,Montana,Billings,Sprite,$0.45 ,"4,500","$2,025 ",$911 ,45%
+Target,1189833,2/17/2023,Midwest,Montana,Billings,Fanta,$0.45 ,"4,000","$1,800 ",$720 ,40%
+Target,1189833,2/18/2023,Midwest,Montana,Billings,Powerade,$0.55 ,"4,000","$2,200 ","$1,320 ",60%
+Target,1189833,2/19/2023,Midwest,Montana,Billings,Dasani Water,$0.60 ,"4,500","$2,700 ",$675 ,25%
+Target,1189833,2/20/2023,Midwest,Montana,Billings,Coca-Cola,$0.45 ,"5,500","$2,475 ","$1,114 ",45%
+Target,1189833,2/21/2023,Midwest,Montana,Billings,Diet Coke,$0.50 ,"5,500","$2,750 ",$825 ,30%
+Target,1189833,2/22/2023,Midwest,Montana,Billings,Sprite,$0.45 ,"4,000","$1,800 ",$810 ,45%
+Target,1189833,2/23/2023,Midwest,Montana,Billings,Fanta,$0.45 ,"3,750","$1,688 ",$675 ,40%
+Target,1189833,2/24/2023,Midwest,Montana,Billings,Powerade,$0.55 ,"3,500","$1,925 ","$1,155 ",60%
+Target,1189833,2/25/2023,Midwest,Montana,Billings,Dasani Water,$0.60 ,"4,000","$2,400 ",$600 ,25%
+Target,1189833,2/26/2023,Midwest,Montana,Billings,Coca-Cola,$0.40 ,"5,750","$2,300 ","$1,035 ",45%
+Target,1189833,2/27/2023,Midwest,Montana,Billings,Diet Coke,$0.45 ,"5,750","$2,588 ",$776 ,30%
+Target,1189833,2/28/2023,Midwest,Montana,Billings,Sprite,$0.40 ,"4,250","$1,700 ",$765 ,45%
+Target,1189833,3/1/2023,Midwest,Montana,Billings,Fanta,$0.40 ,"4,250","$1,700 ",$680 ,40%
+Target,1189833,3/2/2023,Midwest,Montana,Billings,Powerade,$0.55 ,"3,750","$2,063 ","$1,238 ",60%
+Target,1189833,3/3/2023,Midwest,Montana,Billings,Dasani Water,$0.60 ,"4,750","$2,850 ",$713 ,25%
+Target,1189833,3/4/2023,Midwest,Montana,Billings,Coca-Cola,$0.45 ,"6,750","$3,038 ","$1,367 ",45%
+Target,1189833,3/5/2023,Midwest,Montana,Billings,Diet Coke,$0.50 ,"6,750","$3,375 ","$1,013 ",30%
+Target,1189833,3/6/2023,Midwest,Montana,Billings,Sprite,$0.45 ,"4,750","$2,138 ",$962 ,45%
+Target,1189833,3/7/2023,Midwest,Montana,Billings,Fanta,$0.45 ,"4,750","$2,138 ",$855 ,40%
+Target,1189833,3/8/2023,Midwest,Montana,Billings,Powerade,$0.55 ,"4,000","$2,200 ","$1,320 ",60%
+Target,1189833,3/9/2023,Midwest,Montana,Billings,Dasani Water,$0.60 ,"5,000","$3,000 ",$750 ,25%
+FizzyCo,1197831,3/10/2023,Midwest,Montana,Billings,Coca-Cola,$0.20 ,"7,000","$1,400 ",$490 ,35%
+FizzyCo,1197831,3/11/2023,Midwest,Montana,Billings,Diet Coke,$0.30 ,"7,000","$2,100 ",$735 ,35%
+FizzyCo,1197831,3/12/2023,Midwest,Montana,Billings,Sprite,$0.30 ,"5,000","$1,500 ",$525 ,35%
+FizzyCo,1197831,3/13/2023,Midwest,Montana,Billings,Fanta,$0.35 ,"5,000","$1,750 ",$788 ,45%
+FizzyCo,1197831,3/14/2023,South,Tennessee,Knoxville,Powerade,$0.40 ,"3,500","$1,400 ",$420 ,30%
+FizzyCo,1197831,3/15/2023,South,Tennessee,Knoxville,Dasani Water,$0.35 ,"5,000","$1,750 ",$875 ,50%
+FizzyCo,1197831,3/16/2023,South,Tennessee,Knoxville,Coca-Cola,$0.25 ,"6,500","$1,625 ",$569 ,35%
+FizzyCo,1197831,3/17/2023,South,Tennessee,Knoxville,Diet Coke,$0.35 ,"6,250","$2,188 ",$766 ,35%
+FizzyCo,1197831,3/18/2023,South,Tennessee,Knoxville,Sprite,$0.35 ,"4,500","$1,575 ",$551 ,35%
+FizzyCo,1197831,3/19/2023,South,Tennessee,Knoxville,Fanta,$0.35 ,"4,000","$1,400 ",$630 ,45%
+FizzyCo,1197831,3/20/2023,South,Tennessee,Knoxville,Powerade,$0.40 ,"2,750","$1,100 ",$330 ,30%
+FizzyCo,1197831,3/21/2023,South,Tennessee,Knoxville,Dasani Water,$0.35 ,"4,750","$1,663 ",$831 ,50%
+FizzyCo,1197831,3/22/2023,South,Tennessee,Knoxville,Coca-Cola,$0.30 ,"6,500","$1,950 ",$780 ,40%
+FizzyCo,1197831,3/23/2023,South,Tennessee,Knoxville,Diet Coke,$0.40 ,"6,500","$2,600 ","$1,040 ",40%
+FizzyCo,1197831,3/24/2023,South,Tennessee,Knoxville,Sprite,$0.30 ,"4,750","$1,425 ",$570 ,40%
+FizzyCo,1197831,3/25/2023,South,Tennessee,Knoxville,Fanta,$0.35 ,"3,750","$1,313 ",$656 ,50%
+FizzyCo,1197831,3/26/2023,South,Tennessee,Knoxville,Powerade,$0.40 ,"2,750","$1,100 ",$385 ,35%
+FizzyCo,1197831,3/27/2023,South,Tennessee,Knoxville,Dasani Water,$0.35 ,"4,250","$1,488 ",$818 ,55%
+FizzyCo,1197831,3/28/2023,South,Tennessee,Knoxville,Coca-Cola,$0.20 ,"6,750","$1,350 ",$540 ,40%
+FizzyCo,1197831,3/29/2023,South,Tennessee,Knoxville,Diet Coke,$0.25 ,"6,750","$1,688 ",$675 ,40%
+FizzyCo,1197831,3/30/2023,South,Tennessee,Knoxville,Sprite,$0.20 ,"5,000","$1,000 ",$400 ,40%
+FizzyCo,1197831,3/31/2023,South,Tennessee,Knoxville,Fanta,$0.25 ,"4,000","$1,000 ",$500 ,50%
+FizzyCo,1197831,4/1/2023,South,Tennessee,Knoxville,Powerade,$0.30 ,"3,000",$900 ,$315 ,35%
+FizzyCo,1197831,4/2/2023,South,Tennessee,Knoxville,Dasani Water,$0.25 ,"5,750","$1,438 ",$791 ,55%
+FizzyCo,1197831,4/3/2023,South,Tennessee,Knoxville,Coca-Cola,$0.15 ,"7,250","$1,088 ",$435 ,40%
+FizzyCo,1197831,4/4/2023,South,Tennessee,Knoxville,Diet Coke,$0.25 ,"7,500","$1,875 ",$750 ,40%
+FizzyCo,1197831,4/5/2023,South,Tennessee,Knoxville,Sprite,$0.20 ,"6,000","$1,200 ",$480 ,40%
+FizzyCo,1197831,4/6/2023,South,Tennessee,Knoxville,Fanta,$0.30 ,"5,250","$1,575 ",$788 ,50%
+FizzyCo,1197831,4/7/2023,South,Tennessee,Knoxville,Powerade,$0.45 ,"4,250","$1,913 ",$669 ,35%
+FizzyCo,1197831,4/8/2023,South,Tennessee,Knoxville,Dasani Water,$0.40 ,"7,750","$3,100 ","$1,705 ",55%
+FizzyCo,1197831,4/9/2023,South,Tennessee,Knoxville,Coca-Cola,$0.40 ,"7,750","$3,100 ","$1,240 ",40%
+FizzyCo,1197831,4/10/2023,South,Tennessee,Knoxville,Diet Coke,$0.45 ,"7,750","$3,488 ","$1,395 ",40%
+FizzyCo,1197831,4/11/2023,South,Tennessee,Knoxville,Sprite,$0.40 ,"6,500","$2,600 ","$1,040 ",40%
+FizzyCo,1197831,4/12/2023,South,Tennessee,Knoxville,Fanta,$0.40 ,"6,000","$2,400 ","$1,200 ",50%
+FizzyCo,1197831,4/13/2023,South,Tennessee,Knoxville,Powerade,$0.45 ,"5,000","$2,250 ",$788 ,35%
+FizzyCo,1197831,4/14/2023,South,Tennessee,Knoxville,Dasani Water,$0.50 ,"8,750","$4,375 ","$2,406 ",55%
+FizzyCo,1197831,4/15/2023,South,Tennessee,Knoxville,Coca-Cola,$0.40 ,"8,250","$3,300 ","$1,485 ",45%
+FizzyCo,1197831,4/16/2023,South,Tennessee,Knoxville,Diet Coke,$0.45 ,"8,250","$3,713 ","$1,671 ",45%
+FizzyCo,1197831,4/17/2023,South,Tennessee,Knoxville,Sprite,$0.40 ,"9,750","$3,900 ","$1,755 ",45%
+FizzyCo,1197831,4/18/2023,South,Tennessee,Knoxville,Fanta,$0.40 ,"5,750","$2,300 ","$1,265 ",55%
+FizzyCo,1197831,4/19/2023,South,Tennessee,Knoxville,Powerade,$0.45 ,"5,500","$2,475 ",$990 ,40%
+FizzyCo,1197831,4/20/2023,South,Tennessee,Knoxville,Dasani Water,$0.55 ,"8,250","$4,538 ","$2,723 ",60%
+FizzyCo,1197831,4/21/2023,South,Tennessee,Knoxville,Coca-Cola,$0.45 ,"7,750","$3,488 ","$1,569 ",45%
+FizzyCo,1197831,4/22/2023,South,Tennessee,Knoxville,Diet Coke,$0.55 ,"7,750","$4,263 ","$1,918 ",45%
+FizzyCo,1197831,4/23/2023,South,Tennessee,Knoxville,Sprite,$0.50 ,"9,500","$4,750 ","$2,138 ",45%
+FizzyCo,1197831,4/24/2023,South,Tennessee,Knoxville,Fanta,$0.45 ,"4,750","$2,138 ","$1,176 ",55%
+FizzyCo,1197831,4/25/2023,South,Tennessee,Knoxville,Powerade,$0.50 ,"4,750","$2,375 ",$950 ,40%
+FizzyCo,1197831,4/26/2023,South,Tennessee,Knoxville,Dasani Water,$0.55 ,"7,250","$3,988 ","$2,393 ",60%
+FizzyCo,1197831,4/27/2023,South,Tennessee,Knoxville,Coca-Cola,$0.50 ,"6,750","$3,375 ","$1,519 ",45%
+FizzyCo,1197831,4/28/2023,South,Tennessee,Knoxville,Diet Coke,$0.50 ,"6,250","$3,125 ","$1,406 ",45%
+FizzyCo,1197831,4/29/2023,South,Tennessee,Knoxville,Sprite,$0.55 ,"6,750","$3,713 ","$1,671 ",45%
+FizzyCo,1197831,4/30/2023,South,Tennessee,Knoxville,Fanta,$0.55 ,"4,000","$2,200 ","$1,210 ",55%
+FizzyCo,1197831,5/1/2023,South,Tennessee,Knoxville,Powerade,$0.50 ,"4,000","$2,000 ",$800 ,40%
+FizzyCo,1197831,5/2/2023,South,Tennessee,Knoxville,Dasani Water,$0.45 ,"6,250","$2,813 ","$1,688 ",60%
+FizzyCo,1197831,5/3/2023,South,Tennessee,Knoxville,Coca-Cola,$0.35 ,"5,750","$2,013 ",$906 ,45%
+FizzyCo,1197831,5/4/2023,South,Tennessee,Knoxville,Diet Coke,$0.35 ,"5,750","$2,013 ",$906 ,45%
+FizzyCo,1197831,5/5/2023,South,Tennessee,Knoxville,Sprite,$0.40 ,"5,250","$2,100 ",$945 ,45%
+FizzyCo,1197831,5/6/2023,South,Tennessee,Knoxville,Fanta,$0.40 ,"3,750","$1,500 ",$825 ,55%
+FizzyCo,1197831,5/7/2023,South,Tennessee,Knoxville,Powerade,$0.35 ,"3,500","$1,225 ",$490 ,40%
+FizzyCo,1197831,5/8/2023,South,Tennessee,Knoxville,Dasani Water,$0.45 ,"5,250","$2,363 ","$1,418 ",60%
+FizzyCo,1197831,5/9/2023,South,Tennessee,Knoxville,Coca-Cola,$0.30 ,"6,750","$2,025 ",$911 ,45%
+FizzyCo,1197831,5/10/2023,South,Tennessee,Knoxville,Diet Coke,$0.30 ,"6,750","$2,025 ",$911 ,45%
+FizzyCo,1197831,5/11/2023,South,Tennessee,Knoxville,Sprite,$0.55 ,"6,000","$3,300 ","$1,485 ",45%
+FizzyCo,1197831,5/12/2023,South,Tennessee,Knoxville,Fanta,$0.55 ,"4,750","$2,613 ","$1,437 ",55%
+FizzyCo,1197831,5/13/2023,South,Tennessee,Knoxville,Powerade,$0.55 ,"4,500","$2,475 ",$990 ,40%
+FizzyCo,1197831,5/14/2023,South,Tennessee,Knoxville,Dasani Water,$0.65 ,"6,500","$4,225 ","$2,535 ",60%
+FizzyCo,1197831,5/15/2023,South,Tennessee,Knoxville,Coca-Cola,$0.55 ,"8,000","$4,400 ","$1,980 ",45%
+FizzyCo,1197831,5/16/2023,South,Tennessee,Knoxville,Diet Coke,$0.55 ,"8,000","$4,400 ","$1,980 ",45%
+FizzyCo,1197831,5/17/2023,South,Tennessee,Knoxville,Sprite,$0.60 ,"7,000","$4,200 ","$1,890 ",45%
+FizzyCo,1197831,5/18/2023,South,Tennessee,Knoxville,Fanta,$0.60 ,"5,500","$3,300 ","$1,815 ",55%
+FizzyCo,1197831,5/19/2023,South,Tennessee,Knoxville,Powerade,$0.55 ,"5,000","$2,750 ","$1,100 ",40%
+FizzyCo,1197831,5/20/2023,South,Tennessee,Knoxville,Dasani Water,$0.65 ,"7,500","$4,875 ","$2,925 ",60%
+BevCo,1185732,5/21/2023,South,Tennessee,Knoxville,Coca-Cola,$0.35 ,"4,250","$1,488 ",$595 ,40%
+BevCo,1185732,5/22/2023,South,Tennessee,Knoxville,Diet Coke,$0.35 ,"2,250",$788 ,$276 ,35%
+BevCo,1185732,5/23/2023,South,Tennessee,Knoxville,Sprite,$0.25 ,"2,250",$563 ,$197 ,35%
+BevCo,1185732,5/24/2023,South,Tennessee,Knoxville,Fanta,$0.30 ,750,$225 ,$90 ,40%
+BevCo,1185732,5/25/2023,Midwest,Nebraska,Omaha,Powerade,$0.45 ,"1,250",$563 ,$197 ,35%
+BevCo,1185732,5/26/2023,Midwest,Nebraska,Omaha,Dasani Water,$0.35 ,"2,250",$788 ,$394 ,50%
+BevCo,1185732,5/27/2023,Midwest,Nebraska,Omaha,Coca-Cola,$0.35 ,"4,750","$1,663 ",$665 ,40%
+BevCo,1185732,5/28/2023,Midwest,Nebraska,Omaha,Diet Coke,$0.35 ,"1,250",$438 ,$153 ,35%
+BevCo,1185732,5/29/2023,Midwest,Nebraska,Omaha,Sprite,$0.25 ,"1,750",$438 ,$153 ,35%
+BevCo,1185732,5/30/2023,Midwest,Nebraska,Omaha,Fanta,$0.30 ,500,$150 ,$60 ,40%
+BevCo,1185732,5/31/2023,Midwest,Nebraska,Omaha,Powerade,$0.45 ,"1,250",$563 ,$197 ,35%
+BevCo,1185732,6/1/2023,Midwest,Nebraska,Omaha,Dasani Water,$0.35 ,"2,000",$700 ,$350 ,50%
+BevCo,1185732,6/2/2023,Midwest,Nebraska,Omaha,Coca-Cola,$0.40 ,"4,200","$1,680 ",$672 ,40%
+BevCo,1185732,6/3/2023,Midwest,Nebraska,Omaha,Diet Coke,$0.40 ,"1,000",$400 ,$140 ,35%
+BevCo,1185732,6/4/2023,Midwest,Nebraska,Omaha,Sprite,$0.30 ,"1,500",$450 ,$158 ,35%
+BevCo,1185732,6/5/2023,Midwest,Nebraska,Omaha,Fanta,$0.35 ,0,$0 ,$0 ,40%
+BevCo,1185732,6/6/2023,Midwest,Nebraska,Omaha,Powerade,$0.50 ,500,$250 ,$88 ,35%
+BevCo,1185732,6/7/2023,Midwest,Nebraska,Omaha,Dasani Water,$0.40 ,"1,500",$600 ,$300 ,50%
+BevCo,1185732,6/8/2023,Midwest,Nebraska,Omaha,Coca-Cola,$0.40 ,"3,750","$1,500 ",$600 ,40%
+BevCo,1185732,6/9/2023,Midwest,Nebraska,Omaha,Diet Coke,$0.35 ,750,$263 ,$92 ,35%
+BevCo,1185732,6/10/2023,Midwest,Nebraska,Omaha,Sprite,$0.25 ,750,$188 ,$66 ,35%
+BevCo,1185732,6/11/2023,Midwest,Nebraska,Omaha,Fanta,$0.30 ,0,$0 ,$0 ,40%
+BevCo,1185732,6/12/2023,Midwest,Nebraska,Omaha,Powerade,$0.45 ,250,$113 ,$39 ,35%
+BevCo,1185732,6/13/2023,Midwest,Nebraska,Omaha,Dasani Water,$0.35 ,"1,500",$525 ,$263 ,50%
+BevCo,1185732,6/14/2023,Midwest,Nebraska,Omaha,Coca-Cola,$0.45 ,"4,200","$1,890 ",$756 ,40%
+BevCo,1185732,6/15/2023,Midwest,Nebraska,Omaha,Diet Coke,$0.40 ,"1,250",$500 ,$175 ,35%
+BevCo,1185732,6/16/2023,Midwest,Nebraska,Omaha,Sprite,$0.35 ,"1,000",$350 ,$123 ,35%
+BevCo,1185732,6/17/2023,Midwest,Nebraska,Omaha,Fanta,$0.35 ,250,$88 ,$35 ,40%
+BevCo,1185732,6/18/2023,Midwest,Nebraska,Omaha,Powerade,$0.50 ,500,$250 ,$88 ,35%
+BevCo,1185732,6/19/2023,Midwest,Nebraska,Omaha,Dasani Water,$0.55 ,"1,500",$825 ,$413 ,50%
+BevCo,1185732,6/20/2023,Midwest,Nebraska,Omaha,Coca-Cola,$0.40 ,"4,000","$1,600 ",$640 ,40%
+BevCo,1185732,6/21/2023,Midwest,Nebraska,Omaha,Diet Coke,$0.35 ,"1,500",$525 ,$184 ,35%
+BevCo,1185732,6/22/2023,Midwest,Nebraska,Omaha,Sprite,$0.30 ,"1,750",$525 ,$184 ,35%
+BevCo,1185732,6/23/2023,Midwest,Nebraska,Omaha,Fanta,$0.30 ,"1,500",$450 ,$180 ,40%
+BevCo,1185732,6/24/2023,Midwest,Nebraska,Omaha,Powerade,$0.45 ,"1,500",$675 ,$236 ,35%
+BevCo,1185732,6/25/2023,Midwest,Nebraska,Omaha,Dasani Water,$0.50 ,"3,250","$1,625 ",$813 ,50%
+BevCo,1185732,6/26/2023,Midwest,Nebraska,Omaha,Coca-Cola,$0.45 ,"5,500","$2,475 ",$990 ,40%
+BevCo,1185732,6/27/2023,Midwest,Nebraska,Omaha,Diet Coke,$0.40 ,"3,000","$1,200 ",$420 ,35%
+BevCo,1185732,6/28/2023,Midwest,Nebraska,Omaha,Sprite,$0.35 ,"2,250",$788 ,$276 ,35%
+BevCo,1185732,6/29/2023,Midwest,Nebraska,Omaha,Fanta,$0.35 ,"1,750",$613 ,$245 ,40%
+BevCo,1185732,6/30/2023,Midwest,Nebraska,Omaha,Powerade,$0.45 ,"1,750",$788 ,$276 ,35%
+BevCo,1185732,7/1/2023,Midwest,Nebraska,Omaha,Dasani Water,$0.50 ,"3,500","$1,750 ",$875 ,50%
+BevCo,1185732,7/2/2023,Midwest,Nebraska,Omaha,Coca-Cola,$0.45 ,"5,000","$2,250 ",$900 ,40%
+BevCo,1185732,7/3/2023,Midwest,Nebraska,Omaha,Diet Coke,$0.45 ,"2,750","$1,238 ",$433 ,35%
+BevCo,1185732,7/4/2023,Midwest,Nebraska,Omaha,Sprite,$0.40 ,"2,000",$800 ,$280 ,35%
+BevCo,1185732,7/5/2023,Midwest,Nebraska,Omaha,Fanta,$0.30 ,"1,250",$375 ,$150 ,40%
+BevCo,1185732,7/6/2023,Midwest,Nebraska,Omaha,Powerade,$0.40 ,"1,000",$400 ,$140 ,35%
+BevCo,1185732,7/7/2023,Midwest,Nebraska,Omaha,Dasani Water,$0.45 ,"2,750","$1,238 ",$619 ,50%
+BevCo,1185732,7/8/2023,Midwest,Nebraska,Omaha,Coca-Cola,$0.40 ,"4,000","$1,600 ",$640 ,40%
+BevCo,1185732,7/9/2023,Midwest,Nebraska,Omaha,Diet Coke,$0.35 ,"2,000",$700 ,$245 ,35%
+BevCo,1185732,7/10/2023,Midwest,Nebraska,Omaha,Sprite,$0.20 ,"1,000",$200 ,$70 ,35%
+BevCo,1185732,7/11/2023,Midwest,Nebraska,Omaha,Fanta,$0.20 ,750,$150 ,$60 ,40%
+BevCo,1185732,7/12/2023,Midwest,Nebraska,Omaha,Powerade,$0.30 ,750,$225 ,$79 ,35%
+BevCo,1185732,7/13/2023,Midwest,Nebraska,Omaha,Dasani Water,$0.35 ,"1,500",$525 ,$263 ,50%
+BevCo,1185732,7/14/2023,Midwest,Nebraska,Omaha,Coca-Cola,$0.40 ,"3,250","$1,300 ",$520 ,40%
+BevCo,1185732,7/15/2023,Midwest,Nebraska,Omaha,Diet Coke,$0.30 ,"1,500",$450 ,$158 ,35%
+BevCo,1185732,7/16/2023,Midwest,Nebraska,Omaha,Sprite,$0.30 ,500,$150 ,$53 ,35%
+BevCo,1185732,7/17/2023,Midwest,Nebraska,Omaha,Fanta,$0.30 ,250,$75 ,$30 ,40%
+BevCo,1185732,7/18/2023,Midwest,Nebraska,Omaha,Powerade,$0.40 ,250,$100 ,$35 ,35%
+BevCo,1185732,7/19/2023,Midwest,Nebraska,Omaha,Dasani Water,$0.45 ,"1,500",$675 ,$338 ,50%
+BevCo,1185732,7/20/2023,Midwest,Nebraska,Omaha,Coca-Cola,$0.40 ,"3,000","$1,200 ",$480 ,40%
+BevCo,1185732,7/21/2023,Midwest,Nebraska,Omaha,Diet Coke,$0.30 ,"1,500",$450 ,$158 ,35%
+BevCo,1185732,7/22/2023,Midwest,Nebraska,Omaha,Sprite,$0.30 ,950,$285 ,$100 ,35%
+BevCo,1185732,7/23/2023,Midwest,Nebraska,Omaha,Fanta,$0.30 ,"1,250",$375 ,$150 ,40%
+BevCo,1185732,7/24/2023,Midwest,Nebraska,Omaha,Powerade,$0.50 ,"1,000",$500 ,$175 ,35%
+BevCo,1185732,7/25/2023,Midwest,Nebraska,Omaha,Dasani Water,$0.55 ,"2,000","$1,100 ",$550 ,50%
+BevCo,1185732,7/26/2023,Midwest,Nebraska,Omaha,Coca-Cola,$0.50 ,"4,500","$2,250 ",$900 ,40%
+BevCo,1185732,7/27/2023,Midwest,Nebraska,Omaha,Diet Coke,$0.40 ,"2,500","$1,000 ",$350 ,35%
+BevCo,1185732,7/28/2023,Midwest,Nebraska,Omaha,Sprite,$0.40 ,"2,000",$800 ,$280 ,35%
+BevCo,1185732,7/29/2023,Midwest,Nebraska,Omaha,Fanta,$0.40 ,"1,500",$600 ,$240 ,40%
+BevCo,1185732,7/30/2023,Midwest,Nebraska,Omaha,Powerade,$0.50 ,"1,500",$750 ,$263 ,35%
+BevCo,1185732,7/31/2023,Midwest,Nebraska,Omaha,Dasani Water,$0.55 ,"2,500","$1,375 ",$688 ,50%
+FizzyCo,1197831,8/1/2023,Midwest,Nebraska,Omaha,Coca-Cola,$0.20 ,"6,750","$1,350 ",$540 ,40%
+FizzyCo,1197831,8/2/2023,Midwest,Nebraska,Omaha,Diet Coke,$0.30 ,"6,750","$2,025 ",$810 ,40%
+FizzyCo,1197831,8/3/2023,Midwest,Nebraska,Omaha,Sprite,$0.30 ,"4,750","$1,425 ",$570 ,40%
+FizzyCo,1197831,8/4/2023,Midwest,Nebraska,Omaha,Fanta,$0.35 ,"4,750","$1,663 ",$831 ,50%
+FizzyCo,1197831,8/5/2023,South,Alabama,Birmingham,Powerade,$0.40 ,"3,250","$1,300 ",$455 ,35%
+FizzyCo,1197831,8/6/2023,South,Alabama,Birmingham,Dasani Water,$0.35 ,"4,750","$1,663 ",$914 ,55%
+FizzyCo,1197831,8/7/2023,South,Alabama,Birmingham,Coca-Cola,$0.25 ,"6,250","$1,563 ",$625 ,40%
+FizzyCo,1197831,8/8/2023,South,Alabama,Birmingham,Diet Coke,$0.35 ,"6,000","$2,100 ",$840 ,40%
+FizzyCo,1197831,8/9/2023,South,Alabama,Birmingham,Sprite,$0.35 ,"4,250","$1,488 ",$595 ,40%
+FizzyCo,1197831,8/10/2023,South,Alabama,Birmingham,Fanta,$0.35 ,"3,750","$1,313 ",$656 ,50%
+FizzyCo,1197831,8/11/2023,South,Alabama,Birmingham,Powerade,$0.40 ,"2,500","$1,000 ",$350 ,35%
+FizzyCo,1197831,8/12/2023,South,Alabama,Birmingham,Dasani Water,$0.35 ,"4,500","$1,575 ",$866 ,55%
+FizzyCo,1197831,8/13/2023,South,Alabama,Birmingham,Coca-Cola,$0.30 ,"6,250","$1,875 ",$844 ,45%
+FizzyCo,1197831,8/14/2023,South,Alabama,Birmingham,Diet Coke,$0.40 ,"6,250","$2,500 ","$1,125 ",45%
+FizzyCo,1197831,8/15/2023,South,Alabama,Birmingham,Sprite,$0.30 ,"4,500","$1,350 ",$608 ,45%
+FizzyCo,1197831,8/16/2023,South,Alabama,Birmingham,Fanta,$0.35 ,"3,500","$1,225 ",$674 ,55%
+FizzyCo,1197831,8/17/2023,South,Alabama,Birmingham,Powerade,$0.40 ,"2,500","$1,000 ",$400 ,40%
+FizzyCo,1197831,8/18/2023,South,Alabama,Birmingham,Dasani Water,$0.35 ,"4,000","$1,400 ",$840 ,60%
+FizzyCo,1197831,8/19/2023,South,Alabama,Birmingham,Coca-Cola,$0.20 ,"6,500","$1,300 ",$585 ,45%
+FizzyCo,1197831,8/20/2023,South,Alabama,Birmingham,Diet Coke,$0.20 ,"6,500","$1,300 ",$585 ,45%
+FizzyCo,1197831,8/21/2023,South,Alabama,Birmingham,Sprite,$0.15 ,"4,750",$713 ,$321 ,45%
+FizzyCo,1197831,8/22/2023,South,Alabama,Birmingham,Fanta,$0.20 ,"3,750",$750 ,$413 ,55%
+FizzyCo,1197831,8/23/2023,South,Alabama,Birmingham,Powerade,$0.25 ,"2,750",$688 ,$275 ,40%
+FizzyCo,1197831,8/24/2023,South,Alabama,Birmingham,Dasani Water,$0.20 ,"5,500","$1,100 ",$660 ,60%
+FizzyCo,1197831,8/25/2023,South,Alabama,Birmingham,Coca-Cola,$0.10 ,"7,000",$700 ,$315 ,45%
+FizzyCo,1197831,8/26/2023,South,Alabama,Birmingham,Diet Coke,$0.20 ,"7,250","$1,450 ",$653 ,45%
+FizzyCo,1197831,8/27/2023,South,Alabama,Birmingham,Sprite,$0.15 ,"5,750",$863 ,$388 ,45%
+FizzyCo,1197831,8/28/2023,South,Alabama,Birmingham,Fanta,$0.35 ,"5,000","$1,750 ",$963 ,55%
+FizzyCo,1197831,8/29/2023,South,Alabama,Birmingham,Powerade,$0.50 ,"4,000","$2,000 ",$800 ,40%
+FizzyCo,1197831,8/30/2023,South,Alabama,Birmingham,Dasani Water,$0.45 ,"7,500","$3,375 ","$2,025 ",60%
+FizzyCo,1197831,8/31/2023,South,Alabama,Birmingham,Coca-Cola,$0.45 ,"7,500","$3,375 ","$1,519 ",45%
+FizzyCo,1197831,9/1/2023,South,Alabama,Birmingham,Diet Coke,$0.50 ,"7,500","$3,750 ","$1,688 ",45%
+FizzyCo,1197831,9/2/2023,South,Alabama,Birmingham,Sprite,$0.45 ,"6,500","$2,925 ","$1,316 ",45%
+FizzyCo,1197831,9/3/2023,South,Alabama,Birmingham,Fanta,$0.45 ,"6,000","$2,700 ","$1,485 ",55%
+FizzyCo,1197831,9/4/2023,South,Alabama,Birmingham,Powerade,$0.50 ,"5,000","$2,500 ","$1,000 ",40%
+FizzyCo,1197831,9/5/2023,South,Alabama,Birmingham,Dasani Water,$0.55 ,"8,750","$4,813 ","$2,888 ",60%
+FizzyCo,1197831,9/6/2023,South,Alabama,Birmingham,Coca-Cola,$0.45 ,"8,250","$3,713 ","$1,856 ",50%
+FizzyCo,1197831,9/7/2023,South,Alabama,Birmingham,Diet Coke,$0.50 ,"8,250","$4,125 ","$2,063 ",50%
+FizzyCo,1197831,9/8/2023,South,Alabama,Birmingham,Sprite,$0.45 ,"9,750","$4,388 ","$2,194 ",50%
+FizzyCo,1197831,9/9/2023,South,Alabama,Birmingham,Fanta,$0.45 ,"5,750","$2,588 ","$1,553 ",60%
+FizzyCo,1197831,9/10/2023,South,Alabama,Birmingham,Powerade,$0.50 ,"5,250","$2,625 ","$1,181 ",45%
+FizzyCo,1197831,9/11/2023,South,Alabama,Birmingham,Dasani Water,$0.60 ,"8,000","$4,800 ","$3,120 ",65%
+FizzyCo,1197831,9/12/2023,South,Alabama,Birmingham,Coca-Cola,$0.40 ,"7,500","$3,000 ","$1,500 ",50%
+FizzyCo,1197831,9/13/2023,South,Alabama,Birmingham,Diet Coke,$0.55 ,"7,500","$4,125 ","$2,063 ",50%
+FizzyCo,1197831,9/14/2023,South,Alabama,Birmingham,Sprite,$0.55 ,"9,250","$5,088 ","$2,544 ",50%
+FizzyCo,1197831,9/15/2023,South,Alabama,Birmingham,Fanta,$0.50 ,"4,250","$2,125 ","$1,275 ",60%
+FizzyCo,1197831,9/16/2023,South,Alabama,Birmingham,Powerade,$0.55 ,"4,250","$2,338 ","$1,052 ",45%
+FizzyCo,1197831,9/17/2023,South,Alabama,Birmingham,Dasani Water,$0.60 ,"6,750","$4,050 ","$2,633 ",65%
+FizzyCo,1197831,9/18/2023,South,Alabama,Birmingham,Coca-Cola,$0.55 ,"6,250","$3,438 ","$1,719 ",50%
+FizzyCo,1197831,9/19/2023,South,Alabama,Birmingham,Diet Coke,$0.55 ,"5,750","$3,163 ","$1,581 ",50%
+FizzyCo,1197831,9/20/2023,South,Alabama,Birmingham,Sprite,$0.60 ,"6,250","$3,750 ","$1,875 ",50%
+FizzyCo,1197831,9/21/2023,South,Alabama,Birmingham,Fanta,$0.60 ,"3,500","$2,100 ","$1,260 ",60%
+FizzyCo,1197831,9/22/2023,South,Alabama,Birmingham,Powerade,$0.45 ,"3,500","$1,575 ",$709 ,45%
+FizzyCo,1197831,9/23/2023,South,Alabama,Birmingham,Dasani Water,$0.40 ,"5,750","$2,300 ","$1,495 ",65%
+FizzyCo,1197831,9/24/2023,South,Alabama,Birmingham,Coca-Cola,$0.30 ,"5,250","$1,575 ",$788 ,50%
+FizzyCo,1197831,9/25/2023,South,Alabama,Birmingham,Diet Coke,$0.30 ,"5,250","$1,575 ",$788 ,50%
+FizzyCo,1197831,9/26/2023,South,Alabama,Birmingham,Sprite,$0.35 ,"4,750","$1,663 ",$831 ,50%
+FizzyCo,1197831,9/27/2023,South,Alabama,Birmingham,Fanta,$0.35 ,"3,250","$1,138 ",$683 ,60%
+FizzyCo,1197831,9/28/2023,South,Alabama,Birmingham,Powerade,$0.30 ,"3,000",$900 ,$405 ,45%
+FizzyCo,1197831,9/29/2023,South,Alabama,Birmingham,Dasani Water,$0.40 ,"4,750","$1,900 ","$1,235 ",65%
+FizzyCo,1197831,9/30/2023,South,Alabama,Birmingham,Coca-Cola,$0.20 ,"6,250","$1,250 ",$625 ,50%
+FizzyCo,1197831,10/1/2023,South,Alabama,Birmingham,Diet Coke,$0.20 ,"6,250","$1,250 ",$625 ,50%
+FizzyCo,1197831,10/2/2023,South,Alabama,Birmingham,Sprite,$0.45 ,"5,750","$2,588 ","$1,294 ",50%
+FizzyCo,1197831,10/3/2023,South,Alabama,Birmingham,Fanta,$0.45 ,"4,500","$2,025 ","$1,215 ",60%
+FizzyCo,1197831,10/4/2023,South,Alabama,Birmingham,Powerade,$0.50 ,"4,250","$2,125 ",$956 ,45%
+FizzyCo,1197831,10/5/2023,South,Alabama,Birmingham,Dasani Water,$0.60 ,"6,250","$3,750 ","$2,438 ",65%
+FizzyCo,1197831,10/6/2023,South,Alabama,Birmingham,Coca-Cola,$0.60 ,"7,750","$4,650 ","$2,325 ",50%
+FizzyCo,1197831,10/7/2023,South,Alabama,Birmingham,Diet Coke,$0.60 ,"7,750","$4,650 ","$2,325 ",50%
+FizzyCo,1197831,10/8/2023,South,Alabama,Birmingham,Sprite,$0.65 ,"7,000","$4,550 ","$2,275 ",50%
+FizzyCo,1197831,10/9/2023,South,Alabama,Birmingham,Fanta,$0.65 ,"5,500","$3,575 ","$2,145 ",60%
+FizzyCo,1197831,10/10/2023,South,Alabama,Birmingham,Powerade,$0.60 ,"5,000","$3,000 ","$1,350 ",45%
+FizzyCo,1197831,10/11/2023,South,Alabama,Birmingham,Dasani Water,$0.70 ,"7,500","$5,250 ","$3,413 ",65%
+Amazon,1185732,10/12/2023,South,Alabama,Birmingham,Coca-Cola,$0.40 ,"4,500","$1,800 ",$630 ,35%
+Amazon,1185732,10/13/2023,South,Alabama,Birmingham,Diet Coke,$0.40 ,"2,500","$1,000 ",$350 ,35%
+Amazon,1185732,10/14/2023,South,Alabama,Birmingham,Sprite,$0.30 ,"2,500",$750 ,$300 ,40%
+Amazon,1185732,10/15/2023,South,Alabama,Birmingham,Fanta,$0.35 ,"1,000",$350 ,$105 ,30%
+Amazon,1185732,10/16/2023,Northeast,Maine,Portland,Powerade,$0.50 ,"1,500",$750 ,$188 ,25%
+Amazon,1185732,10/17/2023,Northeast,Maine,Portland,Dasani Water,$0.40 ,"2,500","$1,000 ",$400 ,40%
+Amazon,1185732,10/18/2023,Northeast,Maine,Portland,Coca-Cola,$0.40 ,"5,000","$2,000 ",$700 ,35%
+Amazon,1185732,10/19/2023,Northeast,Maine,Portland,Diet Coke,$0.40 ,"1,500",$600 ,$210 ,35%
+Amazon,1185732,10/20/2023,Northeast,Maine,Portland,Sprite,$0.30 ,"2,000",$600 ,$240 ,40%
+Amazon,1185732,10/21/2023,Northeast,Maine,Portland,Fanta,$0.35 ,750,$263 ,$79 ,30%
+Amazon,1185732,10/22/2023,Northeast,Maine,Portland,Powerade,$0.50 ,"1,500",$750 ,$188 ,25%
+Amazon,1185732,10/23/2023,Northeast,Maine,Portland,Dasani Water,$0.40 ,"2,500","$1,000 ",$400 ,40%
+Amazon,1185732,10/24/2023,Northeast,Maine,Portland,Coca-Cola,$0.40 ,"4,700","$1,880 ",$658 ,35%
+Amazon,1185732,10/25/2023,Northeast,Maine,Portland,Diet Coke,$0.40 ,"1,750",$700 ,$245 ,35%
+Amazon,1185732,10/26/2023,Northeast,Maine,Portland,Sprite,$0.30 ,"2,000",$600 ,$240 ,40%
+Amazon,1185732,10/27/2023,Northeast,Maine,Portland,Fanta,$0.35 ,500,$175 ,$53 ,30%
+Amazon,1185732,10/28/2023,Northeast,Maine,Portland,Powerade,$0.50 ,"1,000",$500 ,$125 ,25%
+Amazon,1185732,10/29/2023,Northeast,Maine,Portland,Dasani Water,$0.40 ,"2,000",$800 ,$320 ,40%
+Amazon,1185732,10/30/2023,Northeast,Maine,Portland,Coca-Cola,$0.40 ,"4,500","$1,800 ",$630 ,35%
+Amazon,1185732,10/31/2023,Northeast,Maine,Portland,Diet Coke,$0.40 ,"1,500",$600 ,$210 ,35%
+Amazon,1185732,11/1/2023,Northeast,Maine,Portland,Sprite,$0.30 ,"1,500",$450 ,$180 ,40%
+Amazon,1185732,11/2/2023,Northeast,Maine,Portland,Fanta,$0.35 ,750,$263 ,$79 ,30%
+Amazon,1185732,11/3/2023,Northeast,Maine,Portland,Powerade,$0.50 ,750,$375 ,$94 ,25%
+Amazon,1185732,11/4/2023,Northeast,Maine,Portland,Dasani Water,$0.40 ,"2,250",$900 ,$360 ,40%
+Amazon,1185732,11/5/2023,Northeast,Maine,Portland,Coca-Cola,$0.55 ,"4,950","$2,723 ",$953 ,35%
+Amazon,1185732,11/6/2023,Northeast,Maine,Portland,Diet Coke,$0.50 ,"2,000","$1,000 ",$350 ,35%
+Amazon,1185732,11/7/2023,Northeast,Maine,Portland,Sprite,$0.45 ,"1,750",$788 ,$315 ,40%
+Amazon,1185732,11/8/2023,Northeast,Maine,Portland,Fanta,$0.45 ,"1,250",$563 ,$169 ,30%
+Amazon,1185732,11/9/2023,Northeast,Maine,Portland,Powerade,$0.55 ,"1,500",$825 ,$206 ,25%
+Amazon,1185732,11/10/2023,Northeast,Maine,Portland,Dasani Water,$0.60 ,"2,750","$1,650 ",$660 ,40%
+Amazon,1185732,11/11/2023,Northeast,Maine,Portland,Coca-Cola,$0.55 ,"5,250","$2,888 ","$1,011 ",35%
+Amazon,1185732,11/12/2023,Northeast,Maine,Portland,Diet Coke,$0.50 ,"2,750","$1,375 ",$481 ,35%
+Amazon,1185732,11/13/2023,Northeast,Maine,Portland,Sprite,$0.45 ,"2,000",$900 ,$360 ,40%
+Amazon,1185732,11/14/2023,Northeast,Maine,Portland,Fanta,$0.45 ,"1,750",$788 ,$236 ,30%
+Amazon,1185732,11/15/2023,Northeast,Maine,Portland,Powerade,$0.55 ,"1,750",$963 ,$241 ,25%
+Amazon,1185732,11/16/2023,Northeast,Maine,Portland,Dasani Water,$0.60 ,"3,250","$1,950 ",$780 ,40%
+Amazon,1185732,11/17/2023,Northeast,Maine,Portland,Coca-Cola,$0.55 ,"5,500","$3,025 ","$1,059 ",35%
+Amazon,1185732,11/18/2023,Northeast,Maine,Portland,Diet Coke,$0.50 ,"3,000","$1,500 ",$525 ,35%
+Amazon,1185732,11/19/2023,Northeast,Maine,Portland,Sprite,$0.45 ,"2,250","$1,013 ",$405 ,40%
+Amazon,1185732,11/20/2023,Northeast,Maine,Portland,Fanta,$0.45 ,"1,750",$788 ,$236 ,30%
+Amazon,1185732,11/21/2023,Northeast,Maine,Portland,Powerade,$0.55 ,"2,000","$1,100 ",$275 ,25%
+Amazon,1185732,12/20/2023,Northeast,Maine,Portland,Dasani Water,$0.60 ,"3,750","$2,250 ",$900 ,40%
+Amazon,1185732,12/21/2023,Northeast,Maine,Portland,Coca-Cola,$0.55 ,"5,250","$2,888 ","$1,011 ",35%
+Amazon,1185732,12/22/2023,Northeast,Maine,Portland,Diet Coke,$0.50 ,"3,000","$1,500 ",$525 ,35%
+Amazon,1185732,12/23/2023,Northeast,Maine,Portland,Sprite,$0.45 ,"2,250","$1,013 ",$405 ,40%
+Amazon,1185732,12/24/2023,Northeast,Maine,Portland,Fanta,$0.45 ,"1,750",$788 ,$236 ,30%
+Amazon,1185732,12/25/2023,Northeast,Maine,Portland,Powerade,$0.55 ,"1,500",$825 ,$206 ,25%
+Amazon,1185732,12/26/2023,Northeast,Maine,Portland,Dasani Water,$0.60 ,"3,250","$1,950 ",$780 ,40%
+Amazon,1185732,12/27/2023,Northeast,Maine,Portland,Coca-Cola,$0.55 ,"4,500","$2,475 ",$866 ,35%
+Amazon,1185732,12/28/2023,Northeast,Maine,Portland,Diet Coke,$0.50 ,"2,500","$1,250 ",$438 ,35%
+Amazon,1185732,12/29/2023,Northeast,Maine,Portland,Sprite,$0.45 ,"1,500",$675 ,$270 ,40%
+Amazon,1185732,12/30/2023,Northeast,Maine,Portland,Fanta,$0.45 ,"1,250",$563 ,$169 ,30%
+Amazon,1185732,12/31/2023,Northeast,Maine,Portland,Powerade,$0.55 ,"1,250",$688 ,$172 ,25%
+Amazon,1185732,9/17/2023,Northeast,Maine,Portland,Dasani Water,$0.60 ,"2,250","$1,350 ",$540 ,40%
+Amazon,1185732,10/19/2023,Northeast,Maine,Portland,Coca-Cola,$0.60 ,"4,000","$2,400 ",$840 ,35%
+Amazon,1185732,10/19/2023,Northeast,Maine,Portland,Diet Coke,$0.55 ,"2,250","$1,238 ",$433 ,35%
+Amazon,1185732,10/19/2023,Northeast,Maine,Portland,Sprite,$0.55 ,"1,250",$688 ,$275 ,40%
+Amazon,1185732,10/19/2023,Northeast,Maine,Portland,Fanta,$0.55 ,"1,000",$550 ,$165 ,30%
+Amazon,1185732,10/19/2023,Northeast,Maine,Portland,Powerade,$0.65 ,"1,000",$650 ,$163 ,25%
+Amazon,1185732,10/19/2023,Northeast,Maine,Portland,Dasani Water,$0.70 ,"2,250","$1,575 ",$630 ,40%
+Amazon,1185732,11/18/2023,Northeast,Maine,Portland,Coca-Cola,$0.65 ,"3,750","$2,438 ",$853 ,35%
+Amazon,1185732,11/18/2023,Northeast,Maine,Portland,Diet Coke,$0.55 ,"2,000","$1,100 ",$385 ,35%
+Amazon,1185732,11/18/2023,Northeast,Maine,Portland,Sprite,$0.55 ,"1,950","$1,073 ",$429 ,40%
+Amazon,1185732,11/18/2023,Northeast,Maine,Portland,Fanta,$0.55 ,"1,750",$963 ,$289 ,30%
+Amazon,1185732,11/18/2023,Northeast,Maine,Portland,Powerade,$0.65 ,"1,500",$975 ,$244 ,25%
+Amazon,1185732,11/18/2023,Northeast,Maine,Portland,Dasani Water,$0.70 ,"2,500","$1,750 ",$700 ,40%
+Amazon,1185732,12/17/2023,Northeast,Maine,Portland,Coca-Cola,$0.65 ,"4,750","$3,088 ","$1,081 ",35%
+Amazon,1185732,12/17/2023,Northeast,Maine,Portland,Diet Coke,$0.55 ,"2,750","$1,513 ",$529 ,35%
+Amazon,1185732,12/17/2023,Northeast,Maine,Portland,Sprite,$0.55 ,"2,500","$1,375 ",$550 ,40%
+Amazon,1185732,12/17/2023,Northeast,Maine,Portland,Fanta,$0.55 ,"2,000","$1,100 ",$330 ,30%
+Amazon,1185732,12/17/2023,Northeast,Maine,Portland,Powerade,$0.65 ,"2,000","$1,300 ",$325 ,25%
+Amazon,1185732,12/17/2023,Northeast,Maine,Portland,Dasani Water,$0.70 ,"3,000","$2,100 ",$840 ,40%
+West Soda,1128299,1/10/2023,Northeast,Maine,Portland,Coca-Cola,$0.35 ,"3,750","$1,313 ",$328 ,25%
+West Soda,1128299,1/10/2023,Northeast,Maine,Portland,Diet Coke,$0.45 ,"3,750","$1,688 ",$338 ,20%
+West Soda,1128299,1/10/2023,Northeast,Maine,Portland,Sprite,$0.45 ,"3,750","$1,688 ",$422 ,25%
+West Soda,1128299,1/10/2023,Northeast,Maine,Portland,Fanta,$0.45 ,"2,250","$1,013 ",$253 ,25%
+Amazon,1185732,1/24/2023,West,Alaska,Anchorage,Dasani Water,$0.55 ,"3,000","$1,650 ",$495 ,30%
+Amazon,1185732,2/22/2023,West,Alaska,Anchorage,Coca-Cola,$0.55 ,"5,750","$3,163 ","$1,107 ",35%
+Amazon,1185732,2/22/2023,West,Alaska,Anchorage,Diet Coke,$0.55 ,"2,250","$1,238 ",$433 ,35%
+Amazon,1185732,2/22/2023,West,Alaska,Anchorage,Sprite,$0.45 ,"2,750","$1,238 ",$309 ,25%
+Amazon,1185732,2/22/2023,West,Alaska,Anchorage,Fanta,$0.50 ,"1,750",$875 ,$219 ,25%
+Amazon,1185732,2/22/2023,West,Alaska,Anchorage,Powerade,$0.65 ,"2,500","$1,625 ",$406 ,25%
+Amazon,1185732,2/22/2023,West,Alaska,Anchorage,Dasani Water,$0.55 ,"3,500","$1,925 ",$578 ,30%
+Amazon,1185732,3/20/2023,West,Alaska,Anchorage,Coca-Cola,$0.55 ,"5,450","$2,998 ","$1,049 ",35%
+Amazon,1185732,3/20/2023,West,Alaska,Anchorage,Diet Coke,$0.55 ,"2,500","$1,375 ",$481 ,35%
+Amazon,1185732,3/20/2023,West,Alaska,Anchorage,Sprite,$0.45 ,"2,750","$1,238 ",$309 ,25%
+Amazon,1185732,3/20/2023,West,Alaska,Anchorage,Fanta,$0.50 ,"1,250",$625 ,$156 ,25%
+Amazon,1185732,3/20/2023,West,Alaska,Anchorage,Powerade,$0.65 ,"1,750","$1,138 ",$284 ,25%
+Amazon,1185732,3/20/2023,West,Alaska,Anchorage,Dasani Water,$0.55 ,"2,750","$1,513 ",$454 ,30%
+Amazon,1185732,4/21/2023,West,Alaska,Anchorage,Coca-Cola,$0.55 ,"5,250","$2,888 ","$1,011 ",35%
+Amazon,1185732,4/21/2023,West,Alaska,Anchorage,Diet Coke,$0.55 ,"2,250","$1,238 ",$433 ,35%
+Amazon,1185732,4/21/2023,West,Alaska,Anchorage,Sprite,$0.45 ,"2,250","$1,013 ",$253 ,25%
+Amazon,1185732,4/21/2023,West,Alaska,Anchorage,Fanta,$0.50 ,"1,500",$750 ,$188 ,25%
+Amazon,1185732,4/21/2023,West,Alaska,Anchorage,Powerade,$0.60 ,"1,500",$900 ,$225 ,25%
+Amazon,1185732,4/21/2023,West,Alaska,Anchorage,Dasani Water,$0.50 ,"3,000","$1,500 ",$450 ,30%
+Amazon,1185732,5/20/2023,West,Alaska,Anchorage,Coca-Cola,$0.65 ,"5,700","$3,705 ","$1,297 ",35%
+Amazon,1185732,5/20/2023,West,Alaska,Anchorage,Diet Coke,$0.60 ,"2,750","$1,650 ",$578 ,35%
+Amazon,1185732,5/20/2023,West,Alaska,Anchorage,Sprite,$0.55 ,"3,000","$1,650 ",$413 ,25%
+Amazon,1185732,5/20/2023,West,Alaska,Anchorage,Fanta,$0.55 ,"2,500","$1,375 ",$344 ,25%
+Amazon,1185732,5/20/2023,West,Alaska,Anchorage,Powerade,$0.65 ,"2,750","$1,788 ",$447 ,25%
+Amazon,1185732,5/20/2023,West,Alaska,Anchorage,Dasani Water,$0.70 ,"4,000","$2,800 ",$840 ,30%
+Amazon,1185732,6/22/2023,West,Alaska,Anchorage,Coca-Cola,$0.65 ,"6,500","$4,225 ","$1,479 ",35%
+Amazon,1185732,6/22/2023,West,Alaska,Anchorage,Diet Coke,$0.60 ,"4,000","$2,400 ",$840 ,35%
+Amazon,1185732,6/22/2023,West,Alaska,Anchorage,Sprite,$0.55 ,"3,250","$1,788 ",$447 ,25%
+Amazon,1185732,6/22/2023,West,Alaska,Anchorage,Fanta,$0.55 ,"3,000","$1,650 ",$413 ,25%
+Amazon,1185732,6/22/2023,West,Alaska,Anchorage,Powerade,$0.65 ,"3,000","$1,950 ",$488 ,25%
+Amazon,1185732,6/22/2023,West,Alaska,Anchorage,Dasani Water,$0.70 ,"4,500","$3,150 ",$945 ,30%
+Amazon,1185732,7/20/2023,West,Alaska,Anchorage,Coca-Cola,$0.65 ,"6,750","$4,388 ","$1,536 ",35%
+Amazon,1185732,7/20/2023,West,Alaska,Anchorage,Diet Coke,$0.60 ,"4,250","$2,550 ",$893 ,35%
+Amazon,1185732,7/20/2023,West,Alaska,Anchorage,Sprite,$0.55 ,"3,500","$1,925 ",$481 ,25%
+Amazon,1185732,7/20/2023,West,Alaska,Anchorage,Fanta,$0.55 ,"3,000","$1,650 ",$413 ,25%
+Amazon,1185732,7/20/2023,West,Alaska,Anchorage,Powerade,$0.65 ,"3,250","$2,113 ",$528 ,25%
+Amazon,1185732,7/20/2023,West,Alaska,Anchorage,Dasani Water,$0.70 ,"5,000","$3,500 ","$1,050 ",30%
+Amazon,1185732,8/21/2023,West,Alaska,Anchorage,Coca-Cola,$0.65 ,"6,500","$4,225 ","$1,479 ",35%
+Amazon,1185732,8/21/2023,West,Alaska,Anchorage,Diet Coke,$0.60 ,"4,250","$2,550 ",$893 ,35%
+Amazon,1185732,8/21/2023,West,Alaska,Anchorage,Sprite,$0.55 ,"3,500","$1,925 ",$481 ,25%
+Amazon,1185732,8/21/2023,West,Alaska,Anchorage,Fanta,$0.55 ,"2,500","$1,375 ",$344 ,25%
+Amazon,1185732,8/21/2023,West,Alaska,Anchorage,Powerade,$0.65 ,"2,250","$1,463 ",$366 ,25%
+Amazon,1185732,8/21/2023,West,Alaska,Anchorage,Dasani Water,$0.70 ,"4,000","$2,800 ",$840 ,30%
+Amazon,1185732,9/20/2023,West,Alaska,Anchorage,Coca-Cola,$0.65 ,"5,250","$3,413 ","$1,194 ",35%
+Amazon,1185732,9/20/2023,West,Alaska,Anchorage,Diet Coke,$0.60 ,"3,250","$1,950 ",$683 ,35%
+Amazon,1185732,9/20/2023,West,Alaska,Anchorage,Sprite,$0.55 ,"2,250","$1,238 ",$309 ,25%
+Amazon,1185732,9/20/2023,West,Alaska,Anchorage,Fanta,$0.55 ,"2,000","$1,100 ",$275 ,25%
+Amazon,1185732,9/20/2023,West,Alaska,Anchorage,Powerade,$0.65 ,"2,000","$1,300 ",$325 ,25%
+Amazon,1185732,9/20/2023,West,Alaska,Anchorage,Dasani Water,$0.70 ,"3,000","$2,100 ",$630 ,30%
+Amazon,1185732,10/22/2023,West,Alaska,Anchorage,Coca-Cola,$0.70 ,"4,500","$3,150 ","$1,103 ",35%
+Amazon,1185732,10/22/2023,West,Alaska,Anchorage,Diet Coke,$0.65 ,"2,750","$1,788 ",$626 ,35%
+Amazon,1185732,10/22/2023,West,Alaska,Anchorage,Sprite,$0.65 ,"1,750","$1,138 ",$284 ,25%
+Amazon,1185732,10/22/2023,West,Alaska,Anchorage,Fanta,$0.65 ,"1,500",$975 ,$244 ,25%
+Amazon,1185732,10/22/2023,West,Alaska,Anchorage,Powerade,$0.75 ,"1,500","$1,125 ",$281 ,25%
+Amazon,1185732,10/22/2023,West,Alaska,Anchorage,Dasani Water,$0.80 ,"2,750","$2,200 ",$660 ,30%
+Amazon,1185732,11/21/2023,West,Alaska,Anchorage,Coca-Cola,$0.75 ,"4,250","$3,188 ","$1,116 ",35%
+Amazon,1185732,11/21/2023,West,Alaska,Anchorage,Diet Coke,$0.65 ,"3,000","$1,950 ",$683 ,35%
+Amazon,1185732,11/21/2023,West,Alaska,Anchorage,Sprite,$0.65 ,"3,200","$2,080 ",$520 ,25%
+Amazon,1185732,11/21/2023,West,Alaska,Anchorage,Fanta,$0.65 ,"3,000","$1,950 ",$488 ,25%
+Amazon,1185732,11/21/2023,West,Alaska,Anchorage,Powerade,$0.75 ,"2,750","$2,063 ",$516 ,25%
+Amazon,1185732,11/21/2023,West,Alaska,Anchorage,Dasani Water,$0.80 ,"3,750","$3,000 ",$900 ,30%
+Amazon,1185732,12/20/2023,West,Alaska,Anchorage,Coca-Cola,$0.75 ,"6,000","$4,500 ","$1,575 ",35%
+Amazon,1185732,12/20/2023,West,Alaska,Anchorage,Diet Coke,$0.65 ,"4,000","$2,600 ",$910 ,35%
+BevCo,1128299,1/10/2023,West,Alaska,Anchorage,Coca-Cola,$0.35 ,"3,750","$1,313 ",$328 ,25%
+BevCo,1128299,1/10/2023,West,Alaska,Anchorage,Diet Coke,$0.45 ,"3,750","$1,688 ",$338 ,20%
+BevCo,1128299,1/10/2023,West,Alaska,Anchorage,Sprite,$0.45 ,"3,750","$1,688 ",$422 ,25%
+BevCo,1128299,1/10/2023,West,Alaska,Anchorage,Fanta,$0.45 ,"2,250","$1,013 ",$253 ,25%
+BevCo,1128299,1/10/2023,West,Alaska,Anchorage,Powerade,$0.50 ,"1,750",$875 ,$131 ,15%
+BevCo,1128299,1/10/2023,West,Alaska,Anchorage,Dasani Water,$0.45 ,"4,250","$1,913 ",$765 ,40%
+BevCo,1128299,2/10/2023,West,Alaska,Anchorage,Coca-Cola,$0.35 ,"4,750","$1,663 ",$416 ,25%
+BevCo,1128299,2/10/2023,West,Alaska,Anchorage,Diet Coke,$0.45 ,"3,750","$1,688 ",$338 ,20%
+BevCo,1128299,2/10/2023,West,Alaska,Anchorage,Sprite,$0.45 ,"3,750","$1,688 ",$422 ,25%
+BevCo,1128299,2/10/2023,West,Hawaii,Honolulu,Fanta,$0.45 ,"2,250","$1,013 ",$253 ,25%
+BevCo,1128299,2/10/2023,West,Hawaii,Honolulu,Powerade,$0.50 ,"1,500",$750 ,$113 ,15%
+BevCo,1128299,2/10/2023,West,Hawaii,Honolulu,Dasani Water,$0.45 ,"3,500","$1,575 ",$630 ,40%
+BevCo,1128299,3/9/2023,West,Hawaii,Honolulu,Coca-Cola,$0.45 ,"5,000","$2,250 ",$563 ,25%
+BevCo,1128299,3/9/2023,West,Hawaii,Honolulu,Diet Coke,$0.55 ,"3,500","$1,925 ",$385 ,20%
+BevCo,1128299,3/9/2023,West,Hawaii,Honolulu,Sprite,$0.60 ,"3,750","$2,250 ",$563 ,25%
+BevCo,1128299,3/9/2023,West,Hawaii,Honolulu,Fanta,$0.55 ,"2,750","$1,513 ",$378 ,25%
+BevCo,1128299,3/9/2023,West,Hawaii,Honolulu,Powerade,$0.60 ,"1,250",$750 ,$113 ,15%
+BevCo,1128299,3/9/2023,West,Hawaii,Honolulu,Dasani Water,$0.55 ,"3,250","$1,788 ",$715 ,40%
+BevCo,1128299,4/10/2023,West,Hawaii,Honolulu,Coca-Cola,$0.60 ,"5,000","$3,000 ",$750 ,25%
+BevCo,1128299,4/10/2023,West,Hawaii,Honolulu,Diet Coke,$0.65 ,"3,000","$1,950 ",$390 ,20%
+BevCo,1128299,4/10/2023,West,Hawaii,Honolulu,Sprite,$0.65 ,"3,500","$2,275 ",$569 ,25%
+BevCo,1128299,4/10/2023,West,Hawaii,Honolulu,Fanta,$0.50 ,"2,500","$1,250 ",$313 ,25%
+BevCo,1128299,4/10/2023,West,Hawaii,Honolulu,Powerade,$0.55 ,"1,500",$825 ,$124 ,15%
+BevCo,1128299,4/10/2023,West,Hawaii,Honolulu,Dasani Water,$0.70 ,"3,250","$2,275 ",$910 ,40%
+BevCo,1128299,5/11/2023,West,Hawaii,Honolulu,Coca-Cola,$0.55 ,"5,250","$2,888 ",$722 ,25%
+BevCo,1128299,5/11/2023,West,Hawaii,Honolulu,Diet Coke,$0.60 ,"3,750","$2,250 ",$450 ,20%
+BevCo,1128299,5/11/2023,West,Hawaii,Honolulu,Sprite,$0.60 ,"3,750","$2,250 ",$563 ,25%
+BevCo,1128299,5/11/2023,West,Hawaii,Honolulu,Fanta,$0.55 ,"2,750","$1,513 ",$378 ,25%
+BevCo,1128299,5/11/2023,West,Hawaii,Honolulu,Powerade,$0.60 ,"1,750","$1,050 ",$158 ,15%
+BevCo,1128299,5/11/2023,West,Hawaii,Honolulu,Dasani Water,$0.75 ,"4,750","$3,563 ","$1,425 ",40%
+BevCo,1128299,6/10/2023,West,Hawaii,Honolulu,Coca-Cola,$0.70 ,"7,250","$5,075 ","$1,269 ",25%
+BevCo,1128299,6/10/2023,West,Hawaii,Honolulu,Diet Coke,$0.75 ,"6,000","$4,500 ",$900 ,20%
+BevCo,1128299,6/10/2023,West,Hawaii,Honolulu,Sprite,$0.75 ,"6,000","$4,500 ","$1,125 ",25%
+BevCo,1128299,6/10/2023,West,Hawaii,Honolulu,Fanta,$0.75 ,"4,750","$3,563 ",$891 ,25%
+BevCo,1128299,6/10/2023,West,Hawaii,Honolulu,Powerade,$0.85 ,"3,500","$2,975 ",$446 ,15%
+BevCo,1128299,6/10/2023,West,Hawaii,Honolulu,Dasani Water,$1.00 ,"6,500","$6,500 ","$2,600 ",40%
+BevCo,1128299,7/9/2023,West,Hawaii,Honolulu,Coca-Cola,$0.80 ,"8,000","$6,400 ","$1,600 ",25%
+BevCo,1128299,7/9/2023,West,Hawaii,Honolulu,Diet Coke,$0.85 ,"6,500","$5,525 ","$1,105 ",20%
+BevCo,1128299,7/9/2023,West,Hawaii,Honolulu,Sprite,$0.85 ,"6,000","$5,100 ","$1,275 ",25%
+BevCo,1128299,7/9/2023,West,Hawaii,Honolulu,Fanta,$0.80 ,"5,000","$4,000 ","$1,000 ",25%
+BevCo,1128299,7/9/2023,West,Hawaii,Honolulu,Powerade,$0.85 ,"5,500","$4,675 ",$701 ,15%
+BevCo,1128299,7/9/2023,West,Hawaii,Honolulu,Dasani Water,$1.00 ,"5,500","$5,500 ","$2,200 ",40%
+BevCo,1128299,8/10/2023,West,Hawaii,Honolulu,Coca-Cola,$0.85 ,"7,500","$6,375 ","$1,594 ",25%
+BevCo,1128299,8/10/2023,West,Hawaii,Honolulu,Diet Coke,$0.75 ,"7,250","$5,438 ","$1,088 ",20%
+BevCo,1128299,8/10/2023,West,Hawaii,Honolulu,Sprite,$0.70 ,"6,000","$4,200 ","$1,050 ",25%
+BevCo,1128299,8/10/2023,West,Hawaii,Honolulu,Fanta,$0.70 ,"5,250","$3,675 ",$919 ,25%
+Walmart,1128299,8/10/2023,West,Hawaii,Honolulu,Powerade,$0.70 ,"5,250","$3,675 ",$551 ,15%
+Walmart,1128299,8/10/2023,West,Hawaii,Honolulu,Dasani Water,$0.75 ,"3,500","$2,625 ","$1,050 ",40%
+Walmart,1128299,9/11/2023,West,Hawaii,Honolulu,Coca-Cola,$0.65 ,"5,500","$3,575 ",$894 ,25%
+Walmart,1128299,9/11/2023,West,Hawaii,Honolulu,Diet Coke,$0.70 ,"5,500","$3,850 ",$770 ,20%
+Walmart,1128299,9/11/2023,West,Hawaii,Honolulu,Sprite,$0.65 ,"3,750","$2,438 ",$609 ,25%
+Walmart,1128299,9/11/2023,West,Hawaii,Honolulu,Fanta,$0.65 ,"3,250","$2,113 ",$528 ,25%
+Walmart,1128299,9/11/2023,West,Hawaii,Honolulu,Powerade,$0.75 ,"3,500","$2,625 ",$394 ,15%
+Walmart,1128299,9/11/2023,West,Hawaii,Honolulu,Dasani Water,$0.60 ,"3,750","$2,250 ",$900 ,40%
+Walmart,1128299,10/10/2023,West,Hawaii,Honolulu,Coca-Cola,$0.55 ,"4,750","$2,613 ",$653 ,25%
+Walmart,1128299,10/10/2023,West,Hawaii,Honolulu,Diet Coke,$0.65 ,"4,750","$3,088 ",$618 ,20%
+Walmart,1128299,10/10/2023,West,Hawaii,Honolulu,Sprite,$0.60 ,"3,000","$1,800 ",$450 ,25%
+Walmart,1128299,10/10/2023,West,Hawaii,Honolulu,Fanta,$0.55 ,"2,750","$1,513 ",$378 ,25%
+Walmart,1128299,10/10/2023,West,Hawaii,Honolulu,Powerade,$0.65 ,"2,500","$1,625 ",$244 ,15%
+Walmart,1128299,10/10/2023,West,Hawaii,Honolulu,Dasani Water,$0.70 ,"3,000","$2,100 ",$840 ,40%
+Walmart,1128299,11/10/2023,West,Hawaii,Honolulu,Coca-Cola,$0.55 ,"5,250","$2,888 ",$722 ,25%
+Walmart,1128299,11/10/2023,West,Hawaii,Honolulu,Diet Coke,$0.60 ,"6,000","$3,600 ",$720 ,20%
+Walmart,1128299,11/10/2023,West,Hawaii,Honolulu,Sprite,$0.55 ,"4,250","$2,338 ",$584 ,25%
+Walmart,1128299,11/10/2023,West,Hawaii,Honolulu,Fanta,$0.65 ,"4,000","$2,600 ",$650 ,25%
+Walmart,1128299,11/10/2023,West,Hawaii,Honolulu,Powerade,$0.85 ,"3,750","$3,188 ",$478 ,15%
+Walmart,1128299,11/10/2023,West,Hawaii,Honolulu,Dasani Water,$0.90 ,"5,000","$4,500 ","$1,800 ",40%
+Walmart,1128299,12/9/2023,West,Hawaii,Honolulu,Coca-Cola,$0.75 ,"7,000","$5,250 ","$1,313 ",25%
+Walmart,1128299,12/9/2023,West,Hawaii,Honolulu,Diet Coke,$0.85 ,"7,000","$5,950 ","$1,190 ",20%
+FizzyCo,1128299,12/9/2023,West,Hawaii,Honolulu,Sprite,$0.80 ,"5,000","$4,000 ","$1,000 ",25%
+FizzyCo,1128299,12/9/2023,West,Hawaii,Honolulu,Fanta,$0.80 ,"5,000","$4,000 ","$1,000 ",25%
+FizzyCo,1128299,12/9/2023,West,Hawaii,Honolulu,Powerade,$0.90 ,"4,250","$3,825 ",$574 ,15%
+FizzyCo,1128299,12/9/2023,West,Hawaii,Honolulu,Dasani Water,$0.95 ,"5,250","$4,988 ","$1,995 ",40%
+FizzyCo,1128299,1/17/2023,West,Hawaii,Honolulu,Coca-Cola,$0.40 ,"4,250","$1,700 ",$510 ,30%
+FizzyCo,1128299,1/17/2023,West,Hawaii,Honolulu,Diet Coke,$0.50 ,"4,250","$2,125 ",$531 ,25%
+FizzyCo,1128299,1/17/2023,West,Hawaii,Honolulu,Sprite,$0.50 ,"4,250","$2,125 ",$638 ,30%
+FizzyCo,1128299,1/17/2023,West,Hawaii,Honolulu,Fanta,$0.50 ,"2,750","$1,375 ",$413 ,30%
+FizzyCo,1128299,1/17/2023,West,Hawaii,Honolulu,Powerade,$0.55 ,"2,250","$1,238 ",$248 ,20%
+FizzyCo,1128299,1/17/2023,West,Hawaii,Honolulu,Dasani Water,$0.50 ,"4,750","$2,375 ","$1,069 ",45%
+FizzyCo,1128299,2/17/2023,West,Hawaii,Honolulu,Coca-Cola,$0.40 ,"5,250","$2,100 ",$630 ,30%
+FizzyCo,1128299,2/17/2023,West,Hawaii,Honolulu,Diet Coke,$0.50 ,"4,250","$2,125 ",$531 ,25%
+FizzyCo,1128299,2/17/2023,West,Hawaii,Honolulu,Sprite,$0.50 ,"4,250","$2,125 ",$638 ,30%
+FizzyCo,1128299,2/17/2023,Southeast,Florida,Orlando,Fanta,$0.50 ,"2,750","$1,375 ",$413 ,30%
+FizzyCo,1128299,2/17/2023,Southeast,Florida,Orlando,Powerade,$0.55 ,"2,000","$1,100 ",$220 ,20%
+FizzyCo,1128299,2/17/2023,Southeast,Florida,Orlando,Dasani Water,$0.50 ,"4,000","$2,000 ",$900 ,45%
+FizzyCo,1128299,3/16/2023,Southeast,Florida,Orlando,Coca-Cola,$0.50 ,"5,500","$2,750 ",$825 ,30%
+FizzyCo,1128299,3/16/2023,Southeast,Florida,Orlando,Diet Coke,$0.60 ,"4,000","$2,400 ",$600 ,25%
+FizzyCo,1128299,3/16/2023,Southeast,Florida,Orlando,Sprite,$0.65 ,"4,250","$2,763 ",$829 ,30%
+FizzyCo,1128299,3/16/2023,Southeast,Florida,Orlando,Fanta,$0.60 ,"3,250","$1,950 ",$585 ,30%
+FizzyCo,1128299,3/16/2023,Southeast,Florida,Orlando,Powerade,$0.65 ,"1,750","$1,138 ",$228 ,20%
+FizzyCo,1128299,3/16/2023,Southeast,Florida,Orlando,Dasani Water,$0.60 ,"3,750","$2,250 ","$1,013 ",45%
+Walmart,1128299,4/17/2023,Southeast,Florida,Orlando,Coca-Cola,$0.65 ,"5,500","$3,575 ","$1,073 ",30%
+Walmart,1128299,4/17/2023,Southeast,Florida,Orlando,Diet Coke,$0.70 ,"3,500","$2,450 ",$613 ,25%
+Walmart,1128299,4/17/2023,Southeast,Florida,Orlando,Sprite,$0.70 ,"4,000","$2,800 ",$840 ,30%
+Walmart,1128299,4/17/2023,Southeast,Florida,Orlando,Fanta,$0.55 ,"3,000","$1,650 ",$495 ,30%
+Walmart,1128299,4/17/2023,Southeast,Florida,Orlando,Powerade,$0.60 ,"2,000","$1,200 ",$240 ,20%
+Walmart,1128299,4/17/2023,Southeast,Florida,Orlando,Dasani Water,$0.75 ,"3,750","$2,813 ","$1,266 ",45%
+Walmart,1128299,5/18/2023,Southeast,Florida,Orlando,Coca-Cola,$0.60 ,"5,750","$3,450 ","$1,035 ",30%
+Walmart,1128299,5/18/2023,Southeast,Florida,Orlando,Diet Coke,$0.65 ,"4,250","$2,763 ",$691 ,25%
+Walmart,1128299,5/18/2023,Southeast,Florida,Orlando,Sprite,$0.65 ,"4,250","$2,763 ",$829 ,30%
+Walmart,1128299,5/18/2023,Southeast,Florida,Orlando,Fanta,$0.60 ,"3,250","$1,950 ",$585 ,30%
+Walmart,1128299,5/18/2023,Southeast,Florida,Orlando,Powerade,$0.55 ,"2,250","$1,238 ",$248 ,20%
+Walmart,1128299,5/18/2023,Southeast,Florida,Orlando,Dasani Water,$0.70 ,"5,750","$4,025 ","$1,811 ",45%
+Walmart,1128299,6/17/2023,Southeast,Florida,Orlando,Coca-Cola,$0.65 ,"8,250","$5,363 ","$1,609 ",30%
+Walmart,1128299,6/17/2023,Southeast,Florida,Orlando,Diet Coke,$0.70 ,"7,000","$4,900 ","$1,225 ",25%
+Walmart,1128299,6/17/2023,Southeast,Florida,Orlando,Sprite,$0.85 ,"7,000","$5,950 ","$1,785 ",30%
+Walmart,1128299,6/17/2023,Southeast,Florida,Orlando,Fanta,$0.85 ,"5,750","$4,888 ","$1,466 ",30%
+Walmart,1128299,6/17/2023,Southeast,Florida,Orlando,Powerade,$0.95 ,"4,500","$4,275 ",$855 ,20%
+Walmart,1128299,6/17/2023,Southeast,Florida,Orlando,Dasani Water,$1.10 ,"7,500","$8,250 ","$3,713 ",45%
+Walmart,1128299,7/16/2023,Southeast,Florida,Orlando,Coca-Cola,$0.90 ,"9,000","$8,100 ","$2,430 ",30%
+Walmart,1128299,7/16/2023,Southeast,Florida,Orlando,Diet Coke,$0.95 ,"7,500","$7,125 ","$1,781 ",25%
+Walmart,1128299,7/16/2023,Southeast,Florida,Orlando,Sprite,$0.95 ,"7,000","$6,650 ","$1,995 ",30%
+Walmart,1128299,7/16/2023,Southeast,Florida,Orlando,Fanta,$0.90 ,"6,000","$5,400 ","$1,620 ",30%
+Walmart,1128299,7/16/2023,Southeast,Florida,Orlando,Powerade,$0.95 ,"6,500","$6,175 ","$1,235 ",20%
+Walmart,1128299,7/16/2023,Southeast,Florida,Orlando,Dasani Water,$1.10 ,"6,500","$7,150 ","$3,218 ",45%
+Walmart,1128299,8/17/2023,Southeast,Florida,Orlando,Coca-Cola,$0.95 ,"8,500","$8,075 ","$2,423 ",30%
+Walmart,1128299,8/17/2023,Southeast,Florida,Orlando,Diet Coke,$0.85 ,"8,250","$7,013 ","$1,753 ",25%
+Walmart,1128299,8/17/2023,Southeast,Florida,Orlando,Sprite,$0.80 ,"7,000","$5,600 ","$1,680 ",30%
+Walmart,1128299,8/17/2023,Southeast,Florida,Orlando,Fanta,$0.80 ,"4,750","$3,800 ","$1,140 ",30%
+Walmart,1128299,8/17/2023,Southeast,Florida,Orlando,Powerade,$0.80 ,"4,750","$3,800 ",$760 ,20%
+Walmart,1128299,8/17/2023,Southeast,Florida,Orlando,Dasani Water,$0.85 ,"3,000","$2,550 ","$1,148 ",45%
+Walmart,1128299,9/18/2023,Southeast,Florida,Orlando,Coca-Cola,$0.60 ,"5,000","$3,000 ",$900 ,30%
+Walmart,1128299,9/18/2023,Southeast,Florida,Orlando,Diet Coke,$0.65 ,"5,000","$3,250 ",$813 ,25%
+Walmart,1128299,9/18/2023,Southeast,Florida,Orlando,Sprite,$0.60 ,"3,000","$1,800 ",$540 ,30%
+Walmart,1128299,9/18/2023,Southeast,Florida,Orlando,Fanta,$0.60 ,"2,500","$1,500 ",$450 ,30%
+Walmart,1128299,9/18/2023,Southeast,Florida,Orlando,Powerade,$0.70 ,"2,750","$1,925 ",$385 ,20%
+Walmart,1128299,9/18/2023,Southeast,Florida,Orlando,Dasani Water,$0.55 ,"3,000","$1,650 ",$743 ,45%
+Walmart,1128299,10/17/2023,Southeast,Florida,Orlando,Coca-Cola,$0.50 ,"4,000","$2,000 ",$600 ,30%
+Walmart,1128299,10/17/2023,Southeast,Florida,Orlando,Diet Coke,$0.65 ,"5,750","$3,738 ",$934 ,25%
+Walmart,1128299,10/17/2023,Southeast,Florida,Orlando,Sprite,$0.60 ,"4,000","$2,400 ",$720 ,30%
+Walmart,1128299,10/17/2023,Southeast,Florida,Orlando,Fanta,$0.55 ,"3,750","$2,063 ",$619 ,30%
+Walmart,1128299,10/17/2023,Southeast,Florida,Orlando,Powerade,$0.65 ,"3,500","$2,275 ",$455 ,20%
+Walmart,1128299,10/17/2023,Southeast,Florida,Orlando,Dasani Water,$0.70 ,"4,000","$2,800 ","$1,260 ",45%
+Walmart,1128299,11/17/2023,Southeast,Florida,Orlando,Coca-Cola,$0.55 ,"6,250","$3,438 ","$1,031 ",30%
+Walmart,1128299,11/17/2023,Southeast,Florida,Orlando,Diet Coke,$0.60 ,"7,000","$4,200 ","$1,050 ",25%
+Walmart,1128299,11/17/2023,Southeast,Florida,Orlando,Sprite,$0.55 ,"5,250","$2,888 ",$866 ,30%
+Walmart,1128299,11/17/2023,Southeast,Florida,Orlando,Fanta,$0.65 ,"5,000","$3,250 ",$975 ,30%
+Walmart,1128299,11/17/2023,Southeast,Florida,Orlando,Powerade,$0.85 ,"4,750","$4,038 ",$808 ,20%
+Walmart,1128299,11/17/2023,Southeast,Florida,Orlando,Dasani Water,$0.90 ,"6,000","$5,400 ","$2,430 ",45%
+Walmart,1128299,12/16/2023,Southeast,Florida,Orlando,Coca-Cola,$0.75 ,"8,000","$6,000 ","$1,800 ",30%
+Walmart,1128299,12/16/2023,Southeast,Florida,Orlando,Diet Coke,$0.85 ,"8,000","$6,800 ","$1,700 ",25%
+West Soda,1128299,12/16/2023,Southeast,Florida,Orlando,Sprite,$0.80 ,"6,000","$4,800 ","$1,440 ",30%
+West Soda,1128299,12/16/2023,Southeast,Florida,Orlando,Fanta,$0.80 ,"6,000","$4,800 ","$1,440 ",30%
+West Soda,1128299,12/16/2023,Southeast,Florida,Orlando,Powerade,$0.90 ,"5,250","$4,725 ",$945 ,20%
+West Soda,1128299,12/16/2023,Southeast,Florida,Orlando,Dasani Water,$0.95 ,"6,250","$5,938 ","$2,672 ",45%
+West Soda,1185732,1/12/2023,Southeast,Florida,Orlando,Coca-Cola,$0.45 ,"8,500","$3,825 ","$1,721 ",45%
+West Soda,1185732,1/12/2023,Southeast,Florida,Orlando,Diet Coke,$0.45 ,"6,500","$2,925 ","$1,024 ",35%
+West Soda,1185732,1/12/2023,Southeast,Florida,Orlando,Sprite,$0.35 ,"6,500","$2,275 ",$569 ,25%
+West Soda,1185732,1/12/2023,Southeast,Florida,Orlando,Fanta,$0.40 ,"5,000","$2,000 ",$600 ,30%
+West Soda,1185732,1/12/2023,Southeast,Florida,Orlando,Powerade,$0.55 ,"5,500","$3,025 ","$1,059 ",35%
+West Soda,1185732,1/12/2023,Southeast,Florida,Orlando,Dasani Water,$0.45 ,"6,500","$2,925 ","$1,463 ",50%
+West Soda,1185732,2/10/2023,Southeast,Florida,Orlando,Coca-Cola,$0.45 ,"9,000","$4,050 ","$1,823 ",45%
+West Soda,1185732,2/10/2023,Southeast,Florida,Orlando,Diet Coke,$0.45 ,"5,500","$2,475 ",$866 ,35%
+West Soda,1185732,2/10/2023,Southeast,Florida,Orlando,Sprite,$0.35 ,"6,000","$2,100 ",$525 ,25%
+West Soda,1185732,2/10/2023,Northeast,New York,Albany,Fanta,$0.40 ,"4,750","$1,900 ",$570 ,30%
+West Soda,1185732,2/10/2023,Northeast,New York,Albany,Powerade,$0.55 ,"5,500","$3,025 ","$1,059 ",35%
+West Soda,1185732,2/10/2023,Northeast,New York,Albany,Dasani Water,$0.45 ,"6,500","$2,925 ","$1,463 ",50%
+West Soda,1185732,3/8/2023,Northeast,New York,Albany,Coca-Cola,$0.45 ,"8,700","$3,915 ","$1,762 ",45%
+West Soda,1185732,3/8/2023,Northeast,New York,Albany,Diet Coke,$0.45 ,"5,500","$2,475 ",$866 ,35%
+West Soda,1185732,3/8/2023,Northeast,New York,Albany,Sprite,$0.35 ,"5,750","$2,013 ",$503 ,25%
+West Soda,1185732,3/8/2023,Northeast,New York,Albany,Fanta,$0.40 ,"4,250","$1,700 ",$510 ,30%
+West Soda,1185732,3/8/2023,Northeast,New York,Albany,Powerade,$0.55 ,"4,750","$2,613 ",$914 ,35%
+West Soda,1185732,3/8/2023,Northeast,New York,Albany,Dasani Water,$0.45 ,"5,750","$2,588 ","$1,294 ",50%
+West Soda,1185732,4/9/2023,Northeast,New York,Albany,Coca-Cola,$0.45 ,"8,250","$3,713 ","$1,671 ",45%
+West Soda,1185732,4/9/2023,Northeast,New York,Albany,Diet Coke,$0.45 ,"5,250","$2,363 ",$827 ,35%
+West Soda,1185732,4/9/2023,Northeast,New York,Albany,Sprite,$0.35 ,"5,250","$1,838 ",$459 ,25%
+West Soda,1185732,4/9/2023,Northeast,New York,Albany,Fanta,$0.40 ,"4,500","$1,800 ",$540 ,30%
+West Soda,1185732,4/9/2023,Northeast,New York,Albany,Powerade,$0.55 ,"4,750","$2,613 ",$914 ,35%
+West Soda,1185732,4/9/2023,Northeast,New York,Albany,Dasani Water,$0.45 ,"6,000","$2,700 ","$1,350 ",50%
+West Soda,1185732,5/8/2023,Northeast,New York,Albany,Coca-Cola,$0.55 ,"8,700","$4,785 ","$2,153 ",45%
+West Soda,1185732,5/8/2023,Northeast,New York,Albany,Diet Coke,$0.55 ,"5,750","$3,163 ","$1,107 ",35%
+West Soda,1185732,5/8/2023,Northeast,New York,Albany,Sprite,$0.50 ,"5,500","$2,750 ",$688 ,25%
+West Soda,1185732,5/8/2023,Northeast,New York,Albany,Fanta,$0.50 ,"5,000","$2,500 ",$750 ,30%
+West Soda,1185732,5/8/2023,Northeast,New York,Albany,Powerade,$0.60 ,"5,250","$3,150 ","$1,103 ",35%
+West Soda,1185732,5/8/2023,Northeast,New York,Albany,Dasani Water,$0.65 ,"6,250","$4,063 ","$2,031 ",50%
+West Soda,1185732,6/10/2023,Northeast,New York,Albany,Coca-Cola,$0.60 ,"8,750","$5,250 ","$2,363 ",45%
+West Soda,1185732,6/10/2023,Northeast,New York,Albany,Diet Coke,$0.55 ,"6,250","$3,438 ","$1,203 ",35%
+West Soda,1185732,6/10/2023,Northeast,New York,Albany,Sprite,$0.50 ,"6,000","$3,000 ",$750 ,25%
+West Soda,1185732,6/10/2023,Northeast,New York,Albany,Fanta,$0.50 ,"5,750","$2,875 ",$863 ,30%
+West Soda,1185732,6/10/2023,Northeast,New York,Albany,Powerade,$0.65 ,"5,750","$3,738 ","$1,308 ",35%
+West Soda,1185732,6/10/2023,Northeast,New York,Albany,Dasani Water,$0.70 ,"7,250","$5,075 ","$2,538 ",50%
+West Soda,1185732,7/8/2023,Northeast,New York,Albany,Coca-Cola,$0.65 ,"9,500","$6,175 ","$2,779 ",45%
+West Soda,1185732,7/8/2023,Northeast,New York,Albany,Diet Coke,$0.60 ,"7,000","$4,200 ","$1,470 ",35%
+West Soda,1185732,7/8/2023,Northeast,New York,Albany,Sprite,$0.55 ,"6,250","$3,438 ",$859 ,25%
+West Soda,1185732,7/8/2023,Northeast,New York,Albany,Fanta,$0.55 ,"5,750","$3,163 ",$949 ,30%
+West Soda,1185732,7/8/2023,Northeast,New York,Albany,Powerade,$0.65 ,"6,000","$3,900 ","$1,365 ",35%
+West Soda,1185732,7/8/2023,Northeast,New York,Albany,Dasani Water,$0.70 ,"7,750","$5,425 ","$2,713 ",50%
+West Soda,1185732,8/9/2023,Northeast,New York,Albany,Coca-Cola,$0.65 ,"9,250","$6,013 ","$2,706 ",45%
+West Soda,1185732,8/9/2023,Northeast,New York,Albany,Diet Coke,$0.60 ,"7,000","$4,200 ","$1,470 ",35%
+West Soda,1185732,8/9/2023,Northeast,New York,Albany,Sprite,$0.55 ,"6,250","$3,438 ",$859 ,25%
+West Soda,1185732,8/9/2023,Northeast,New York,Albany,Fanta,$0.45 ,"5,750","$2,588 ",$776 ,30%
+West Soda,1185732,8/9/2023,Northeast,New York,Albany,Powerade,$0.55 ,"5,500","$3,025 ","$1,059 ",35%
+West Soda,1185732,8/9/2023,Northeast,New York,Albany,Dasani Water,$0.60 ,"7,250","$4,350 ","$2,175 ",50%
+West Soda,1185732,9/8/2023,Northeast,New York,Albany,Coca-Cola,$0.55 ,"8,500","$4,675 ","$2,104 ",45%
+West Soda,1185732,9/8/2023,Northeast,New York,Albany,Diet Coke,$0.50 ,"6,500","$3,250 ","$1,138 ",35%
+West Soda,1185732,9/8/2023,Northeast,New York,Albany,Sprite,$0.45 ,"5,500","$2,475 ",$619 ,25%
+West Soda,1185732,9/8/2023,Northeast,New York,Albany,Fanta,$0.45 ,"5,250","$2,363 ",$709 ,30%
+West Soda,1185732,9/8/2023,Northeast,New York,Albany,Powerade,$0.55 ,"5,250","$2,888 ","$1,011 ",35%
+West Soda,1185732,9/8/2023,Northeast,New York,Albany,Dasani Water,$0.60 ,"6,250","$3,750 ","$1,875 ",50%
+West Soda,1185732,10/10/2023,Northeast,New York,Albany,Coca-Cola,$0.60 ,"8,000","$4,800 ","$2,160 ",45%
+West Soda,1185732,10/10/2023,Northeast,New York,Albany,Diet Coke,$0.50 ,"6,250","$3,125 ","$1,094 ",35%
+West Soda,1185732,10/10/2023,Northeast,New York,Albany,Sprite,$0.50 ,"5,250","$2,625 ",$656 ,25%
+West Soda,1185732,10/10/2023,Northeast,New York,Albany,Fanta,$0.50 ,"5,000","$2,500 ",$750 ,30%
+West Soda,1185732,10/10/2023,Northeast,New York,Albany,Powerade,$0.60 ,"5,000","$3,000 ","$1,050 ",35%
+West Soda,1185732,10/10/2023,Northeast,New York,Albany,Dasani Water,$0.65 ,"6,250","$4,063 ","$2,031 ",50%
+West Soda,1185732,11/9/2023,Northeast,New York,Albany,Coca-Cola,$0.60 ,"7,750","$4,650 ","$2,093 ",45%
+West Soda,1185732,11/9/2023,Northeast,New York,Albany,Diet Coke,$0.50 ,"6,000","$3,000 ","$1,050 ",35%
+West Soda,1185732,11/9/2023,Northeast,New York,Albany,Sprite,$0.50 ,"5,450","$2,725 ",$681 ,25%
+West Soda,1185732,11/9/2023,Northeast,New York,Albany,Fanta,$0.50 ,"5,750","$2,875 ",$863 ,30%
+West Soda,1185732,11/9/2023,Northeast,New York,Albany,Powerade,$0.65 ,"5,500","$3,575 ","$1,251 ",35%
+West Soda,1185732,11/9/2023,Northeast,New York,Albany,Dasani Water,$0.70 ,"6,500","$4,550 ","$2,275 ",50%
+West Soda,1185732,12/8/2023,Northeast,New York,Albany,Coca-Cola,$0.65 ,"8,750","$5,688 ","$2,559 ",45%
+West Soda,1185732,12/8/2023,Northeast,New York,Albany,Diet Coke,$0.55 ,"6,750","$3,713 ","$1,299 ",35%
+Target,1185732,12/8/2023,Northeast,New York,Albany,Sprite,$0.55 ,"6,250","$3,438 ",$859 ,25%
+Target,1185732,12/8/2023,Northeast,New York,Albany,Fanta,$0.55 ,"5,750","$3,163 ",$949 ,30%
+Target,1185732,12/8/2023,Northeast,New York,Albany,Powerade,$0.65 ,"5,750","$3,738 ","$1,308 ",35%
+Target,1185732,12/8/2023,Northeast,New York,Albany,Dasani Water,$0.70 ,"6,750","$4,725 ","$2,363 ",50%
+Target,1185732,1/14/2023,Northeast,New York,Albany,Coca-Cola,$0.40 ,"8,000","$3,200 ","$1,600 ",50%
+Target,1185732,1/14/2023,Northeast,New York,Albany,Diet Coke,$0.40 ,"6,000","$2,400 ",$720 ,30%
+Target,1185732,1/14/2023,Northeast,New York,Albany,Sprite,$0.30 ,"6,000","$1,800 ",$630 ,35%
+Target,1185732,1/14/2023,Northeast,New York,Albany,Fanta,$0.35 ,"4,500","$1,575 ",$551 ,35%
+Target,1185732,1/14/2023,Northeast,New York,Albany,Powerade,$0.50 ,"5,000","$2,500 ",$750 ,30%
+Target,1185732,1/14/2023,Northeast,New York,Albany,Dasani Water,$0.40 ,"6,000","$2,400 ",$600 ,25%
+Target,1185732,2/12/2023,Northeast,New York,Albany,Coca-Cola,$0.40 ,"8,500","$3,400 ","$1,700 ",50%
+Target,1185732,2/12/2023,Northeast,New York,Albany,Diet Coke,$0.40 ,"5,000","$2,000 ",$600 ,30%
+Target,1185732,2/12/2023,Northeast,New York,Albany,Sprite,$0.30 ,"5,500","$1,650 ",$578 ,35%
+Target,1185732,2/12/2023,West,Wyoming,Cheyenne,Fanta,$0.35 ,"4,250","$1,488 ",$521 ,35%
+Target,1185732,2/12/2023,West,Wyoming,Cheyenne,Powerade,$0.50 ,"5,000","$2,500 ",$750 ,30%
+Target,1185732,2/12/2023,West,Wyoming,Cheyenne,Dasani Water,$0.40 ,"6,000","$2,400 ",$600 ,25%
+Target,1185732,3/10/2023,West,Wyoming,Cheyenne,Coca-Cola,$0.40 ,"8,200","$3,280 ","$1,640 ",50%
+Target,1185732,3/10/2023,West,Wyoming,Cheyenne,Diet Coke,$0.40 ,"5,250","$2,100 ",$630 ,30%
+Target,1185732,3/10/2023,West,Wyoming,Cheyenne,Sprite,$0.30 ,"5,500","$1,650 ",$578 ,35%
+Target,1185732,3/10/2023,West,Wyoming,Cheyenne,Fanta,$0.35 ,"4,000","$1,400 ",$490 ,35%
+Target,1185732,3/10/2023,West,Wyoming,Cheyenne,Powerade,$0.50 ,"4,500","$2,250 ",$675 ,30%
+Target,1185732,3/10/2023,West,Wyoming,Cheyenne,Dasani Water,$0.40 ,"5,500","$2,200 ",$550 ,25%
+Target,1185732,4/11/2023,West,Wyoming,Cheyenne,Coca-Cola,$0.40 ,"8,000","$3,200 ","$1,600 ",50%
+Target,1185732,4/11/2023,West,Wyoming,Cheyenne,Diet Coke,$0.40 ,"5,000","$2,000 ",$600 ,30%
+Target,1185732,4/11/2023,West,Wyoming,Cheyenne,Sprite,$0.30 ,"5,000","$1,500 ",$525 ,35%
+Target,1185732,4/11/2023,West,Wyoming,Cheyenne,Fanta,$0.35 ,"4,250","$1,488 ",$521 ,35%
+Target,1185732,4/11/2023,West,Wyoming,Cheyenne,Powerade,$0.50 ,"4,250","$2,125 ",$638 ,30%
+Target,1185732,4/11/2023,West,Wyoming,Cheyenne,Dasani Water,$0.40 ,"5,500","$2,200 ",$550 ,25%
+Target,1185732,5/10/2023,West,Wyoming,Cheyenne,Coca-Cola,$0.50 ,"8,200","$4,100 ","$2,050 ",50%
+Target,1185732,5/10/2023,West,Wyoming,Cheyenne,Diet Coke,$0.45 ,"5,250","$2,363 ",$709 ,30%
+Target,1185732,5/10/2023,West,Wyoming,Cheyenne,Sprite,$0.40 ,"5,000","$2,000 ",$700 ,35%
+Target,1185732,5/10/2023,West,Wyoming,Cheyenne,Fanta,$0.40 ,"4,500","$1,800 ",$630 ,35%
+Target,1185732,5/10/2023,West,Wyoming,Cheyenne,Powerade,$0.50 ,"4,750","$2,375 ",$713 ,30%
+Target,1185732,5/10/2023,West,Wyoming,Cheyenne,Dasani Water,$0.55 ,"6,000","$3,300 ",$825 ,25%
+Target,1185732,6/12/2023,West,Wyoming,Cheyenne,Coca-Cola,$0.50 ,"8,500","$4,250 ","$2,125 ",50%
+Target,1185732,6/12/2023,West,Wyoming,Cheyenne,Diet Coke,$0.45 ,"6,000","$2,700 ",$810 ,30%
+Target,1185732,6/12/2023,West,Wyoming,Cheyenne,Sprite,$0.40 ,"5,250","$2,100 ",$735 ,35%
+Target,1185732,6/12/2023,West,Wyoming,Cheyenne,Fanta,$0.40 ,"5,000","$2,000 ",$700 ,35%
+Target,1185732,6/12/2023,West,Wyoming,Cheyenne,Powerade,$0.50 ,"5,000","$2,500 ",$750 ,30%
+Target,1185732,6/12/2023,West,Wyoming,Cheyenne,Dasani Water,$0.55 ,"6,500","$3,575 ",$894 ,25%
+Target,1185732,7/10/2023,West,Wyoming,Cheyenne,Coca-Cola,$0.50 ,"8,750","$4,375 ","$2,188 ",50%
+Target,1185732,7/10/2023,West,Wyoming,Cheyenne,Diet Coke,$0.45 ,"6,250","$2,813 ",$844 ,30%
+Target,1185732,7/10/2023,West,Wyoming,Cheyenne,Sprite,$0.40 ,"5,500","$2,200 ",$770 ,35%
+Target,1185732,7/10/2023,West,Wyoming,Cheyenne,Fanta,$0.40 ,"5,000","$2,000 ",$700 ,35%
+Target,1185732,7/10/2023,West,Wyoming,Cheyenne,Powerade,$0.50 ,"5,250","$2,625 ",$788 ,30%
+Target,1185732,7/10/2023,West,Wyoming,Cheyenne,Dasani Water,$0.55 ,"7,000","$3,850 ",$963 ,25%
+Target,1185732,8/11/2023,West,Wyoming,Cheyenne,Coca-Cola,$0.50 ,"8,500","$4,250 ","$2,125 ",50%
+Target,1185732,8/11/2023,West,Wyoming,Cheyenne,Diet Coke,$0.45 ,"6,250","$2,813 ",$844 ,30%
+Target,1185732,8/11/2023,West,Wyoming,Cheyenne,Sprite,$0.40 ,"5,500","$2,200 ",$770 ,35%
+Target,1185732,8/11/2023,West,Wyoming,Cheyenne,Fanta,$0.40 ,"5,250","$2,100 ",$735 ,35%
+Target,1185732,8/11/2023,West,Wyoming,Cheyenne,Powerade,$0.50 ,"5,000","$2,500 ",$750 ,30%
+Target,1185732,8/11/2023,West,Wyoming,Cheyenne,Dasani Water,$0.55 ,"6,750","$3,713 ",$928 ,25%
+Target,1185732,9/10/2023,West,Wyoming,Cheyenne,Coca-Cola,$0.50 ,"8,000","$4,000 ","$2,000 ",50%
+Target,1185732,9/10/2023,West,Wyoming,Cheyenne,Diet Coke,$0.45 ,"6,000","$2,700 ",$810 ,30%
+Target,1185732,9/10/2023,West,Wyoming,Cheyenne,Sprite,$0.40 ,"5,250","$2,100 ",$735 ,35%
+Target,1185732,9/10/2023,West,Wyoming,Cheyenne,Fanta,$0.40 ,"5,000","$2,000 ",$700 ,35%
+Target,1185732,9/10/2023,West,Wyoming,Cheyenne,Powerade,$0.50 ,"5,000","$2,500 ",$750 ,30%
+Target,1185732,9/10/2023,West,Wyoming,Cheyenne,Dasani Water,$0.55 ,"6,000","$3,300 ",$825 ,25%
+Target,1185732,10/12/2023,West,Wyoming,Cheyenne,Coca-Cola,$0.55 ,"7,750","$4,263 ","$2,131 ",50%
+Target,1185732,10/12/2023,West,Wyoming,Cheyenne,Diet Coke,$0.45 ,"6,000","$2,700 ",$810 ,30%
+Target,1185732,10/12/2023,West,Wyoming,Cheyenne,Sprite,$0.45 ,"5,000","$2,250 ",$788 ,35%
+Target,1185732,10/12/2023,West,Wyoming,Cheyenne,Fanta,$0.45 ,"4,750","$2,138 ",$748 ,35%
+Target,1185732,10/12/2023,West,Wyoming,Cheyenne,Powerade,$0.55 ,"4,750","$2,613 ",$784 ,30%
+Target,1185732,10/12/2023,West,Wyoming,Cheyenne,Dasani Water,$0.60 ,"6,000","$3,600 ",$900 ,25%
+Target,1185732,11/11/2023,West,Wyoming,Cheyenne,Coca-Cola,$0.55 ,"7,500","$4,125 ","$2,063 ",50%
+Target,1185732,11/11/2023,West,Wyoming,Cheyenne,Diet Coke,$0.45 ,"5,750","$2,588 ",$776 ,30%
+Target,1185732,11/11/2023,West,Wyoming,Cheyenne,Sprite,$0.45 ,"5,200","$2,340 ",$819 ,35%
+Target,1185732,11/11/2023,West,Wyoming,Cheyenne,Fanta,$0.45 ,"5,000","$2,250 ",$788 ,35%
+Target,1185732,11/11/2023,West,Wyoming,Cheyenne,Powerade,$0.55 ,"4,750","$2,613 ",$784 ,30%
+Target,1185732,11/11/2023,West,Wyoming,Cheyenne,Dasani Water,$0.60 ,"5,750","$3,450 ",$863 ,25%
+Target,1185732,12/10/2023,West,Wyoming,Cheyenne,Coca-Cola,$0.55 ,"8,000","$4,400 ","$2,200 ",50%
+Target,1185732,12/10/2023,West,Wyoming,Cheyenne,Diet Coke,$0.45 ,"6,000","$2,700 ",$810 ,30%
+BevCo,1185732,12/10/2023,West,Wyoming,Cheyenne,Sprite,$0.45 ,"5,500","$2,475 ",$866 ,35%
+BevCo,1185732,12/10/2023,West,Wyoming,Cheyenne,Fanta,$0.45 ,"5,000","$2,250 ",$788 ,35%
+BevCo,1185732,12/10/2023,West,Wyoming,Cheyenne,Powerade,$0.55 ,"5,000","$2,750 ",$825 ,30%
+BevCo,1185732,12/10/2023,West,Wyoming,Cheyenne,Dasani Water,$0.60 ,"6,000","$3,600 ",$900 ,25%
+BevCo,1128299,1/24/2023,West,Wyoming,Cheyenne,Coca-Cola,$0.30 ,"3,500","$1,050 ",$368 ,35%
+BevCo,1128299,1/24/2023,West,Wyoming,Cheyenne,Diet Coke,$0.40 ,"3,500","$1,400 ",$490 ,35%
+BevCo,1128299,1/24/2023,West,Wyoming,Cheyenne,Sprite,$0.40 ,"3,500","$1,400 ",$490 ,35%
+BevCo,1128299,1/24/2023,West,Wyoming,Cheyenne,Fanta,$0.40 ,"2,000",$800 ,$280 ,35%
+BevCo,1128299,1/24/2023,West,Wyoming,Cheyenne,Powerade,$0.45 ,"1,500",$675 ,$270 ,40%
+BevCo,1128299,1/24/2023,West,Wyoming,Cheyenne,Dasani Water,$0.40 ,"4,000","$1,600 ",$480 ,30%
+BevCo,1128299,2/24/2023,West,Wyoming,Cheyenne,Coca-Cola,$0.30 ,"4,500","$1,350 ",$473 ,35%
+BevCo,1128299,2/24/2023,West,Wyoming,Cheyenne,Diet Coke,$0.40 ,"3,500","$1,400 ",$490 ,35%
+BevCo,1128299,2/24/2023,West,Wyoming,Cheyenne,Sprite,$0.40 ,"3,500","$1,400 ",$490 ,35%
+BevCo,1128299,2/24/2023,Southeast,Virginia,Richmond,Fanta,$0.40 ,"2,000",$800 ,$280 ,35%
+BevCo,1128299,2/24/2023,Southeast,Virginia,Richmond,Powerade,$0.45 ,"1,250",$563 ,$225 ,40%
+BevCo,1128299,2/24/2023,Southeast,Virginia,Richmond,Dasani Water,$0.40 ,"3,250","$1,300 ",$390 ,30%
+BevCo,1128299,3/23/2023,Southeast,Virginia,Richmond,Coca-Cola,$0.40 ,"4,750","$1,900 ",$665 ,35%
+BevCo,1128299,3/23/2023,Southeast,Virginia,Richmond,Diet Coke,$0.50 ,"3,250","$1,625 ",$569 ,35%
+BevCo,1128299,3/23/2023,Southeast,Virginia,Richmond,Sprite,$0.55 ,"3,500","$1,925 ",$674 ,35%
+BevCo,1128299,3/23/2023,Southeast,Virginia,Richmond,Fanta,$0.50 ,"2,500","$1,250 ",$438 ,35%
+BevCo,1128299,3/23/2023,Southeast,Virginia,Richmond,Powerade,$0.55 ,"1,000",$550 ,$220 ,40%
+BevCo,1128299,3/23/2023,Southeast,Virginia,Richmond,Dasani Water,$0.50 ,"3,000","$1,500 ",$450 ,30%
+BevCo,1128299,4/24/2023,Southeast,Virginia,Richmond,Coca-Cola,$0.55 ,"4,750","$2,613 ",$914 ,35%
+BevCo,1128299,4/24/2023,Southeast,Virginia,Richmond,Diet Coke,$0.60 ,"2,750","$1,650 ",$578 ,35%
+BevCo,1128299,4/24/2023,Southeast,Virginia,Richmond,Sprite,$0.60 ,"3,250","$1,950 ",$683 ,35%
+BevCo,1128299,4/24/2023,Southeast,Virginia,Richmond,Fanta,$0.45 ,"2,250","$1,013 ",$354 ,35%
+BevCo,1128299,4/24/2023,Southeast,Virginia,Richmond,Powerade,$0.50 ,"1,250",$625 ,$250 ,40%
+BevCo,1128299,4/24/2023,Southeast,Virginia,Richmond,Dasani Water,$0.65 ,"3,000","$1,950 ",$585 ,30%
+BevCo,1128299,5/25/2023,Southeast,Virginia,Richmond,Coca-Cola,$0.50 ,"5,000","$2,500 ",$875 ,35%
+BevCo,1128299,5/25/2023,Southeast,Virginia,Richmond,Diet Coke,$0.55 ,"3,500","$1,925 ",$674 ,35%
+BevCo,1128299,5/25/2023,Southeast,Virginia,Richmond,Sprite,$0.55 ,"3,500","$1,925 ",$674 ,35%
+BevCo,1128299,5/25/2023,Southeast,Virginia,Richmond,Fanta,$0.50 ,"2,750","$1,375 ",$481 ,35%
+BevCo,1128299,5/25/2023,Southeast,Virginia,Richmond,Powerade,$0.45 ,"1,750",$788 ,$315 ,40%
+BevCo,1128299,5/25/2023,Southeast,Virginia,Richmond,Dasani Water,$0.60 ,"5,250","$3,150 ",$945 ,30%
+BevCo,1128299,6/24/2023,Southeast,Virginia,Richmond,Coca-Cola,$0.55 ,"7,750","$4,263 ","$1,492 ",35%
+BevCo,1128299,6/24/2023,Southeast,Virginia,Richmond,Diet Coke,$0.65 ,"6,500","$4,225 ","$1,479 ",35%
+BevCo,1128299,6/24/2023,Southeast,Virginia,Richmond,Sprite,$0.80 ,"6,500","$5,200 ","$1,820 ",35%
+BevCo,1128299,6/24/2023,Southeast,Virginia,Richmond,Fanta,$0.80 ,"5,250","$4,200 ","$1,470 ",35%
+BevCo,1128299,6/24/2023,Southeast,Virginia,Richmond,Powerade,$0.90 ,"4,000","$3,600 ","$1,440 ",40%
+BevCo,1128299,6/24/2023,Southeast,Virginia,Richmond,Dasani Water,$1.05 ,"7,000","$7,350 ","$2,205 ",30%
+BevCo,1128299,7/23/2023,Southeast,Virginia,Richmond,Coca-Cola,$0.85 ,"8,500","$7,225 ","$2,529 ",35%
+BevCo,1128299,7/23/2023,Southeast,Virginia,Richmond,Diet Coke,$0.90 ,"7,000","$6,300 ","$2,205 ",35%
+BevCo,1128299,7/23/2023,Southeast,Virginia,Richmond,Sprite,$0.90 ,"6,500","$5,850 ","$2,048 ",35%
+BevCo,1128299,7/23/2023,Southeast,Virginia,Richmond,Fanta,$0.85 ,"5,500","$4,675 ","$1,636 ",35%
+BevCo,1128299,7/23/2023,Southeast,Virginia,Richmond,Powerade,$0.90 ,"6,000","$5,400 ","$2,160 ",40%
+BevCo,1128299,7/23/2023,Southeast,Virginia,Richmond,Dasani Water,$1.05 ,"6,000","$6,300 ","$1,890 ",30%
+BevCo,1128299,8/24/2023,Southeast,Virginia,Richmond,Coca-Cola,$0.90 ,"8,000","$7,200 ","$2,520 ",35%
+BevCo,1128299,8/24/2023,Southeast,Virginia,Richmond,Diet Coke,$0.80 ,"7,750","$6,200 ","$2,170 ",35%
+BevCo,1128299,8/24/2023,Southeast,Virginia,Richmond,Sprite,$0.70 ,"6,500","$4,550 ","$1,593 ",35%
+BevCo,1128299,8/24/2023,Southeast,Virginia,Richmond,Fanta,$0.70 ,"4,250","$2,975 ","$1,041 ",35%
+BevCo,1128299,8/24/2023,Southeast,Virginia,Richmond,Powerade,$0.70 ,"4,250","$2,975 ","$1,190 ",40%
+BevCo,1128299,8/24/2023,Southeast,Virginia,Richmond,Dasani Water,$0.75 ,"2,500","$1,875 ",$563 ,30%
+BevCo,1128299,9/25/2023,Southeast,Virginia,Richmond,Coca-Cola,$0.50 ,"4,500","$2,250 ",$788 ,35%
+BevCo,1128299,9/25/2023,Southeast,Virginia,Richmond,Diet Coke,$0.55 ,"4,500","$2,475 ",$866 ,35%
+BevCo,1128299,9/25/2023,Southeast,Virginia,Richmond,Sprite,$0.50 ,"2,500","$1,250 ",$438 ,35%
+BevCo,1128299,9/25/2023,Southeast,Virginia,Richmond,Fanta,$0.50 ,"2,000","$1,000 ",$350 ,35%
+BevCo,1128299,9/25/2023,Southeast,Virginia,Richmond,Powerade,$0.60 ,"2,250","$1,350 ",$540 ,40%
+BevCo,1128299,9/25/2023,Southeast,Virginia,Richmond,Dasani Water,$0.45 ,"2,500","$1,125 ",$338 ,30%
+BevCo,1128299,10/24/2023,Southeast,Virginia,Richmond,Coca-Cola,$0.40 ,"3,500","$1,400 ",$490 ,35%
+BevCo,1128299,10/24/2023,Southeast,Virginia,Richmond,Diet Coke,$0.55 ,"5,250","$2,888 ","$1,011 ",35%
+BevCo,1128299,10/24/2023,Southeast,Virginia,Richmond,Sprite,$0.50 ,"3,500","$1,750 ",$613 ,35%
+BevCo,1128299,10/24/2023,Southeast,Virginia,Richmond,Fanta,$0.45 ,"3,250","$1,463 ",$512 ,35%
+BevCo,1128299,10/24/2023,Southeast,Virginia,Richmond,Powerade,$0.55 ,"3,000","$1,650 ",$660 ,40%
+BevCo,1128299,10/24/2023,Southeast,Virginia,Richmond,Dasani Water,$0.60 ,"3,500","$2,100 ",$630 ,30%
+BevCo,1128299,11/24/2023,Southeast,Virginia,Richmond,Coca-Cola,$0.45 ,"5,750","$2,588 ",$906 ,35%
+BevCo,1128299,11/24/2023,Southeast,Virginia,Richmond,Diet Coke,$0.50 ,"6,500","$3,250 ","$1,138 ",35%
+BevCo,1128299,11/24/2023,Southeast,Virginia,Richmond,Sprite,$0.45 ,"4,750","$2,138 ",$748 ,35%
+BevCo,1128299,11/24/2023,Southeast,Virginia,Richmond,Fanta,$0.55 ,"4,500","$2,475 ",$866 ,35%
+BevCo,1128299,11/24/2023,Southeast,Virginia,Richmond,Powerade,$0.75 ,"4,250","$3,188 ","$1,275 ",40%
+BevCo,1128299,11/24/2023,Southeast,Virginia,Richmond,Dasani Water,$0.80 ,"5,500","$4,400 ","$1,320 ",30%
+BevCo,1128299,12/23/2023,Southeast,Virginia,Richmond,Coca-Cola,$0.65 ,"7,500","$4,875 ","$1,706 ",35%
+BevCo,1128299,12/23/2023,Southeast,Virginia,Richmond,Diet Coke,$0.75 ,"7,500","$5,625 ","$1,969 ",35%
+FizzyCo,1128299,12/23/2023,Southeast,Virginia,Richmond,Sprite,$0.70 ,"5,500","$3,850 ","$1,348 ",35%
+FizzyCo,1128299,12/23/2023,Southeast,Virginia,Richmond,Fanta,$0.70 ,"5,500","$3,850 ","$1,348 ",35%
+FizzyCo,1128299,12/23/2023,Southeast,Virginia,Richmond,Powerade,$0.80 ,"4,750","$3,800 ","$1,520 ",40%
+FizzyCo,1128299,12/23/2023,Southeast,Virginia,Richmond,Dasani Water,$0.85 ,"5,750","$4,888 ","$1,466 ",30%
+FizzyCo,1185732,1/19/2023,Southeast,Virginia,Richmond,Coca-Cola,$0.35 ,"7,500","$2,625 ","$1,313 ",50%
+FizzyCo,1185732,1/19/2023,Southeast,Virginia,Richmond,Diet Coke,$0.35 ,"5,500","$1,925 ",$770 ,40%
+FizzyCo,1185732,1/19/2023,Southeast,Virginia,Richmond,Sprite,$0.25 ,"5,500","$1,375 ",$413 ,30%
+FizzyCo,1185732,1/19/2023,Southeast,Virginia,Richmond,Fanta,$0.30 ,"4,000","$1,200 ",$420 ,35%
+FizzyCo,1185732,1/19/2023,Southeast,Virginia,Richmond,Powerade,$0.45 ,"4,500","$2,025 ",$810 ,40%
+FizzyCo,1185732,1/19/2023,Southeast,Virginia,Richmond,Dasani Water,$0.35 ,"5,500","$1,925 ","$1,059 ",55%
+FizzyCo,1185732,2/17/2023,Southeast,Virginia,Richmond,Coca-Cola,$0.35 ,"8,000","$2,800 ","$1,400 ",50%
+FizzyCo,1185732,2/17/2023,Southeast,Virginia,Richmond,Diet Coke,$0.35 ,"4,500","$1,575 ",$630 ,40%
+FizzyCo,1185732,2/17/2023,Southeast,Virginia,Richmond,Sprite,$0.25 ,"5,000","$1,250 ",$375 ,30%
+FizzyCo,1185732,2/17/2023,Midwest,Michigan,Detroit,Fanta,$0.30 ,"3,750","$1,125 ",$394 ,35%
+FizzyCo,1185732,2/17/2023,Midwest,Michigan,Detroit,Powerade,$0.45 ,"4,500","$2,025 ",$810 ,40%
+FizzyCo,1185732,2/17/2023,Midwest,Michigan,Detroit,Dasani Water,$0.35 ,"5,500","$1,925 ","$1,059 ",55%
+FizzyCo,1185732,3/15/2023,Midwest,Michigan,Detroit,Coca-Cola,$0.35 ,"7,700","$2,695 ","$1,348 ",50%
+FizzyCo,1185732,3/15/2023,Midwest,Michigan,Detroit,Diet Coke,$0.35 ,"4,500","$1,575 ",$630 ,40%
+FizzyCo,1185732,3/15/2023,Midwest,Michigan,Detroit,Sprite,$0.25 ,"4,750","$1,188 ",$356 ,30%
+FizzyCo,1185732,3/15/2023,Midwest,Michigan,Detroit,Fanta,$0.30 ,"3,250",$975 ,$341 ,35%
+FizzyCo,1185732,3/15/2023,Midwest,Michigan,Detroit,Powerade,$0.45 ,"3,750","$1,688 ",$675 ,40%
+FizzyCo,1185732,3/15/2023,Midwest,Michigan,Detroit,Dasani Water,$0.35 ,"4,750","$1,663 ",$914 ,55%
+FizzyCo,1185732,4/16/2023,Midwest,Michigan,Detroit,Coca-Cola,$0.35 ,"7,250","$2,538 ","$1,269 ",50%
+FizzyCo,1185732,4/16/2023,Midwest,Michigan,Detroit,Diet Coke,$0.40 ,"4,250","$1,700 ",$680 ,40%
+FizzyCo,1185732,4/16/2023,Midwest,Michigan,Detroit,Sprite,$0.30 ,"4,500","$1,350 ",$405 ,30%
+FizzyCo,1185732,4/16/2023,Midwest,Michigan,Detroit,Fanta,$0.35 ,"3,750","$1,313 ",$459 ,35%
+FizzyCo,1185732,4/16/2023,Midwest,Michigan,Detroit,Powerade,$0.50 ,"4,000","$2,000 ",$800 ,40%
+FizzyCo,1185732,4/16/2023,Midwest,Michigan,Detroit,Dasani Water,$0.40 ,"5,250","$2,100 ","$1,155 ",55%
+FizzyCo,1185732,5/15/2023,Midwest,Michigan,Detroit,Coca-Cola,$0.50 ,"7,950","$3,975 ","$1,988 ",50%
+FizzyCo,1185732,5/15/2023,Midwest,Michigan,Detroit,Diet Coke,$0.50 ,"5,000","$2,500 ","$1,000 ",40%
+FizzyCo,1185732,5/15/2023,Midwest,Michigan,Detroit,Sprite,$0.45 ,"4,750","$2,138 ",$641 ,30%
+FizzyCo,1185732,5/15/2023,Midwest,Michigan,Detroit,Fanta,$0.45 ,"4,500","$2,025 ",$709 ,35%
+FizzyCo,1185732,5/15/2023,Midwest,Michigan,Detroit,Powerade,$0.55 ,"4,750","$2,613 ","$1,045 ",40%
+FizzyCo,1185732,5/15/2023,Midwest,Michigan,Detroit,Dasani Water,$0.60 ,"5,750","$3,450 ","$1,898 ",55%
+FizzyCo,1185732,6/17/2023,Midwest,Michigan,Detroit,Coca-Cola,$0.55 ,"8,250","$4,538 ","$2,269 ",50%
+FizzyCo,1185732,6/17/2023,Midwest,Michigan,Detroit,Diet Coke,$0.50 ,"5,750","$2,875 ","$1,150 ",40%
+FizzyCo,1185732,6/17/2023,Midwest,Michigan,Detroit,Sprite,$0.45 ,"5,500","$2,475 ",$743 ,30%
+FizzyCo,1185732,6/17/2023,Midwest,Michigan,Detroit,Fanta,$0.45 ,"5,250","$2,363 ",$827 ,35%
+FizzyCo,1185732,6/17/2023,Midwest,Michigan,Detroit,Powerade,$0.60 ,"5,250","$3,150 ","$1,260 ",40%
+FizzyCo,1185732,6/17/2023,Midwest,Michigan,Detroit,Dasani Water,$0.65 ,"6,750","$4,388 ","$2,413 ",55%
+FizzyCo,1185732,7/15/2023,Midwest,Michigan,Detroit,Coca-Cola,$0.60 ,"9,000","$5,400 ","$2,700 ",50%
+FizzyCo,1185732,7/15/2023,Midwest,Michigan,Detroit,Diet Coke,$0.55 ,"6,500","$3,575 ","$1,430 ",40%
+FizzyCo,1185732,7/15/2023,Midwest,Michigan,Detroit,Sprite,$0.50 ,"5,750","$2,875 ",$863 ,30%
+FizzyCo,1185732,7/15/2023,Midwest,Michigan,Detroit,Fanta,$0.50 ,"5,250","$2,625 ",$919 ,35%
+FizzyCo,1185732,7/15/2023,Midwest,Michigan,Detroit,Powerade,$0.60 ,"5,500","$3,300 ","$1,320 ",40%
+FizzyCo,1185732,7/15/2023,Midwest,Michigan,Detroit,Dasani Water,$0.65 ,"7,250","$4,713 ","$2,592 ",55%
+FizzyCo,1185732,8/16/2023,Midwest,Michigan,Detroit,Coca-Cola,$0.60 ,"8,750","$5,250 ","$2,625 ",50%
+FizzyCo,1185732,8/16/2023,Midwest,Michigan,Detroit,Diet Coke,$0.55 ,"6,500","$3,575 ","$1,430 ",40%
+FizzyCo,1185732,8/16/2023,Midwest,Michigan,Detroit,Sprite,$0.45 ,"5,750","$2,588 ",$776 ,30%
+FizzyCo,1185732,8/16/2023,Midwest,Michigan,Detroit,Fanta,$0.35 ,"5,250","$1,838 ",$643 ,35%
+FizzyCo,1185732,8/16/2023,Midwest,Michigan,Detroit,Powerade,$0.45 ,"5,000","$2,250 ",$900 ,40%
+FizzyCo,1185732,8/16/2023,Midwest,Michigan,Detroit,Dasani Water,$0.50 ,"6,750","$3,375 ","$1,856 ",55%
+FizzyCo,1185732,9/15/2023,Midwest,Michigan,Detroit,Coca-Cola,$0.45 ,"8,000","$3,600 ","$1,800 ",50%
+FizzyCo,1185732,9/15/2023,Midwest,Michigan,Detroit,Diet Coke,$0.40 ,"6,000","$2,400 ",$960 ,40%
+FizzyCo,1185732,9/15/2023,Midwest,Michigan,Detroit,Sprite,$0.35 ,"5,000","$1,750 ",$525 ,30%
+FizzyCo,1185732,9/15/2023,Midwest,Michigan,Detroit,Fanta,$0.35 ,"4,750","$1,663 ",$582 ,35%
+FizzyCo,1185732,9/15/2023,Midwest,Michigan,Detroit,Powerade,$0.45 ,"4,750","$2,138 ",$855 ,40%
+FizzyCo,1185732,9/15/2023,Midwest,Michigan,Detroit,Dasani Water,$0.50 ,"5,750","$2,875 ","$1,581 ",55%
+FizzyCo,1185732,10/17/2023,Midwest,Michigan,Detroit,Coca-Cola,$0.50 ,"7,500","$3,750 ","$1,875 ",50%
+FizzyCo,1185732,10/17/2023,Midwest,Michigan,Detroit,Diet Coke,$0.40 ,"5,750","$2,300 ",$920 ,40%
+FizzyCo,1185732,10/17/2023,Midwest,Michigan,Detroit,Sprite,$0.40 ,"4,250","$1,700 ",$510 ,30%
+FizzyCo,1185732,10/17/2023,Midwest,Michigan,Detroit,Fanta,$0.40 ,"4,000","$1,600 ",$560 ,35%
+FizzyCo,1185732,10/17/2023,Midwest,Michigan,Detroit,Powerade,$0.50 ,"4,000","$2,000 ",$800 ,40%
+FizzyCo,1185732,10/17/2023,Midwest,Michigan,Detroit,Dasani Water,$0.55 ,"5,250","$2,888 ","$1,588 ",55%
+FizzyCo,1185732,11/16/2023,Midwest,Michigan,Detroit,Coca-Cola,$0.50 ,"6,750","$3,375 ","$1,688 ",50%
+FizzyCo,1185732,11/16/2023,Midwest,Michigan,Detroit,Diet Coke,$0.45 ,"5,000","$2,250 ",$900 ,40%
+FizzyCo,1185732,11/16/2023,Midwest,Michigan,Detroit,Sprite,$0.45 ,"4,450","$2,003 ",$601 ,30%
+FizzyCo,1185732,11/16/2023,Midwest,Michigan,Detroit,Fanta,$0.45 ,"4,750","$2,138 ",$748 ,35%
+FizzyCo,1185732,11/16/2023,Midwest,Michigan,Detroit,Powerade,$0.60 ,"4,500","$2,700 ","$1,080 ",40%
+FizzyCo,1185732,11/16/2023,Midwest,Michigan,Detroit,Dasani Water,$0.65 ,"6,250","$4,063 ","$2,234 ",55%
+FizzyCo,1185732,12/15/2023,Midwest,Michigan,Detroit,Coca-Cola,$0.60 ,"8,500","$5,100 ","$2,550 ",50%
+FizzyCo,1185732,12/15/2023,Midwest,Michigan,Detroit,Diet Coke,$0.50 ,"6,500","$3,250 ","$1,300 ",40%
+BevCo,1185732,12/15/2023,Midwest,Michigan,Detroit,Sprite,$0.50 ,"6,000","$3,000 ",$900 ,30%
+BevCo,1185732,12/15/2023,Midwest,Michigan,Detroit,Fanta,$0.50 ,"5,500","$2,750 ",$963 ,35%
+BevCo,1185732,12/15/2023,Midwest,Michigan,Detroit,Powerade,$0.60 ,"5,500","$3,300 ","$1,320 ",40%
+BevCo,1185732,12/15/2023,Midwest,Michigan,Detroit,Dasani Water,$0.65 ,"6,500","$4,225 ","$2,324 ",55%
+BevCo,1185732,1/18/2023,Midwest,Michigan,Detroit,Coca-Cola,$0.30 ,"6,250","$1,875 ",$750 ,40%
+BevCo,1185732,1/18/2023,Midwest,Michigan,Detroit,Diet Coke,$0.30 ,"4,250","$1,275 ",$446 ,35%
+BevCo,1185732,1/18/2023,Midwest,Michigan,Detroit,Sprite,$0.20 ,"4,250",$850 ,$298 ,35%
+BevCo,1185732,1/18/2023,Midwest,Michigan,Detroit,Fanta,$0.25 ,"2,750",$688 ,$275 ,40%
+BevCo,1185732,1/18/2023,Midwest,Michigan,Detroit,Powerade,$0.40 ,"3,250","$1,300 ",$455 ,35%
+BevCo,1185732,1/18/2023,Midwest,Michigan,Detroit,Dasani Water,$0.30 ,"4,250","$1,275 ",$638 ,50%
+BevCo,1185732,2/18/2023,Midwest,Michigan,Detroit,Coca-Cola,$0.30 ,"6,750","$2,025 ",$810 ,40%
+BevCo,1185732,2/18/2023,Midwest,Michigan,Detroit,Diet Coke,$0.30 ,"3,250",$975 ,$341 ,35%
+BevCo,1185732,2/18/2023,Midwest,Michigan,Detroit,Sprite,$0.20 ,"3,750",$750 ,$263 ,35%
+BevCo,1185732,2/18/2023,Midwest,Missouri,St. Louis,Fanta,$0.25 ,"2,500",$625 ,$250 ,40%
+BevCo,1185732,2/18/2023,Midwest,Missouri,St. Louis,Powerade,$0.40 ,"3,250","$1,300 ",$455 ,35%
+BevCo,1185732,2/18/2023,Midwest,Missouri,St. Louis,Dasani Water,$0.30 ,"4,000","$1,200 ",$600 ,50%
+BevCo,1185732,3/17/2023,Midwest,Missouri,St. Louis,Coca-Cola,$0.35 ,"6,200","$2,170 ",$868 ,40%
+BevCo,1185732,3/17/2023,Midwest,Missouri,St. Louis,Diet Coke,$0.35 ,"3,000","$1,050 ",$368 ,35%
+BevCo,1185732,3/17/2023,Midwest,Missouri,St. Louis,Sprite,$0.25 ,"3,500",$875 ,$306 ,35%
+BevCo,1185732,3/17/2023,Midwest,Missouri,St. Louis,Fanta,$0.30 ,"2,000",$600 ,$240 ,40%
+BevCo,1185732,3/17/2023,Midwest,Missouri,St. Louis,Powerade,$0.45 ,"2,500","$1,125 ",$394 ,35%
+BevCo,1185732,3/17/2023,Midwest,Missouri,St. Louis,Dasani Water,$0.35 ,"3,500","$1,225 ",$613 ,50%
+BevCo,1185732,4/18/2023,Midwest,Missouri,St. Louis,Coca-Cola,$0.35 ,"5,750","$2,013 ",$805 ,40%
+BevCo,1185732,4/18/2023,Midwest,Missouri,St. Louis,Diet Coke,$0.30 ,"2,750",$825 ,$289 ,35%
+BevCo,1185732,4/18/2023,Midwest,Missouri,St. Louis,Sprite,$0.20 ,"2,750",$550 ,$193 ,35%
+BevCo,1185732,4/18/2023,Midwest,Missouri,St. Louis,Fanta,$0.25 ,"2,000",$500 ,$200 ,40%
+BevCo,1185732,4/18/2023,Midwest,Missouri,St. Louis,Powerade,$0.40 ,"2,250",$900 ,$315 ,35%
+BevCo,1185732,4/18/2023,Midwest,Missouri,St. Louis,Dasani Water,$0.30 ,"3,500","$1,050 ",$525 ,50%
+BevCo,1185732,5/19/2023,Midwest,Missouri,St. Louis,Coca-Cola,$0.40 ,"6,200","$2,480 ",$992 ,40%
+BevCo,1185732,5/19/2023,Midwest,Missouri,St. Louis,Diet Coke,$0.35 ,"3,250","$1,138 ",$398 ,35%
+BevCo,1185732,5/19/2023,Midwest,Missouri,St. Louis,Sprite,$0.30 ,"3,000",$900 ,$315 ,35%
+BevCo,1185732,5/19/2023,Midwest,Missouri,St. Louis,Fanta,$0.30 ,"2,250",$675 ,$270 ,40%
+BevCo,1185732,5/19/2023,Midwest,Missouri,St. Louis,Powerade,$0.45 ,"2,500","$1,125 ",$394 ,35%
+BevCo,1185732,5/19/2023,Midwest,Missouri,St. Louis,Dasani Water,$0.50 ,"3,500","$1,750 ",$875 ,50%
+BevCo,1185732,6/18/2023,Midwest,Missouri,St. Louis,Coca-Cola,$0.35 ,"6,000","$2,100 ",$840 ,40%
+BevCo,1185732,6/18/2023,Midwest,Missouri,St. Louis,Diet Coke,$0.30 ,"3,500","$1,050 ",$368 ,35%
+BevCo,1185732,6/18/2023,Midwest,Missouri,St. Louis,Sprite,$0.25 ,"3,750",$938 ,$328 ,35%
+BevCo,1185732,6/18/2023,Midwest,Missouri,St. Louis,Fanta,$0.25 ,"3,500",$875 ,$350 ,40%
+BevCo,1185732,6/18/2023,Midwest,Missouri,St. Louis,Powerade,$0.40 ,"3,500","$1,400 ",$490 ,35%
+BevCo,1185732,6/18/2023,Midwest,Missouri,St. Louis,Dasani Water,$0.45 ,"5,250","$2,363 ","$1,181 ",50%
+BevCo,1185732,7/17/2023,Midwest,Missouri,St. Louis,Coca-Cola,$0.40 ,"7,500","$3,000 ","$1,200 ",40%
+BevCo,1185732,7/17/2023,Midwest,Missouri,St. Louis,Diet Coke,$0.35 ,"5,000","$1,750 ",$613 ,35%
+BevCo,1185732,7/17/2023,Midwest,Missouri,St. Louis,Sprite,$0.30 ,"4,250","$1,275 ",$446 ,35%
+BevCo,1185732,7/17/2023,Midwest,Missouri,St. Louis,Fanta,$0.30 ,"3,750","$1,125 ",$450 ,40%
+BevCo,1185732,7/17/2023,Midwest,Missouri,St. Louis,Powerade,$0.40 ,"3,750","$1,500 ",$525 ,35%
+BevCo,1185732,7/17/2023,Midwest,Missouri,St. Louis,Dasani Water,$0.45 ,"5,500","$2,475 ","$1,238 ",50%
+BevCo,1185732,8/18/2023,Midwest,Missouri,St. Louis,Coca-Cola,$0.40 ,"7,000","$2,800 ","$1,120 ",40%
+BevCo,1185732,8/18/2023,Midwest,Missouri,St. Louis,Diet Coke,$0.40 ,"4,750","$1,900 ",$665 ,35%
+BevCo,1185732,8/18/2023,Midwest,Missouri,St. Louis,Sprite,$0.35 ,"4,000","$1,400 ",$490 ,35%
+BevCo,1185732,8/18/2023,Midwest,Missouri,St. Louis,Fanta,$0.25 ,"3,250",$813 ,$325 ,40%
+BevCo,1185732,8/18/2023,Midwest,Missouri,St. Louis,Powerade,$0.35 ,"3,000","$1,050 ",$368 ,35%
+BevCo,1185732,8/18/2023,Midwest,Missouri,St. Louis,Dasani Water,$0.40 ,"4,750","$1,900 ",$950 ,50%
+BevCo,1185732,9/19/2023,Midwest,Missouri,St. Louis,Coca-Cola,$0.35 ,"6,000","$2,100 ",$840 ,40%
+BevCo,1185732,9/19/2023,Midwest,Missouri,St. Louis,Diet Coke,$0.30 ,"4,000","$1,200 ",$420 ,35%
+BevCo,1185732,9/19/2023,Midwest,Missouri,St. Louis,Sprite,$0.15 ,"3,000",$450 ,$158 ,35%
+BevCo,1185732,9/19/2023,Midwest,Missouri,St. Louis,Fanta,$0.15 ,"2,750",$413 ,$165 ,40%
+BevCo,1185732,9/19/2023,Midwest,Missouri,St. Louis,Powerade,$0.25 ,"2,750",$688 ,$241 ,35%
+BevCo,1185732,9/19/2023,Midwest,Missouri,St. Louis,Dasani Water,$0.30 ,"3,500","$1,050 ",$525 ,50%
+BevCo,1185732,10/18/2023,Midwest,Missouri,St. Louis,Coca-Cola,$0.35 ,"5,250","$1,838 ",$735 ,40%
+BevCo,1185732,10/18/2023,Midwest,Missouri,St. Louis,Diet Coke,$0.25 ,"3,500",$875 ,$306 ,35%
+BevCo,1185732,10/18/2023,Midwest,Missouri,St. Louis,Sprite,$0.25 ,"2,500",$625 ,$219 ,35%
+BevCo,1185732,10/18/2023,Midwest,Missouri,St. Louis,Fanta,$0.25 ,"2,250",$563 ,$225 ,40%
+BevCo,1185732,10/18/2023,Midwest,Missouri,St. Louis,Powerade,$0.35 ,"2,250",$788 ,$276 ,35%
+BevCo,1185732,10/18/2023,Midwest,Missouri,St. Louis,Dasani Water,$0.40 ,"3,500","$1,400 ",$700 ,50%
+BevCo,1185732,11/18/2023,Midwest,Missouri,St. Louis,Coca-Cola,$0.35 ,"5,000","$1,750 ",$700 ,40%
+BevCo,1185732,11/18/2023,Midwest,Missouri,St. Louis,Diet Coke,$0.25 ,"3,500",$875 ,$306 ,35%
+BevCo,1185732,11/18/2023,Midwest,Missouri,St. Louis,Sprite,$0.25 ,"2,950",$738 ,$258 ,35%
+BevCo,1185732,11/18/2023,Midwest,Missouri,St. Louis,Fanta,$0.25 ,"3,250",$813 ,$325 ,40%
+BevCo,1185732,11/18/2023,Midwest,Missouri,St. Louis,Powerade,$0.45 ,"3,000","$1,350 ",$473 ,35%
+BevCo,1185732,11/18/2023,Midwest,Missouri,St. Louis,Dasani Water,$0.50 ,"4,000","$2,000 ","$1,000 ",50%
+BevCo,1185732,12/17/2023,Midwest,Missouri,St. Louis,Coca-Cola,$0.45 ,"6,500","$2,925 ","$1,170 ",40%
+BevCo,1185732,12/17/2023,Midwest,Missouri,St. Louis,Diet Coke,$0.35 ,"4,500","$1,575 ",$551 ,35%
+West Soda,1185732,12/17/2023,Midwest,Missouri,St. Louis,Sprite,$0.35 ,"4,000","$1,400 ",$490 ,35%
+West Soda,1185732,12/17/2023,Midwest,Missouri,St. Louis,Fanta,$0.35 ,"3,500","$1,225 ",$490 ,40%
+West Soda,1185732,12/17/2023,Midwest,Missouri,St. Louis,Powerade,$0.45 ,"3,500","$1,575 ",$551 ,35%
+West Soda,1185732,12/17/2023,Midwest,Missouri,St. Louis,Dasani Water,$0.50 ,"4,500","$2,250 ","$1,125 ",50%
+West Soda,1185732,1/11/2023,Midwest,Missouri,St. Louis,Coca-Cola,$0.25 ,"6,750","$1,688 ",$675 ,40%
+West Soda,1185732,1/11/2023,Midwest,Missouri,St. Louis,Diet Coke,$0.25 ,"4,750","$1,188 ",$416 ,35%
+West Soda,1185732,1/11/2023,Midwest,Missouri,St. Louis,Sprite,$0.15 ,"4,750",$713 ,$249 ,35%
+West Soda,1185732,1/11/2023,Midwest,Missouri,St. Louis,Fanta,$0.20 ,"3,250",$650 ,$260 ,40%
+West Soda,1185732,1/11/2023,Midwest,Missouri,St. Louis,Powerade,$0.35 ,"3,750","$1,313 ",$459 ,35%
+West Soda,1185732,1/11/2023,Midwest,Missouri,St. Louis,Dasani Water,$0.25 ,"4,750","$1,188 ",$594 ,50%
+West Soda,1185732,2/11/2023,Midwest,Missouri,St. Louis,Coca-Cola,$0.25 ,"7,250","$1,813 ",$725 ,40%
+West Soda,1185732,2/11/2023,Midwest,Missouri,St. Louis,Diet Coke,$0.25 ,"3,750",$938 ,$328 ,35%
+West Soda,1185732,2/11/2023,Midwest,Missouri,St. Louis,Sprite,$0.15 ,"4,250",$638 ,$223 ,35%
+West Soda,1185732,2/11/2023,West,Utah,Salt Lake City,Fanta,$0.20 ,"3,000",$600 ,$240 ,40%
+West Soda,1185732,2/11/2023,West,Utah,Salt Lake City,Powerade,$0.35 ,"3,750","$1,313 ",$459 ,35%
+West Soda,1185732,2/11/2023,West,Utah,Salt Lake City,Dasani Water,$0.25 ,"4,500","$1,125 ",$563 ,50%
+West Soda,1185732,3/10/2023,West,Utah,Salt Lake City,Coca-Cola,$0.30 ,"6,700","$2,010 ",$804 ,40%
+West Soda,1185732,3/10/2023,West,Utah,Salt Lake City,Diet Coke,$0.30 ,"3,500","$1,050 ",$368 ,35%
+West Soda,1185732,3/10/2023,West,Utah,Salt Lake City,Sprite,$0.20 ,"4,000",$800 ,$280 ,35%
+West Soda,1185732,3/10/2023,West,Utah,Salt Lake City,Fanta,$0.25 ,"2,500",$625 ,$250 ,40%
+West Soda,1185732,3/10/2023,West,Utah,Salt Lake City,Powerade,$0.40 ,"3,000","$1,200 ",$420 ,35%
+West Soda,1185732,3/10/2023,West,Utah,Salt Lake City,Dasani Water,$0.30 ,"4,000","$1,200 ",$600 ,50%
+West Soda,1185732,4/11/2023,West,Utah,Salt Lake City,Coca-Cola,$0.30 ,"6,250","$1,875 ",$750 ,40%
+West Soda,1185732,4/11/2023,West,Utah,Salt Lake City,Diet Coke,$0.25 ,"3,250",$813 ,$284 ,35%
+West Soda,1185732,4/11/2023,West,Utah,Salt Lake City,Sprite,$0.15 ,"3,250",$488 ,$171 ,35%
+West Soda,1185732,4/11/2023,West,Utah,Salt Lake City,Fanta,$0.20 ,"2,500",$500 ,$200 ,40%
+West Soda,1185732,4/11/2023,West,Utah,Salt Lake City,Powerade,$0.35 ,"2,750",$963 ,$337 ,35%
+West Soda,1185732,4/11/2023,West,Utah,Salt Lake City,Dasani Water,$0.25 ,"4,000","$1,000 ",$500 ,50%
+West Soda,1185732,5/12/2023,West,Utah,Salt Lake City,Coca-Cola,$0.35 ,"6,700","$2,345 ",$938 ,40%
+West Soda,1185732,5/12/2023,West,Utah,Salt Lake City,Diet Coke,$0.30 ,"3,750","$1,125 ",$394 ,35%
+West Soda,1185732,5/12/2023,West,Utah,Salt Lake City,Sprite,$0.25 ,"3,500",$875 ,$306 ,35%
+West Soda,1185732,5/12/2023,West,Utah,Salt Lake City,Fanta,$0.25 ,"2,750",$688 ,$275 ,40%
+West Soda,1185732,5/12/2023,West,Utah,Salt Lake City,Powerade,$0.40 ,"3,000","$1,200 ",$420 ,35%
+West Soda,1185732,5/12/2023,West,Utah,Salt Lake City,Dasani Water,$0.45 ,"4,000","$1,800 ",$900 ,50%
+West Soda,1185732,6/11/2023,West,Utah,Salt Lake City,Coca-Cola,$0.30 ,"6,500","$1,950 ",$780 ,40%
+West Soda,1185732,6/11/2023,West,Utah,Salt Lake City,Diet Coke,$0.25 ,"4,000","$1,000 ",$350 ,35%
+West Soda,1185732,6/11/2023,West,Utah,Salt Lake City,Sprite,$0.20 ,"4,250",$850 ,$298 ,35%
+West Soda,1185732,6/11/2023,West,Utah,Salt Lake City,Fanta,$0.20 ,"4,000",$800 ,$320 ,40%
+West Soda,1185732,6/11/2023,West,Utah,Salt Lake City,Powerade,$0.35 ,"4,000","$1,400 ",$490 ,35%
+West Soda,1185732,6/11/2023,West,Utah,Salt Lake City,Dasani Water,$0.40 ,"5,750","$2,300 ","$1,150 ",50%
+West Soda,1185732,7/10/2023,West,Utah,Salt Lake City,Coca-Cola,$0.35 ,"8,000","$2,800 ","$1,120 ",40%
+West Soda,1185732,7/10/2023,West,Utah,Salt Lake City,Diet Coke,$0.30 ,"5,500","$1,650 ",$578 ,35%
+West Soda,1185732,7/10/2023,West,Utah,Salt Lake City,Sprite,$0.25 ,"4,750","$1,188 ",$416 ,35%
+West Soda,1185732,7/10/2023,West,Utah,Salt Lake City,Fanta,$0.25 ,"4,250","$1,063 ",$425 ,40%
+West Soda,1185732,7/10/2023,West,Utah,Salt Lake City,Powerade,$0.35 ,"4,250","$1,488 ",$521 ,35%
+West Soda,1185732,7/10/2023,West,Utah,Salt Lake City,Dasani Water,$0.40 ,"6,000","$2,400 ","$1,200 ",50%
+West Soda,1185732,8/11/2023,West,Utah,Salt Lake City,Coca-Cola,$0.35 ,"7,500","$2,625 ","$1,050 ",40%
+West Soda,1185732,8/11/2023,West,Utah,Salt Lake City,Diet Coke,$0.35 ,"5,250","$1,838 ",$643 ,35%
+West Soda,1185732,8/11/2023,West,Utah,Salt Lake City,Sprite,$0.30 ,"4,500","$1,350 ",$473 ,35%
+West Soda,1185732,8/11/2023,West,Utah,Salt Lake City,Fanta,$0.20 ,"3,750",$750 ,$300 ,40%
+West Soda,1185732,8/11/2023,West,Utah,Salt Lake City,Powerade,$0.30 ,"3,500","$1,050 ",$368 ,35%
+West Soda,1185732,8/11/2023,West,Utah,Salt Lake City,Dasani Water,$0.35 ,"5,250","$1,838 ",$919 ,50%
+West Soda,1185732,9/12/2023,West,Utah,Salt Lake City,Coca-Cola,$0.30 ,"6,500","$1,950 ",$780 ,40%
+West Soda,1185732,9/12/2023,West,Utah,Salt Lake City,Diet Coke,$0.25 ,"4,500","$1,125 ",$394 ,35%
+West Soda,1185732,9/12/2023,West,Utah,Salt Lake City,Sprite,$0.10 ,"3,500",$350 ,$123 ,35%
+West Soda,1185732,9/12/2023,West,Utah,Salt Lake City,Fanta,$0.10 ,"3,250",$325 ,$130 ,40%
+West Soda,1185732,9/12/2023,West,Utah,Salt Lake City,Powerade,$0.20 ,"3,250",$650 ,$228 ,35%
+West Soda,1185732,9/12/2023,West,Utah,Salt Lake City,Dasani Water,$0.25 ,"4,000","$1,000 ",$500 ,50%
+West Soda,1185732,10/11/2023,West,Utah,Salt Lake City,Coca-Cola,$0.30 ,"5,750","$1,725 ",$690 ,40%
+West Soda,1185732,10/11/2023,West,Utah,Salt Lake City,Diet Coke,$0.20 ,"4,000",$800 ,$280 ,35%
+West Soda,1185732,10/11/2023,West,Utah,Salt Lake City,Sprite,$0.20 ,"3,000",$600 ,$210 ,35%
+West Soda,1185732,10/11/2023,West,Utah,Salt Lake City,Fanta,$0.20 ,"2,750",$550 ,$220 ,40%
+West Soda,1185732,10/11/2023,West,Utah,Salt Lake City,Powerade,$0.30 ,"2,750",$825 ,$289 ,35%
+West Soda,1185732,10/11/2023,West,Utah,Salt Lake City,Dasani Water,$0.35 ,"4,000","$1,400 ",$700 ,50%
+West Soda,1185732,11/11/2023,West,Utah,Salt Lake City,Coca-Cola,$0.30 ,"5,500","$1,650 ",$660 ,40%
+West Soda,1185732,11/11/2023,West,Utah,Salt Lake City,Diet Coke,$0.20 ,"4,000",$800 ,$280 ,35%
+West Soda,1185732,11/11/2023,West,Utah,Salt Lake City,Sprite,$0.20 ,"3,450",$690 ,$242 ,35%
+West Soda,1185732,11/11/2023,West,Utah,Salt Lake City,Fanta,$0.20 ,"3,750",$750 ,$300 ,40%
+West Soda,1185732,11/11/2023,West,Utah,Salt Lake City,Powerade,$0.40 ,"3,500","$1,400 ",$490 ,35%
+West Soda,1185732,11/11/2023,West,Utah,Salt Lake City,Dasani Water,$0.45 ,"4,500","$2,025 ","$1,013 ",50%
+West Soda,1185732,12/10/2023,West,Utah,Salt Lake City,Coca-Cola,$0.40 ,"7,000","$2,800 ","$1,120 ",40%
+West Soda,1185732,12/10/2023,West,Utah,Salt Lake City,Diet Coke,$0.30 ,"5,000","$1,500 ",$525 ,35%
+West Soda,1185732,12/10/2023,West,Utah,Salt Lake City,Sprite,$0.30 ,"4,500","$1,350 ",$473 ,35%
+West Soda,1185732,12/10/2023,West,Utah,Salt Lake City,Fanta,$0.30 ,"4,000","$1,200 ",$480 ,40%
+West Soda,1185732,12/10/2023,West,Utah,Salt Lake City,Powerade,$0.40 ,"4,000","$1,600 ",$560 ,35%
+West Soda,1185732,12/10/2023,West,Utah,Salt Lake City,Dasani Water,$0.45 ,"5,000","$2,250 ","$1,125 ",50%
+West Soda,1128299,1/24/2023,West,Utah,Salt Lake City,Coca-Cola,$0.30 ,"3,500","$1,050 ",$368 ,35%
+West Soda,1128299,1/24/2023,West,Utah,Salt Lake City,Diet Coke,$0.40 ,"3,500","$1,400 ",$490 ,35%
+West Soda,1128299,1/24/2023,West,Utah,Salt Lake City,Sprite,$0.40 ,"3,500","$1,400 ",$490 ,35%
+West Soda,1128299,1/24/2023,West,Utah,Salt Lake City,Fanta,$0.40 ,"2,000",$800 ,$280 ,35%
+West Soda,1128299,1/24/2023,West,Utah,Salt Lake City,Powerade,$0.45 ,"1,500",$675 ,$270 ,40%
+West Soda,1128299,1/24/2023,West,Utah,Salt Lake City,Dasani Water,$0.40 ,"4,000","$1,600 ",$480 ,30%
+West Soda,1128299,2/24/2023,West,Utah,Salt Lake City,Coca-Cola,$0.30 ,"4,500","$1,350 ",$473 ,35%
+West Soda,1128299,2/24/2023,West,Utah,Salt Lake City,Diet Coke,$0.40 ,"3,500","$1,400 ",$490 ,35%
+West Soda,1128299,2/24/2023,West,Utah,Salt Lake City,Sprite,$0.40 ,"3,500","$1,400 ",$490 ,35%
+West Soda,1128299,2/24/2023,West,Oregon,Portland,Fanta,$0.40 ,"2,000",$800 ,$280 ,35%
+West Soda,1128299,2/24/2023,West,Oregon,Portland,Powerade,$0.45 ,"1,250",$563 ,$225 ,40%
+West Soda,1128299,2/24/2023,West,Oregon,Portland,Dasani Water,$0.40 ,"3,250","$1,300 ",$390 ,30%
+West Soda,1128299,3/23/2023,West,Oregon,Portland,Coca-Cola,$0.40 ,"4,750","$1,900 ",$665 ,35%
+West Soda,1128299,3/23/2023,West,Oregon,Portland,Diet Coke,$0.50 ,"3,250","$1,625 ",$569 ,35%
+West Soda,1128299,3/23/2023,West,Oregon,Portland,Sprite,$0.55 ,"3,500","$1,925 ",$674 ,35%
+West Soda,1128299,3/23/2023,West,Oregon,Portland,Fanta,$0.50 ,"2,500","$1,250 ",$438 ,35%
+West Soda,1128299,3/23/2023,West,Oregon,Portland,Powerade,$0.55 ,"1,000",$550 ,$220 ,40%
+West Soda,1128299,3/23/2023,West,Oregon,Portland,Dasani Water,$0.50 ,"3,000","$1,500 ",$450 ,30%
+West Soda,1128299,4/24/2023,West,Oregon,Portland,Coca-Cola,$0.55 ,"4,750","$2,613 ",$914 ,35%
+West Soda,1128299,4/24/2023,West,Oregon,Portland,Diet Coke,$0.60 ,"2,750","$1,650 ",$578 ,35%
+West Soda,1128299,4/24/2023,West,Oregon,Portland,Sprite,$0.60 ,"3,250","$1,950 ",$683 ,35%
+West Soda,1128299,4/24/2023,West,Oregon,Portland,Fanta,$0.45 ,"2,250","$1,013 ",$354 ,35%
+West Soda,1128299,4/24/2023,West,Oregon,Portland,Powerade,$0.50 ,"1,250",$625 ,$250 ,40%
+West Soda,1128299,4/24/2023,West,Oregon,Portland,Dasani Water,$0.65 ,"3,000","$1,950 ",$585 ,30%
+West Soda,1128299,5/25/2023,West,Oregon,Portland,Coca-Cola,$0.50 ,"5,000","$2,500 ",$875 ,35%
+West Soda,1128299,5/25/2023,West,Oregon,Portland,Diet Coke,$0.55 ,"3,500","$1,925 ",$674 ,35%
+West Soda,1128299,5/25/2023,West,Oregon,Portland,Sprite,$0.55 ,"3,500","$1,925 ",$674 ,35%
+West Soda,1128299,5/25/2023,West,Oregon,Portland,Fanta,$0.50 ,"2,750","$1,375 ",$481 ,35%
+West Soda,1128299,5/25/2023,West,Oregon,Portland,Powerade,$0.45 ,"1,750",$788 ,$315 ,40%
+West Soda,1128299,5/25/2023,West,Oregon,Portland,Dasani Water,$0.60 ,"5,250","$3,150 ",$945 ,30%
+West Soda,1128299,6/24/2023,West,Oregon,Portland,Coca-Cola,$0.55 ,"7,750","$4,263 ","$1,492 ",35%
+West Soda,1128299,6/24/2023,West,Oregon,Portland,Diet Coke,$0.65 ,"6,500","$4,225 ","$1,479 ",35%
+West Soda,1128299,6/24/2023,West,Oregon,Portland,Sprite,$0.80 ,"6,500","$5,200 ","$1,820 ",35%
+West Soda,1128299,6/24/2023,West,Oregon,Portland,Fanta,$0.80 ,"5,250","$4,200 ","$1,470 ",35%
+West Soda,1128299,6/24/2023,West,Oregon,Portland,Powerade,$0.90 ,"4,000","$3,600 ","$1,440 ",40%
+West Soda,1128299,6/24/2023,West,Oregon,Portland,Dasani Water,$1.05 ,"7,000","$7,350 ","$2,205 ",30%
+West Soda,1128299,7/23/2023,West,Oregon,Portland,Coca-Cola,$0.85 ,"8,500","$7,225 ","$2,529 ",35%
+West Soda,1128299,7/23/2023,West,Oregon,Portland,Diet Coke,$0.90 ,"7,000","$6,300 ","$2,205 ",35%
+West Soda,1128299,7/23/2023,West,Oregon,Portland,Sprite,$0.90 ,"6,500","$5,850 ","$2,048 ",35%
+West Soda,1128299,7/23/2023,West,Oregon,Portland,Fanta,$0.85 ,"5,500","$4,675 ","$1,636 ",35%
+West Soda,1128299,7/23/2023,West,Oregon,Portland,Powerade,$0.90 ,"6,000","$5,400 ","$2,160 ",40%
+West Soda,1128299,7/23/2023,West,Oregon,Portland,Dasani Water,$1.05 ,"6,000","$6,300 ","$1,890 ",30%
+West Soda,1128299,8/24/2023,West,Oregon,Portland,Coca-Cola,$0.90 ,"8,000","$7,200 ","$2,520 ",35%
+West Soda,1128299,8/24/2023,West,Oregon,Portland,Diet Coke,$0.80 ,"7,750","$6,200 ","$2,170 ",35%
+West Soda,1128299,8/24/2023,West,Oregon,Portland,Sprite,$0.70 ,"6,500","$4,550 ","$1,593 ",35%
+West Soda,1128299,8/24/2023,West,Oregon,Portland,Fanta,$0.70 ,"4,250","$2,975 ","$1,041 ",35%
+West Soda,1128299,8/24/2023,West,Oregon,Portland,Powerade,$0.70 ,"4,250","$2,975 ","$1,190 ",40%
+West Soda,1128299,8/24/2023,West,Oregon,Portland,Dasani Water,$0.75 ,"2,500","$1,875 ",$563 ,30%
+West Soda,1128299,9/25/2023,West,Oregon,Portland,Coca-Cola,$0.50 ,"4,500","$2,250 ",$788 ,35%
+West Soda,1128299,9/25/2023,West,Oregon,Portland,Diet Coke,$0.55 ,"4,500","$2,475 ",$866 ,35%
+West Soda,1128299,9/25/2023,West,Oregon,Portland,Sprite,$0.50 ,"2,500","$1,250 ",$438 ,35%
+West Soda,1128299,9/25/2023,West,Oregon,Portland,Fanta,$0.50 ,"2,000","$1,000 ",$350 ,35%
+West Soda,1128299,9/25/2023,West,Oregon,Portland,Powerade,$0.60 ,"2,250","$1,350 ",$540 ,40%
+West Soda,1128299,9/25/2023,West,Oregon,Portland,Dasani Water,$0.45 ,"2,500","$1,125 ",$338 ,30%
+West Soda,1128299,10/24/2023,West,Oregon,Portland,Coca-Cola,$0.40 ,"3,500","$1,400 ",$490 ,35%
+West Soda,1128299,10/24/2023,West,Oregon,Portland,Diet Coke,$0.55 ,"5,250","$2,888 ","$1,011 ",35%
+West Soda,1128299,10/24/2023,West,Oregon,Portland,Sprite,$0.50 ,"3,500","$1,750 ",$613 ,35%
+West Soda,1128299,10/24/2023,West,Oregon,Portland,Fanta,$0.45 ,"3,250","$1,463 ",$512 ,35%
+West Soda,1128299,10/24/2023,West,Oregon,Portland,Powerade,$0.55 ,"3,000","$1,650 ",$660 ,40%
+West Soda,1128299,10/24/2023,West,Oregon,Portland,Dasani Water,$0.60 ,"3,500","$2,100 ",$630 ,30%
+West Soda,1128299,11/24/2023,West,Oregon,Portland,Coca-Cola,$0.45 ,"5,750","$2,588 ",$906 ,35%
+West Soda,1128299,11/24/2023,West,Oregon,Portland,Diet Coke,$0.50 ,"6,500","$3,250 ","$1,138 ",35%
+West Soda,1128299,11/24/2023,West,Oregon,Portland,Sprite,$0.45 ,"4,750","$2,138 ",$748 ,35%
+West Soda,1128299,11/24/2023,West,Oregon,Portland,Fanta,$0.55 ,"4,500","$2,475 ",$866 ,35%
+West Soda,1128299,11/24/2023,West,Oregon,Portland,Powerade,$0.75 ,"4,250","$3,188 ","$1,275 ",40%
+West Soda,1128299,11/24/2023,West,Oregon,Portland,Dasani Water,$0.80 ,"5,500","$4,400 ","$1,320 ",30%
+West Soda,1128299,12/23/2023,West,Oregon,Portland,Coca-Cola,$0.65 ,"7,500","$4,875 ","$1,706 ",35%
+West Soda,1128299,12/23/2023,West,Oregon,Portland,Diet Coke,$0.75 ,"7,500","$5,625 ","$1,969 ",35%
+West Soda,1128299,12/23/2023,West,Oregon,Portland,Sprite,$0.70 ,"5,500","$3,850 ","$1,348 ",35%
+West Soda,1128299,12/23/2023,West,Oregon,Portland,Fanta,$0.70 ,"5,500","$3,850 ","$1,348 ",35%
+West Soda,1128299,12/23/2023,West,Oregon,Portland,Powerade,$0.80 ,"4,750","$3,800 ","$1,520 ",40%
+West Soda,1128299,12/23/2023,West,Oregon,Portland,Dasani Water,$0.85 ,"5,750","$4,888 ","$1,466 ",30%
+West Soda,1128299,1/17/2023,West,Oregon,Portland,Coca-Cola,$0.35 ,"4,000","$1,400 ",$560 ,40%
+West Soda,1128299,1/17/2023,West,Oregon,Portland,Diet Coke,$0.45 ,"4,000","$1,800 ",$720 ,40%
+West Soda,1128299,1/17/2023,West,Oregon,Portland,Sprite,$0.45 ,"4,000","$1,800 ",$720 ,40%
+West Soda,1128299,1/17/2023,West,Oregon,Portland,Fanta,$0.45 ,"2,500","$1,125 ",$450 ,40%
+West Soda,1128299,1/17/2023,West,Oregon,Portland,Powerade,$0.50 ,"2,000","$1,000 ",$450 ,45%
+West Soda,1128299,1/17/2023,West,Oregon,Portland,Dasani Water,$0.45 ,"4,500","$2,025 ",$709 ,35%
+West Soda,1128299,2/17/2023,West,Oregon,Portland,Coca-Cola,$0.35 ,"5,000","$1,750 ",$700 ,40%
+West Soda,1128299,2/17/2023,West,Oregon,Portland,Diet Coke,$0.45 ,"4,000","$1,800 ",$720 ,40%
+West Soda,1128299,2/17/2023,West,Oregon,Portland,Sprite,$0.45 ,"4,000","$1,800 ",$720 ,40%
+West Soda,1128299,2/17/2023,South,Louisiana,New Orleans,Fanta,$0.45 ,"2,500","$1,125 ",$450 ,40%
+West Soda,1128299,2/17/2023,South,Louisiana,New Orleans,Powerade,$0.50 ,"1,750",$875 ,$394 ,45%
+West Soda,1128299,2/17/2023,South,Louisiana,New Orleans,Dasani Water,$0.45 ,"3,750","$1,688 ",$591 ,35%
+West Soda,1128299,3/16/2023,South,Louisiana,New Orleans,Coca-Cola,$0.45 ,"5,250","$2,363 ",$945 ,40%
+West Soda,1128299,3/16/2023,South,Louisiana,New Orleans,Diet Coke,$0.55 ,"3,750","$2,063 ",$825 ,40%
+West Soda,1128299,3/16/2023,South,Louisiana,New Orleans,Sprite,$0.60 ,"4,000","$2,400 ",$960 ,40%
+West Soda,1128299,3/16/2023,South,Louisiana,New Orleans,Fanta,$0.55 ,"3,000","$1,650 ",$660 ,40%
+West Soda,1128299,3/16/2023,South,Louisiana,New Orleans,Powerade,$0.60 ,"1,500",$900 ,$405 ,45%
+West Soda,1128299,3/16/2023,South,Louisiana,New Orleans,Dasani Water,$0.45 ,"3,500","$1,575 ",$551 ,35%
+West Soda,1128299,4/17/2023,South,Louisiana,New Orleans,Coca-Cola,$0.50 ,"5,250","$2,625 ","$1,050 ",40%
+West Soda,1128299,4/17/2023,South,Louisiana,New Orleans,Diet Coke,$0.55 ,"3,250","$1,788 ",$715 ,40%
+West Soda,1128299,4/17/2023,South,Louisiana,New Orleans,Sprite,$0.55 ,"3,750","$2,063 ",$825 ,40%
+West Soda,1128299,4/17/2023,South,Louisiana,New Orleans,Fanta,$0.40 ,"2,750","$1,100 ",$440 ,40%
+West Soda,1128299,4/17/2023,South,Louisiana,New Orleans,Powerade,$0.45 ,"1,750",$788 ,$354 ,45%
+West Soda,1128299,4/17/2023,South,Louisiana,New Orleans,Dasani Water,$0.60 ,"3,500","$2,100 ",$735 ,35%
+West Soda,1128299,5/18/2023,South,Louisiana,New Orleans,Coca-Cola,$0.45 ,"5,500","$2,475 ",$990 ,40%
+West Soda,1128299,5/18/2023,South,Louisiana,New Orleans,Diet Coke,$0.50 ,"4,000","$2,000 ",$800 ,40%
+West Soda,1128299,5/18/2023,South,Louisiana,New Orleans,Sprite,$0.50 ,"4,000","$2,000 ",$800 ,40%
+West Soda,1128299,5/18/2023,South,Louisiana,New Orleans,Fanta,$0.45 ,"3,250","$1,463 ",$585 ,40%
+West Soda,1128299,5/18/2023,South,Louisiana,New Orleans,Powerade,$0.40 ,"2,250",$900 ,$405 ,45%
+West Soda,1128299,5/18/2023,South,Louisiana,New Orleans,Dasani Water,$0.65 ,"5,750","$3,738 ","$1,308 ",35%
+West Soda,1128299,6/17/2023,South,Louisiana,New Orleans,Coca-Cola,$0.60 ,"8,250","$4,950 ","$1,980 ",40%
+West Soda,1128299,6/17/2023,South,Louisiana,New Orleans,Diet Coke,$0.70 ,"7,000","$4,900 ","$1,960 ",40%
+West Soda,1128299,6/17/2023,South,Louisiana,New Orleans,Sprite,$0.85 ,"7,000","$5,950 ","$2,380 ",40%
+West Soda,1128299,6/17/2023,South,Louisiana,New Orleans,Fanta,$0.85 ,"5,750","$4,888 ","$1,955 ",40%
+West Soda,1128299,6/17/2023,South,Louisiana,New Orleans,Powerade,$0.95 ,"4,500","$4,275 ","$1,924 ",45%
+West Soda,1128299,6/17/2023,South,Louisiana,New Orleans,Dasani Water,$1.10 ,"7,500","$8,250 ","$2,888 ",35%
+West Soda,1128299,7/16/2023,South,Louisiana,New Orleans,Coca-Cola,$0.90 ,"9,000","$8,100 ","$3,240 ",40%
+West Soda,1128299,7/16/2023,South,Louisiana,New Orleans,Diet Coke,$0.95 ,"7,500","$7,125 ","$2,850 ",40%
+West Soda,1128299,7/16/2023,South,Louisiana,New Orleans,Sprite,$0.95 ,"7,000","$6,650 ","$2,660 ",40%
+West Soda,1128299,7/16/2023,South,Louisiana,New Orleans,Fanta,$0.90 ,"6,000","$5,400 ","$2,160 ",40%
+West Soda,1128299,7/16/2023,South,Louisiana,New Orleans,Powerade,$0.95 ,"6,500","$6,175 ","$2,779 ",45%
+West Soda,1128299,7/16/2023,South,Louisiana,New Orleans,Dasani Water,$1.10 ,"6,500","$7,150 ","$2,503 ",35%
+West Soda,1128299,8/17/2023,South,Louisiana,New Orleans,Coca-Cola,$0.95 ,"8,500","$8,075 ","$3,230 ",40%
+West Soda,1128299,8/17/2023,South,Louisiana,New Orleans,Diet Coke,$0.85 ,"8,250","$7,013 ","$2,805 ",40%
+West Soda,1128299,8/17/2023,South,Louisiana,New Orleans,Sprite,$0.75 ,"7,000","$5,250 ","$2,100 ",40%
+West Soda,1128299,8/17/2023,South,Louisiana,New Orleans,Fanta,$0.75 ,"4,750","$3,563 ","$1,425 ",40%
+West Soda,1128299,8/17/2023,South,Louisiana,New Orleans,Powerade,$0.65 ,"4,750","$3,088 ","$1,389 ",45%
+West Soda,1128299,8/17/2023,South,Louisiana,New Orleans,Dasani Water,$0.70 ,"3,000","$2,100 ",$735 ,35%
+West Soda,1128299,9/18/2023,South,Louisiana,New Orleans,Coca-Cola,$0.45 ,"5,000","$2,250 ",$900 ,40%
+West Soda,1128299,9/18/2023,South,Louisiana,New Orleans,Diet Coke,$0.50 ,"5,000","$2,500 ","$1,000 ",40%
+West Soda,1128299,9/18/2023,South,Louisiana,New Orleans,Sprite,$0.45 ,"3,000","$1,350 ",$540 ,40%
+West Soda,1128299,9/18/2023,South,Louisiana,New Orleans,Fanta,$0.45 ,"2,500","$1,125 ",$450 ,40%
+West Soda,1128299,9/18/2023,South,Louisiana,New Orleans,Powerade,$0.55 ,"2,750","$1,513 ",$681 ,45%
+West Soda,1128299,9/18/2023,South,Louisiana,New Orleans,Dasani Water,$0.40 ,"3,000","$1,200 ",$420 ,35%
+West Soda,1128299,10/17/2023,South,Louisiana,New Orleans,Coca-Cola,$0.35 ,"4,000","$1,400 ",$560 ,40%
+West Soda,1128299,10/17/2023,South,Louisiana,New Orleans,Diet Coke,$0.50 ,"5,750","$2,875 ","$1,150 ",40%
+West Soda,1128299,10/17/2023,South,Louisiana,New Orleans,Sprite,$0.45 ,"4,000","$1,800 ",$720 ,40%
+West Soda,1128299,10/17/2023,South,Louisiana,New Orleans,Fanta,$0.40 ,"3,750","$1,500 ",$600 ,40%
+West Soda,1128299,10/17/2023,South,Louisiana,New Orleans,Powerade,$0.50 ,"3,500","$1,750 ",$788 ,45%
+West Soda,1128299,10/17/2023,South,Louisiana,New Orleans,Dasani Water,$0.55 ,"4,000","$2,200 ",$770 ,35%
+West Soda,1128299,11/17/2023,South,Louisiana,New Orleans,Coca-Cola,$0.40 ,"6,250","$2,500 ","$1,000 ",40%
