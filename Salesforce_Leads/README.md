@@ -19,9 +19,9 @@ This project demonstrates the process of **data entry and management of leads** 
 - **Manual Data Entry**: Ensuring accuracy and completeness of lead information.
 
 ## Dataset
-- **Raw Data (Entered Leads)**: [View Leads Data](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/custom_salesforce_leads_with_status.csv)
+- **Raw Data (Entered Leads)**: [View Leads Data](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Salesforce_Leads/custom_salesforce_leads_with_status.csv)
 - **Salesforce Leads**:
-  ![Salesforce Leads](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Sales%20force.PNG)
+  ![Salesforce Leads](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Salesforce_Leads/Sales%20force.PNG)
 
 ## Data Entry Process
 1. **Gathering Lead Information**: Data was sourced from external forms and previous customer interactions.
