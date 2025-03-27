@@ -31,7 +31,7 @@ https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main
 https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Excel_Dashboard/usa%20beverage%20dashboard%20new.PNG)
 
 ## Download Dataset & Dashboard
-- **Dataset (CSV Format)**: [Download Here](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Dashboard%20%20usa%20retail.csv)
+- **Dataset (CSV Format)**: [Download Here](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Excel_Dashboard/Dataset.csv)
 - **Sales Analysis CSV**: [Download Here](
 https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Excel_Dashboard/Analysis%20csv.csv)
 - **Excel Dashboard File**: [Download Here](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Excel_Dashboard/Dashboard%20usa.xlsx)
