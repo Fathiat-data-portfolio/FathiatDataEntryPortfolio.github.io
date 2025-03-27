@@ -43,7 +43,7 @@ The dataset originally consisted of **handwritten survey responses**. Through ma
 - **Entered Data After Processing**:
   The responses were digitized, structured, and formatted correctly for analysis.
   
-  [View Entered Data](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/survey_data.csv)
+  [View Entered Data](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Data_Entry_Survey%20Response/survey_data.csv)
 
 ### Key Data Entry Techniques:
 1. **Manual Data Entry with Validation** to prevent typographical errors.
