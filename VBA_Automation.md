@@ -1,16 +1,3 @@
-# VBA and MySQL Automation for Sales Form
-
-## Table of Contents
-1. [Data Structure and Overview](#data-structure-and-overview)
-2. [Tools](#tools)
-3. [Why VBA Automation?](#why-vba-automation)
-4. [Executive Summary](#executive-summary)
-5. [Insights Deep Dive](#insights-deep-dive)
-   - [Features Implemented](#features-implemented)
-   - [Key Functionalities](#key-functionalities)
-   - [Code Snippet for Fetching Data](#code-snippet-for-fetching-data)
-6. [Limitations](#limitations)
-7. [References](#references)
 
 ## Data Structure and Overview
 This project is an automated **Sales Form** built with **Excel VBA** and connected to **MySQL** using ODBC. The system allows users to **Insert, Update, Delete, and Refresh** customer records dynamically.
