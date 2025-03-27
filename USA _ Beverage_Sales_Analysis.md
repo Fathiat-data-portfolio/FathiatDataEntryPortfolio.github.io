@@ -1,4 +1,4 @@
-# Retail Beverage Sales Dashboard
+# USA Beverage Sales Analysis Dashboard
 
 ## Project Overview
 This project analyzes and visualizes beverage sales data across different brands and retailers in the USA. The dataset includes sales, units sold, operating profit, and pricing information. The main objective is to create a **dynamic Excel dashboard** that provides insights into sales trends, brand performance, and regional distribution.
@@ -18,23 +18,29 @@ The dataset contains:
 - **Sales Data** (Total Sales, Units Sold, Price per Unit)
 - **Operating Profit & Margins**
 
-## Tools Used
-- **Microsoft Excel**: Pivot tables, charts, formulas, and dashboard design
-- **Power Query**: Data transformation and cleaning
-
 ### **Dataset Preview**
-![Dataset Preview](images/usa_beverage_dataset.PNG)
+![Dataset Preview](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/usa%20beverage%20dataset.PNG)
 
 ### **Sales Analysis Report**
-![Sales Analysis](images/analysis_usa.PNG)
+![Sales Analysis](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/analysis%20usa.PNG)
 
 ### **Final Dashboard**
-![Dashboard](images/usa_dashboard_real.PNG)
+![Dashboard](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/usa%20beverage%20dashboard%20new.PNG)
+
+## Download Dataset & Dashboard
+- **Dataset (CSV Format)**: [Download Here](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Dashboard%20%20usa%20retail.csv)
+- **Sales Analysis CSV**: [Download Here](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Analysis%20csv.csv)
+- **Excel Dashboard File**: [Download Here](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Dashboard%20usa.xlsx)
 
 ## How to Use
-1. Open the `Dashboard Start.xlsx` file in **Excel**.
+1. Open the **Dashboard Excel file** in **Microsoft Excel**.
 2. Use the filters on the left panel to analyze sales data by region, year, or brand.
-3. Explore key insights from the charts and tables.
+3. Explore key insights from the **charts** and **tables**.
 
 ---
 This project showcases **data analysis, visualization, and dashboard creation** skills. 🚀
+
+
+
+
+
