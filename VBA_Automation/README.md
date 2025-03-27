@@ -83,3 +83,11 @@ End Sub
 
 ## Limitations
 - **Requires ODBC Driver Setup**: Users must configure ODBC on their machine.
+- **Limited Error Handling**: The form does not handle all exceptions, e.g., invalid data types.
+- **Single-user Operation**: Not optimized for concurrent users.
+
+## References
+- [VBA Documentation](https://docs.microsoft.com/en-us/office/vba/api/overview/excel)
+- [MySQL ODBC Connector](https://dev.mysql.com/doc/connector-odbc/en/)
+- [VBA with MySQL Tutorial](https://www.mysqltutorial.org/mysql-administration/odbc-driver-mysql/)
+
