@@ -19,8 +19,7 @@ The dataset contains:
 - **Operating Profit & Margins**
 
 ### **Dataset Preview**
-![Dataset Preview](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Excel_Dashboard/usa%20beverage%20dataset.PNG
-)
+![Dataset Preview](https://github.com/Fathiat-data-portfolio/Fathiat_Data_Entry_Portfolio/blob/main/Excel_Dashboard/usa%20beverage%20dataset.PNG)
 
 ### **Sales Analysis Report**
 ![Sales Analysis](
